@@ -3,4 +3,4 @@ _site
 Gemfile.lock
 *.gem
 .jekyll-cache
-places_been.R
+places.R
