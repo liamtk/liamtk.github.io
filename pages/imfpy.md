@@ -41,7 +41,7 @@ For example, `retrievals.dots` pulls data from the DoTS database including impor
 <p align="center">
 <img src="https://raw.githubusercontent.com/ltk2118/imfpy/main/img/usage5.png" style="zoom:80%;" />
 </p>
-  
+
 `tools` contains functions that conduct rudimentary analysis and visualization on the data returned by `retrievals` functions. For example, the `dotsplot` function transforms the result of `dots()` into time series plots.
 
 ```python
@@ -78,7 +78,7 @@ For example, `retrievals.dots` pulls data from the DoTS database including impor
 **Extras**
 
 * [IMF DoTS](https://data.imf.org/?sk=9D6028D4-F14A-464C-A2F2-59B2CD424B85)
-* [My website](https://ltk2118.github.io/home/)
+* [My website](https://liamtk.github.io)
 
 ## Contributing
 
