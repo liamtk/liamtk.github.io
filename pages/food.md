@@ -2,43 +2,25 @@
 
 ### Singapore
 
-- Balestier Road Hoover Rojak (Whampoa)
-
-- Banana Leaf Apolo (Race Course Road)
-
-- Beach Road Prawn Mee & Ngoh Hiang (East Coast)
-
-- Goldhill Hakka Restaurant (Eunos)
-
-- Habib's Indian Rojak (Ayer Rajah)
-
-- Hill Street Tai Hwa Pork Noodle (Crawford Lane)
-
-- Hjh Maimunah (Joo Chiat/Jalan Pisang)
-
-- Inspirasi Mee Rebus (Bedok)
-
-- Janggut Nyonya Laksa (Roxy Square)
-
-- Joo Chiat Place Fried Kway Teow (Joo Chiat)
-
-- Mei Heong Yuen Dessert (Chinatown)
-
-- Mei Wei Boneless Chicken Rice (Katong)
-
-- Mei Yuen Restaurant (Katong)
-
-- Nakhon Kitchen (Bedok North)
-
-- Old Airport Road Hawker Center (Dakota)
-
-- Peach Blossoms (Parkroyal Collection)
-
-- Rumah Minang Nasi Padang (Kandahar Road)
-
-- Swee Guan Hokkien Mee (Geylang Lor 29)
-
-- Holland Village XO Fish Head Bee Hoon (Dover)
+* Balestier Road Hoover Rojak (Whampoa)
+* Banana Leaf Apolo (Race Course Road)
+* Beach Road Prawn Mee & Ngoh Hiang (East Coast)
+* Goldhill Hakka Restaurant (Eunos)
+* Habib's Indian Rojak (Ayer Rajah)
+* Hill Street Tai Hwa Pork Noodle (Crawford Lane)
+* Hjh Maimunah (Joo Chiat/Jalan Pisang)
+* Inspirasi Mee Rebus (Bedok)
+* Janggut Nyonya Laksa (Roxy Square)
+* Joo Chiat Place Fried Kway Teow (Joo Chiat)
+* Mei Heong Yuen Dessert (Chinatown)
+* Mei Wei Boneless Chicken Rice (Katong)
+* Mei Yuen Restaurant (Katong)
+* Nakhon Kitchen (Bedok North)
+* Old Airport Road Hawker Center (Dakota)
+* Peach Blossoms (Parkroyal Collection)
+* Rumah Minang Nasi Padang (Kandahar Road)
+* Swee Guan Hokkien Mee (Geylang Lor 29)
+* Holland Village XO Fish Head Bee Hoon (Dover)
 
   
 
