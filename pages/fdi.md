@@ -1,6 +1,6 @@
 # Effects of Australian inward FDI: a time series approach
 
-> **View the full paper [here](pages/pages-assets/fdi/aus-ifdi.pdf).**
+> **View the full paper [here](pages-assets/fdi/aus-ifdi.pdf).**
 
 This paper examines the effects of inward FDI on economic growth, fixed capital
 formation, imports and exports for the case of Australia – an area where limited
