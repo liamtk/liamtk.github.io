@@ -15,10 +15,11 @@ I'm a Columbia [SIPA](https://www.sipa.columbia.edu/)-[QMSS](https://www.qmss.co
 1. Congressional Voting and Import Competition - [policy brief](pages/congress_trade.md)
 2. Partisanship in America through language - [Shiny app](https://newsapp-for-newsroom.shinyapps.io/partisanship-in-america/)
 3. `imfpy` - an intuitive API client for the IMF - [python package](pages/imfpy.md)
-4. Empirical analysis of municipal broadband restrictions - [policy memo](pages/broadband.md)
-5. Understanding COVID-19 misinformation - [NLP resources](pages/covid_misinfo.md)
-6. New measurements of inequalities in public transit accessibility - [Shiny app](https://ltk2118.shinyapps.io/nyc-transit/)
-7. Private sector participation in Europe's pivot from Russian gas - [report](pages/citi.md)
+4. Time series analysis of Australian inward FDI - [paper](pages/fdi.md)
+5. Empirical analysis of municipal broadband restrictions - [policy memo](pages/broadband.md)
+6. Understanding COVID-19 misinformation - [NLP resources](pages/covid_misinfo.md)
+7. New measurements of inequalities in public transit accessibility - [Shiny app](https://ltk2118.shinyapps.io/nyc-transit/)
+8. Private sector participation in Europe's pivot from Russian gas - [report](pages/citi.md)
 
 
 
