@@ -14,6 +14,6 @@ Based on a review of the solutions expected to contribute most to gas supply rep
 
 
 
-<iframe src="subpages_assets/citi/citi-plot.html" height="500px" width="100%" style="border:none;"></iframe>
+<iframe src="pages-assets/citi/citi-plot.html" height="500px" width="100%" style="border:none;"></iframe>
 
 *Many thanks to Professor James Guidera for advising this Capstone Project.*

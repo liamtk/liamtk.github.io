@@ -1,6 +1,6 @@
 # Municipal Broadband Restrictions
 
-A project completed for Columbia University's School of International and Public Affairs **SIPAU6614 Data Analysis for Policy Research using R**.
+A project completed for Columbia University's School of International and Public Affairs **SIPA U6614 Data Analysis for Policy Research using R**.
 
 > **View the Github Repo [here](https://github.com/ltk2118/broadband_connectivity).**
 
@@ -12,10 +12,10 @@ We utilize two datasets on tract-level internet access services connections (FCC
 
 Our empirical strategy is divided into two parts. First, we exploit an exogenous policy variation in Arkansas to estimate a Difference in Difference (DiD) model. Second, we employ panel regression techniques with state fixed effects and clustered standard errors. We find no evidence that severe municipal restrictions have an impact on the proportion of households with a broadband connection. Indeed, policy variation along this axis explains almost none of the variation in observed connectivity outcomes.
 
-## Contents
+### Contents
 
-1. Presentation (in .html - ioslides)
-2. Report (in .pdf and .Rmd)
-3. `census_pulls.R` - a function to retrieve data from through the American Community Survey (ACS) API.
+1. Presentation (ioslides)
+2. Report (.pdf and .rmd)
+3. `census_pulls.R` - a simple script to retrieve and parse data from the Census Bureau's API.
 4. `data_prep.R` - a script for data cleaning.
 5. Data files (county and tract connectivity data, and municipal broadband restrictiveness coding).

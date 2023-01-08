@@ -9,5 +9,5 @@ The central question of this research is the following - what is the effect of g
 
 The effect is robust to a full set of controls when estimated with OLS and probit. I find evidence of an effect that persists from the 108th to the 112th Congress. Further, there is evidence of a partisan divide in the voting response, which is more strongly negative for Republicans.
 
-The policy brief may be accessed [here](subpages_assets/import-comp/Import-Competition-and-Congressional-Voting.pdf), along with presentation [slides](subpages_assets/import-comp/Import-Competition-and-Congressional-Voting-Slides.pdf).
+The policy brief may be accessed [here](pages-assets/import-comp/Import-Competition-and-Congressional-Voting.pdf), along with presentation [slides](pages-assets/import-comp/Import-Competition-and-Congressional-Voting-Slides.pdf).
 

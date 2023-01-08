@@ -7,7 +7,7 @@
 - Hjh Maimunah (Joo Chiat/Jalan Pisang)
 - Rumah Minang Nasi Padang (Kandahar Road)
 - Habib's Indian Rojak (Ayer Rajah)
-- Hill Street Tai Hwa Pork Noodle (Bak Chor Mee)
+- Hill Street Tai Hwa Pork Noodle (Crawford Lane)
 - Katong Mei Wei Boneless Chicken Rice
 - Old Airport Road Hawker Center (Dakota)
 - Janggut Nyonya Laksa (Roxy Square)
