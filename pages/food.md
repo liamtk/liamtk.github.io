@@ -2,58 +2,101 @@
 
 ### Singapore
 
-- Beach Road Prawn Mee & Ngoh Hiang (East Coast)
-- Peach Blossoms (Parkroyal Collection)
-- Hjh Maimunah (Joo Chiat/Jalan Pisang)
-- Rumah Minang Nasi Padang (Kandahar Road)
-- Habib's Indian Rojak (Ayer Rajah)
-- Hill Street Tai Hwa Pork Noodle (Crawford Lane)
-- Katong Mei Wei Boneless Chicken Rice
-- Old Airport Road Hawker Center (Dakota)
-- Janggut Nyonya Laksa (Roxy Square)
-- Banana Leaf Apolo (Race Course Road)
-- Inspirasi Mee Rebus (Bedok)
-- Swee Guan Hokkien Mee (Geylang Lor 29)
-- Mei Heong Yuen Dessert (Chinatown)
-- Holland Village XO Fish Head Bee Hoon (Dover)
 - Balestier Road Hoover Rojak (Whampoa)
+
+- Banana Leaf Apolo (Race Course Road)
+
+- Beach Road Prawn Mee & Ngoh Hiang (East Coast)
+
+- Goldhill Hakka Restaurant (Eunos)
+
+- Habib's Indian Rojak (Ayer Rajah)
+
+- Hill Street Tai Hwa Pork Noodle (Crawford Lane)
+
+- Hjh Maimunah (Joo Chiat/Jalan Pisang)
+
+- Inspirasi Mee Rebus (Bedok)
+
+- Janggut Nyonya Laksa (Roxy Square)
+
+- Joo Chiat Place Fried Kway Teow (Joo Chiat)
+
+- Mei Heong Yuen Dessert (Chinatown)
+
+- Mei Wei Boneless Chicken Rice (Katong)
+
+- Mei Yuen Restaurant (Katong)
+
 - Nakhon Kitchen (Bedok North)
+
+- Old Airport Road Hawker Center (Dakota)
+
+- Peach Blossoms (Parkroyal Collection)
+
+- Rumah Minang Nasi Padang (Kandahar Road)
+
+- Swee Guan Hokkien Mee (Geylang Lor 29)
+
+- Holland Village XO Fish Head Bee Hoon (Dover)
+
+  
 
 ### New York
 
-* Dhamaka (Lower East Side)
-* Kono (Bowery)
-* Sichuan Mountain House (Saint Marks)
 * Abuqir Seafood (Astoria)
 * Al Sham Sweets & Pastries (Astoria)
-* Birria-Landia (Jackson Heights)
-* Los Tacos No. 1 (Chelsea/Times Square)
-* Peter Luger Steak House (Williamsburg)
 * Awang Kitchen (Elmhurst)
-* Sabay (Elmhurst)
-* BCD Tofu House (Koreatown)
-* Temple Canteen (Flushing)
-* Yin Ji Chang Fen (Chinatown)
-* Oda House (Upper East Side)
-* JG Melon (Upper East Side)
 * Banh (Morningside)
+* BCD Tofu House (Koreatown)
+* Birria-Landia (Jackson Heights)
+* Dhamaka (Lower East Side)
+* JG Melon (Upper East Side)
+* Keens Steakhouse (Midtown South
+* Kono (Bowery)
+* Los Tacos No. 1 (Chelsea/Times Square)
 * Melba's (Harlem)
+* Oda House (Upper East Side)
+* Sabay (Elmhurst)
+* Sichuan Mountain House (Saint Marks)
+* Temple Canteen (Flushing)
+* The Four Horsemen (Williamsburg)
+* Uluh (Saint Marks)
+* Yin Ji Chang Fen (Chinatown)
+
+
 
 ### Perth
 
-* Manuka Woodfire (Fremantle)
-* Kailis Bros (Fremantle)
-* Bread in Common (Fremantle)
-* Monsterella (Wembley)
-* Nao Japanese Ramen (CBD)
-* UMA (CBD)
-* Wildflower (CBD)
-* Tra Vinh (Northbridge)
-* The Prophet (Victoria Park)
-* Fortune Five (Northbridge)
 * Authentic Bites (Northbridge)
+* Bread in Common (Fremantle)
+* Coogee Common (Coogee)
+* Fortune Five (Northbridge)
 * Jean-Claude Patisserie (Subiaco)
+* Kailis Bros (Fremantle)
 * Louis Bogelin Patisserie (Subiaco)
 * Lulu La Delizia (Subiaco)
-* Coogee Common (Coogee)
+* Manuka Woodfire (Fremantle)
+* Juniper & Bay (Como)
+* Monsterella (Wembley)
+* Nao Japanese Ramen (CBD)
+* Tra Vinh (Northbridge)
+* The Prophet (Victoria Park)
+* UMA (CBD)
+* Wildflower (CBD)
 
+
+
+### Others
+
+* Canni & Pisci (Catania, Italy)
+* Cappadonia Gelati (Palermo, Italy)
+* Deens Maju Nasi Kandar (Penang, Malaysia)
+* El Rinconcillo (Seville, Spain)
+* Jin Ding Xuan (Beijing, China)
+* Maido (Lima, Peru)
+* Old Neptune (Macau, China)
+* Shan Yoe Yar (Yangon, Myanmar)
+* Sweet Circle (Bangkok, Thailand)
+* Quintonil (CDMX, Mexico)
+* Waipojia (Hangzhou, China)
