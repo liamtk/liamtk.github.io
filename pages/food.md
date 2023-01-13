@@ -66,19 +66,3 @@
 * The Prophet (Victoria Park)
 * UMA (CBD)
 * Wildflower (CBD)
-
-
-
-### Others
-
-* Canni & Pisci (Catania, Italy)
-* Cappadonia Gelati (Palermo, Italy)
-* Deens Maju Nasi Kandar (Penang, Malaysia)
-* El Rinconcillo (Seville, Spain)
-* Jin Ding Xuan (Beijing, China)
-* Maido (Lima, Peru)
-* Old Neptune (Macau, China)
-* Shan Yoe Yar (Yangon, Myanmar)
-* Sweet Circle (Bangkok, Thailand)
-* Quintonil (CDMX, Mexico)
-* Waipojia (Hangzhou, China)
