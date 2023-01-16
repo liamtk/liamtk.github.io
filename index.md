@@ -26,58 +26,37 @@ I'm a Columbia [SIPA](https://www.sipa.columbia.edu/)-[QMSS](https://www.qmss.co
 ## Projects
 
 <div class="tabs">
-  <button class="tab-btn" onclick="openTab(event, 'Data Science')">Data Science</button>
-  <button class="tab-btn" onclick="openTab(event, 'Economics')">Economics</button>
-  <button class="tab-btn" onclick="openTab(event, 'Political Economy')">Political Economy</button>
-</div>
-<div id="Data Science" class="tab-content">
-  <h4>Data Science</h4>
-  <p>Content for Data Science goes here.</p>
-  	<ol>
-  <li>Congressional Voting and Import Competition - <a href="pages/congress_trade.md">policy brief</a></li>
-  <li>Partisanship in America through language - <a href="https://newsapp-for-newsroom.shinyapps.io/partisanship-in-america/">Shiny app</a></li>
-  <li>`imfpy` - an intuitive API client for the IMF - <a href="pages/imfpy.md">python package</a></li>
-  <li>Time series analysis of Australian inward FDI - <a href="pages/fdi.md">paper</a></li>
-  <li>Empirical analysis of municipal broadband restrictions - <a href="pages/broadband.md">policy memo</a></li>
-  <li>Understanding COVID-19 misinformation - <a href="pages/covid_misinfo.md">NLP resources</a></li>
-  <li>New measurements of inequalities in public transit accessibility - <a href="https://ltk2118.shinyapps.io/nyc-transit/">Shiny app</a></li>
-  <li>Private sector participation in Europe's pivot from Russian gas - <a href="pages/citi.md">report</a></li>
-</ol>
-
-
+  <button id="defaultOpen" class="tab-btn active" onclick="openTab(event, 'Data science and visualization')">Data science and visualization</button>
+  <button class="tab-btn" onclick="openTab(event, 'Applied econometrics')">Applied econometrics</button>
+  <button class="tab-btn" onclick="openTab(event, 'Political economy')">Political economy</button>
 </div>
 
-<div id="Economics" class="tab-content">
-  <h4>Economics</h4>
-  <p>Content for Economics goes here.</p>
-      	<ol>
-  <li>Congressional Voting and Import Competition - <a href="pages/congress_trade.md">policy brief</a></li>
-  <li>Partisanship in America through language - <a href="https://newsapp-for-newsroom.shinyapps.io/partisanship-in-america/">Shiny app</a></li>
-  <li>`imfpy` - an intuitive API client for the IMF - <a href="pages/imfpy.md">python package</a></li>
-  <li>Time series analysis of Australian inward FDI - <a href="pages/fdi.md">paper</a></li>
-  <li>Empirical analysis of municipal broadband restrictions - <a href="pages/broadband.md">policy memo</a></li>
-  <li>Understanding COVID-19 misinformation - <a href="pages/covid_misinfo.md">NLP resources</a></li>
-  <li>New measurements of inequalities in public transit accessibility - <a href="https://ltk2118.shinyapps.io/nyc-transit/">Shiny app</a></li>
-  <li>Private sector participation in Europe's pivot from Russian gas - <a href="pages/citi.md">report</a></li>
-</ol>
+<div id="Data science and visualization" class="tab-content" style="margin-top: 20px">
+  <h4>Data science and visualization</h4>
+  <ol>
+    <li><a href="pages/imfpy.html">`imfpy` - an intuitive API client for the IMF</a></li>
+    <li><a href="pages/covid_misinfo.html">Understanding COVID-19 misinformation</a></li>
+    <li><a href="pages/wikihate.html">Understanding far-right networks using Wikipedia data</a></li>
+    <li>Flood classification and damage assessments using satellite data</li>
+  </ol>
 </div>
 
-<div id="Political Economy" class="tab-content">
-  <h4>Political Economy</h4>
-  <p>Content for Political Economy goes here.</p>
-      	<ol>
-  <li>Congressional Voting and Import Competition - <a href="pages/congress_trade.md">policy brief</a></li>
-  <li>Partisanship in America through language - <a href="https://newsapp-for-newsroom.shinyapps.io/partisanship-in-america/">Shiny app</a></li>
-  <li>`imfpy` - an intuitive API client for the IMF - <a href="pages/imfpy.md">python package</a></li>
-  <li>Time series analysis of Australian inward FDI - <a href="pages/fdi.md">paper</a></li>
-  <li>Empirical analysis of municipal broadband restrictions - <a href="pages/broadband.md">policy memo</a></li>
-  <li>Understanding COVID-19 misinformation - <a href="pages/covid_misinfo.md">NLP resources</a></li>
-  <li>New measurements of inequalities in public transit accessibility - <a href="https://ltk2118.shinyapps.io/nyc-transit/">Shiny app</a></li>
-  <li>Private sector participation in Europe's pivot from Russian gas - <a href="pages/citi.md">report</a></li>
-</ol>
+<div id="Applied econometrics" class="tab-content" style="margin-top: 20px">
+  <h4>Applied econometrics</h4>
+  <ol>
+<li><a href="https://ltk2118.shinyapps.io/nyc-transit/">New measurements of inequalities in public transit accessibility</a></li>
+    <li><a href="pages/fdi.html">Time series analysis of Australian inward FDI</a></li>
+    <li><a href="pages/broadband.html">Empirical analysis of municipal broadband restrictions</a></li>
+  </ol>
 </div>
-
-
+<div id="Political economy" class="tab-content" style="margin-top: 20px">
+  <h4>Political economy</h4>
+  <ol>
+    <li><a href="pages/congress_trade.html">Congressional Voting and Import Competition</a></li>
+    <li><a href="https://newsapp-for-newsroom.shinyapps.io/partisanship-in-america/">Partisanship in America through language</a></li>
+    <li><a href="pages/citi.html">Private sector participation in Europe's pivot from Russian gas</a></li>
+  </ol>
+</div>
 <script>
   function openTab(evt, tabName) {
     var i, tabcontent, tablinks;
@@ -92,9 +71,9 @@ I'm a Columbia [SIPA](https://www.sipa.columbia.edu/)-[QMSS](https://www.qmss.co
     document.getElementById(tabName).style.display = "block";
     evt.currentTarget.className += " active";
   }
+  // Get the element with id="defaultOpen" and click on it
+  document.getElementById("defaultOpen").click();
 </script>
-
-
 
 ### Current Positions
 
