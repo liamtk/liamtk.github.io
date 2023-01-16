@@ -8,9 +8,9 @@ The Peranakans are a multiracial community with a large diaspora across many mod
 
 ### Why is our cuisine so unique?
 
-Peranakan (Nyonya) [cuisine](https://www.cnn.com/travel/article/peranakan-nyonya-food-intl-hnk/index.html) is the result of the centuries of natural transformation and [fusion]() between Chinese and Malay culinary traditions. Our cuisine is distinct from contemporary Malaysian cuisine, and the Eight Great Traditions (八大菜系) of Chinese cuisine. It combines ingredients, techniques and ideas of Chinese, Malay, Javanese, South Indian repertoires. There is no one dominant flavor profile -- tangy, spicy, herbal, umami all feature in some way. Our most well-known dish internationally is laksa, but there is so, so much more.
+Peranakan (Nyonya) [cuisine](https://www.cnn.com/travel/article/peranakan-nyonya-food-intl-hnk/index.html) is the result of the centuries of natural transformation and [fusion]() between Chinese and Malay culinary traditions. Our cuisine is distinct from contemporary Malaysian cuisine, and the Eight Great Traditions (八大菜系) of Chinese cuisine. It combines ingredients, techniques and ideas of Chinese, Malay, Javanese, South Indian repertoires. There is no one dominant flavor profile -- tangy, spicy, herbal, umami all feature in some way. Our most well-known dish internationally is [laksa](https://www.scmp.com/magazines/style/travel-food/article/3021158/singapore-laksa-vs-nyonya-laksa-which-original-and-how) (and [kuehs](https://johorkaki.blogspot.com/2021/05/history-origins-of-different-types-of.html) may have gained some notoriety from the film Crazy Rich Asians) but there is so much more.
 
-**Key ingredients include the following:**
+### What are our main ingredients?
 
 * Asam chwee (tamarind water)
 * Bee hoon (米线) - rice vermicelli noodles 
@@ -22,7 +22,7 @@ Peranakan (Nyonya) [cuisine](https://www.cnn.com/travel/article/peranakan-nyonya
 * Coriander seeds/powder (ketumbar)
 * Dried chilli paste
 * Fresh turmeric (kunyit)
-* Fresh Galangal (lengkuas)
+* Fresh galangal (lengkuas)
 * Gula melaka (coconut flower palm sugar)
 * Hae bi (虾米) - dried small shrimps
 * Hae ko (虾酱) - sweet shrimp paste
@@ -32,34 +32,52 @@ Peranakan (Nyonya) [cuisine](https://www.cnn.com/travel/article/peranakan-nyonya
 * Lemongrass (Serai)
 * Light and dark soy sauces (生抽、老抽)
 * Pandan leaf 
-* Pulut (glutinous rice) - for cakes ([kuehs](https://johorkaki.blogspot.com/2021/05/history-origins-of-different-types-of.html))
-* Tau Cheo or Taucu (豆酱) - fermented bean paste
+* Pulut (glutinous rice) - for kuehs
+* Tau cheo or taucu (豆酱) - fermented bean paste
 
 ### Family recipes
 
-Below are some dishes that are made regularly in my family. Note that Peranakan cuisine is extensive, so a single family might only cook 10-20% of the repertoire and specialize in a few dishes. Each family is also likely to have its unique take on the dishes it does cook. 
+Below are some dishes that are made regularly in my family. Note that Peranakan cuisine is extensive, so a single family might cook 10-20% of the repertoire and specialize in only a few dishes. Each family is also likely to have a unique take on the dishes it does cook. 
 
-You are welcome to ask me for recipes, though I might not give a straightforward answer (as my grandmother constantly reminds me, "[agak agak](https://medium.com/inaclaypot/agak-agak-51c65d459a6e)" or intuition is the basis of most of these dishes). For dishes not listed here, I will probably be able to point you toward someone with the appropriate specialist knowledge. There are, however, several Peranakan recipe shraing groups on Facebook which I encourage you to join if you are interested in our cuisine.
+Over time, I'm attempting to compile recipes for most of these dishes (there is still much work to be done). One should bear in mind that "[agak agak](https://medium.com/inaclaypot/agak-agak-51c65d459a6e)" (intuition) is the guiding principle of most of our cooking, and there are no singular "correct" recipes with exact measurements. It is more an art than a science, and the goal should be to strive for balance of flavor in each dish. 
 
 * **Achar** - pickled cabbage, cucumber, and carrots
 * **Ang (lek) tau tng** - sweet red (green) bean soup with miniature rice balls
 * **Ayam pongteh** - chicken and potato stew with fermented bean sauce and palm sugar
+<<<<<<< HEAD
+
+* **[Ayam sioh](recipes/ayam-sioh.md)** - chicken with coriander and tamarind
+
+=======
 * **Ayam sioh** - chicken with coriander and palm sugar
+>>>>>>> 7193ed77082517325152e15346b903d4f2e415e7
 * **Babi asam** - spicy pork stew with tamarind juice 
 * **Bak chang (肉粽)** - our take on Chinese zongzi, made with butterfly pea flower and coriander seeds
 * **Buah keluak** - pangium seeds cooked with a basic rempah (spice paste), served as a side dish with rice
 * **Chap chye** - stewed vegetables (cabbage, shiitake mushroom, carrot and black fungus) with lily buds and beancurd skin
 * **Ikan asam pedas nenas** - tangy and spicy fish curry with pineapple
 * **Kaya** - coconut and egg jam, served with toast and butter
+<<<<<<< HEAD
+
+* **Kiam chye tng** **(咸菜汤)** - sour vegetable soup with pork bones and tamarind, eaten with sambal belacan (hot chilli)
+
+=======
 * **Kiam Chye Tng** **(咸菜汤)** - sour vegetable soup with pork bones and tamarind, eaten with sambal belacan (hot chilli)
+>>>>>>> 7193ed77082517325152e15346b903d4f2e415e7
 * **Kuah hee pio** - fish maw soup with cabbage and pork balls 
 * **Kueh pie tee** - pastry shells with jicama and shrimp filling
 * **Kueh salat** - blue pea glutinous rice and pandan cake
+<<<<<<< HEAD
+
+* **Mee siam** - tangy vermicelli noodles with shrimp, egg and chives
+
+=======
 * **Mee Siam** - tangy vermicelli noodles with shrimp, egg and chives
+>>>>>>> 7193ed77082517325152e15346b903d4f2e415e7
 * **Nyonya Hokkien mee** - light sauce noodles with an egg gravy
 * **Popiah (薄餅)** - rolled crepe with jicama, peanut, shrimp and bean sprout filling
 
-
+For dishes not listed here, I might be able to point you toward someone with the appropriate specialist knowledge. There are, however, several Peranakan recipe sharing groups on Facebook which I encourage you to join if you are interested in the cuisine more broadly.
 
 *My grandmother, Shirley Tay (nee Cheong) - below - taught me most of these recipes. I am working to document and preserve her knowledge, and bring awareness of Peranakan cuisine to a wider audience.*
 
