@@ -13,12 +13,12 @@ View the full report **<u>[here](pages-assets/wikihate/JKLSS-report.pdf)</u>** a
 
 
 <div style="display: flex; justify-content: center; align-items: center;">
-  <div style="display: inline-block; margin-right: 20px;">
-    <img src="pages-assets/img/snaplot.png" style="width: 350px; height: 350px;">
+  <div style="display: inline-block; margin-right: 50px;">
+    <img src="pages-assets/img/snaplot.png" style="width: 300px; height: 300px;">
     <p style="text-align: center; font-weight: bold;">Persons by in-degree</p>
   </div>
   <div style="display: inline-block;">
-    <img src="pages-assets/img/snaplot2.png" style="width: 350px; height: 350px;">
+    <img src="pages-assets/img/snaplot2.png" style="width: 300px; height: 300px;">
     <p style="text-align: center; font-weight: bold;">Organizations by out-degree</p>
   </div>
 </div>
