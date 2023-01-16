@@ -10,7 +10,7 @@ I'm a Columbia [SIPA](https://www.sipa.columbia.edu/)-[QMSS](https://www.qmss.co
 
 
 
-## Projects
+### Projects
 
 <head>
     <style>
@@ -72,10 +72,10 @@ I'm a Columbia [SIPA](https://www.sipa.columbia.edu/)-[QMSS](https://www.qmss.co
 
 ### Experience
 
-- **Research Analyst - Geospatial Data** - University of Pennsylvania Graduate School of Education (GSE) - Amalia Dache and Harold Stolper (2022-present)
+- **Research Analyst - Geospatial Data** - University of Pennsylvania Graduate School of Education (GSE) - (2022-present)
 
 * **Graduate Consultant** - Citi Global Wealth (2022)
-* **Research Assistant, Data Science and Public Policy** - Columbia University School of International and Public Affairs (SIPA) - *A Research Agenda for Trade Policy* - Sharyn O'Halloran (2021-22)
+* **Research Assistant, Data Science and Public Policy** - Columbia SIPA - Sharyn O'Halloran (2021-22)
 * **Teaching Assistant, R for Policy Analysis** - Columbia SIPA (2021-22)
 * **Australian Embassy, Beijing** - Public Affairs Assistant (2019)
 * **United Nations Capital Development Fund** - Junior Research Analyst (2017)
@@ -109,7 +109,7 @@ I am most comfortable/skilled in data mining with **R**, **Python**, **SQL** and
 ### Hobbies
 
 * **Cooking** - from my [Peranakan](pages/peranakan.md) heritage
-* **Eating** - here are some [favourites](pages/food.md)
+* **Eating** - here are some [favourite destinations](pages/food.md)
 * **Travelling** - here are some [places](pages/places.md) I've visited
-* **Jazz piano** - my favourite [records](pages/records.md)
+* **Jazz** - my favourite [records](pages/records.md), I am also an amateur jazz pianist
 
