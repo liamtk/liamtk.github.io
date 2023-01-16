@@ -12,19 +12,6 @@ I'm a Columbia [SIPA](https://www.sipa.columbia.edu/)-[QMSS](https://www.qmss.co
 
 ### Projects
 
-1. Congressional Voting and Import Competition - [policy brief](pages/congress_trade.md)
-2. Partisanship in America through language - [Shiny app](https://newsapp-for-newsroom.shinyapps.io/partisanship-in-america/)
-3. `imfpy` - an intuitive API client for the IMF - [python package](pages/imfpy.md)
-4. Time series analysis of Australian inward FDI - [paper](pages/fdi.md)
-5. Empirical analysis of municipal broadband restrictions - [policy memo](pages/broadband.md)
-6. Understanding COVID-19 misinformation - [NLP resources](pages/covid_misinfo.md)
-7. New measurements of inequalities in public transit accessibility - [Shiny app](https://ltk2118.shinyapps.io/nyc-transit/)
-8. Private sector participation in Europe's pivot from Russian gas - [report](pages/citi.md)
-
-
-
-## Projects
-
 <head>
     <style>
         .tab-btn.active {
@@ -41,26 +28,26 @@ I'm a Columbia [SIPA](https://www.sipa.columbia.edu/)-[QMSS](https://www.qmss.co
 <div id="Data science and visualization" class="tab-content" style="margin-top: 20px">
   <h4>Data science and visualization</h4>
   <ol>
-    <li><a href="pages/imfpy.html">`imfpy` - an intuitive API client for the IMF</a></li>
-    <li><a href="pages/covid_misinfo.html">Understanding COVID-19 misinformation</a></li>
-    <li><a href="pages/wikihate.html">Understanding far-right networks using Wikipedia data</a></li>
-    <li>Flood classification and damage assessments using satellite data</li>
+    <li><code>imfpy</code> - an intuitive API client for the IMF - <a href="pages/imfpy.html">python package</a></li>
+    <li>Understanding COVID-19 misinformation - <a href="pages/covid_misinfo.html">NLP resources</a></li>
+    <li>Understanding far-right networks using Wikipedia data - <a href="pages/wikihate.html">paper</a></li>
+    <li>Flood classification and damage assessments using satellite data - <a href="pages/floodai.html">presentation</a></li>
   </ol>
 </div>
 <div id="Applied econometrics" class="tab-content" style="margin-top: 20px">
   <h4>Applied econometrics</h4>
   <ol>
-<li><a href="https://ltk2118.shinyapps.io/nyc-transit/">New measurements of inequalities in public transit accessibility</a></li>
-    <li><a href="pages/fdi.html">Time series analysis of Australian inward FDI</a></li>
-    <li><a href="pages/broadband.html">Empirical analysis of municipal broadband restrictions</a></li>
+<li>New measurements of inequalities in public transit accessibility - <a href="https://ltk2118.shinyapps.io/nyc-transit/">Shiny app</a></li>
+    <li>Time series analysis of Australian inward FDI - <a href="pages/fdi.html">paper</a></li>
+    <li>Empirical analysis of municipal broadband restrictions - <a href="pages/broadband.html">policy memo</a></li>
   </ol>
 </div>
 <div id="Political economy" class="tab-content" style="margin-top: 20px">
   <h4>Political economy</h4>
   <ol>
-    <li><a href="pages/congress_trade.html">Congressional Voting and Import Competition</a></li>
-    <li><a href="https://newsapp-for-newsroom.shinyapps.io/partisanship-in-america/">Partisanship in America through language</a></li>
-    <li><a href="pages/citi.html">Private sector participation in Europe's pivot from Russian gas</a></li>
+    <li>Congressional Voting and Import Competition - <a href="pages/congress_trade.html">policy brief</a></li>
+    <li>Partisanship in America through language - <a href="https://newsapp-for-newsroom.shinyapps.io/partisanship-in-america/">Shiny app</a></li>
+    <li>Private sector participation in Europe's pivot from Russian gas - <a href="pages/citi.html">report</a></li>
   </ol>
 </div>
 <script>
@@ -83,12 +70,29 @@ I'm a Columbia [SIPA](https://www.sipa.columbia.edu/)-[QMSS](https://www.qmss.co
 
 
 
-
-
 ### Current Positions
 
-1. **Research Assistant** - Columbia University School of International and Public Affairs (SIPA) - *A Research Agenda for Trade Policy* - Sharyn O'Halloran and Thomas Groll
-2. **GIS Data Analyst** - University of Pennsylvania Graduate School of Education (GSE) - Amalia Dache and Harold Stolper
+- **Research Assistant** - Columbia University School of International and Public Affairs (SIPA) - *A Research Agenda for Trade Policy* - Sharyn O'Halloran and Thomas Groll
+- **GIS Data Analyst** - University of Pennsylvania Graduate School of Education (GSE) - Amalia Dache and Harold Stolper
+
+
+
+### Past Experience
+
+* **Graduate Consultant** - Citi Global Wealth
+* **Teaching Assistant, R for Policy Analysis** - Columbia SIPA
+* **Australian Embassy, Beijing** - Public Affairs Assistant
+* **United Nations Capital Development Fund** - Junior Research Analyst
+* **Internships** - Asia Society Policy Institute (Washington), KPMG Global China Practice (Beijing), Westpac Treasury (Sydney)
+
+
+
+### Qualifications
+
+1. **Master of International Affairs** - Economic Policy ([Columbia SIPA](https://www.sipa.columbia.edu/))
+2. **Master of Arts** - Applied Data Science ([Columbia QMSS](https://www.qmss.columbia.edu/))
+3. **Bachelor of Philosophy (Hons)** - Economics, Finance ([UWA](https://www.uwa.edu.au/study/courses/bachelor-of-philosophy))
+4. **Diploma of Interpreting** - Chinese-English ([AIWT](https://www.aiwt.edu.au/courses/psp50916-diploma-of-interpreting-lote-english/))
 
 
 
@@ -106,28 +110,10 @@ I am most comfortable/skilled in data mining with **R**, **Python**, **SQL** and
 
 
 
-### Qualifications
-
-1. **Master of International Affairs** - Economic Policy ([Columbia SIPA](https://www.sipa.columbia.edu/))
-2. **Master of Arts** - Applied Data Science ([Columbia QMSS](https://www.qmss.columbia.edu/))
-3. **Bachelor of Philosophy (Hons)** - Economics, Finance ([UWA](https://www.uwa.edu.au/study/courses/bachelor-of-philosophy))
-4. **Diploma of Interpreting** - Chinese-English ([AIWT](https://www.aiwt.edu.au/courses/psp50916-diploma-of-interpreting-lote-english/))
-
-
-
-### Experience
-
-* **Graduate Consultant** - Citi Global Wealth
-* **Teaching Assistant, R for Policy Analysis** - Columbia SIPA
-* **Australian Embassy, Beijing** - Public Affairs Assistant
-* **United Nations Capital Development Fund** - Junior Research Analyst
-* **Internships** - Asia Society Policy Institute (Washington), KPMG Global China Practice (Beijing), Westpac Treasury (Sydney)
-
-
-
 ### Hobbies
 
-* **Cooking** - from my [Peranakan](pages/peranakan.md) heritage!
-* **Eating** - here are some [favourites](pages/food.md).
-* **Travelling** - here are some [places](pages/places.md) I've visited around the world.
+* **Cooking** - from my [Peranakan](pages/peranakan.md) heritage
+* **Eating** - here are some [favourites](pages/food.md)
+* **Travelling** - here are some [places](pages/places.md) I've visited
+* **Jazz piano** - my favourite [records](pages/records.md)
 
