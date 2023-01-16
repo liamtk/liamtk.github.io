@@ -44,9 +44,7 @@ Over time, I'm attempting to compile recipes for most of these dishes (there is 
 * **Achar** - pickled cabbage, cucumber, and carrots
 * **Ang (lek) tau tng** - sweet red (green) bean soup with miniature rice balls
 * **Ayam pongteh** - chicken and potato stew with fermented bean sauce and palm sugar
-
 * **[Ayam sioh](recipes/ayam-sioh.md)** - chicken with coriander and tamarind
-
 * **Ayam sioh** - chicken with coriander and palm sugar
 * **Babi asam** - spicy pork stew with tamarind juice 
 * **Bak chang (肉粽)** - our take on Chinese zongzi, made with butterfly pea flower and coriander seeds
@@ -54,16 +52,11 @@ Over time, I'm attempting to compile recipes for most of these dishes (there is 
 * **Chap chye** - stewed vegetables (cabbage, shiitake mushroom, carrot and black fungus) with lily buds and beancurd skin
 * **Ikan asam pedas nenas** - tangy and spicy fish curry with pineapple
 * **Kaya** - coconut and egg jam, served with toast and butter
-
 * **Kiam chye tng** **(咸菜汤)** - sour vegetable soup with pork bones and tamarind, eaten with sambal belacan (hot chilli)
-
 * **Kuah hee pio** - fish maw soup with cabbage and pork balls 
-
 * **Kueh pie tee** - pastry shells with jicama and shrimp filling
 * **Kueh salat** - blue pea glutinous rice and pandan cake
 * **Mee siam** - tangy vermicelli noodles with shrimp, egg and chives
-
-
 * **Nyonya Hokkien mee** - light sauce noodles with an egg gravy
 * **Popiah (薄餅)** - rolled crepe with jicama, peanut, shrimp and bean sprout filling
 
