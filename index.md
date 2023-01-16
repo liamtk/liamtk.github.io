@@ -25,12 +25,19 @@ I'm a Columbia [SIPA](https://www.sipa.columbia.edu/)-[QMSS](https://www.qmss.co
 
 ## Projects
 
+<head>
+    <style>
+        .tab-btn.active {
+            background-color: #ddd;
+            color: black;
+        }
+    </style>
+</head>
 <div class="tabs">
   <button id="defaultOpen" class="tab-btn active" onclick="openTab(event, 'Data science and visualization')">Data science and visualization</button>
   <button class="tab-btn" onclick="openTab(event, 'Applied econometrics')">Applied econometrics</button>
   <button class="tab-btn" onclick="openTab(event, 'Political economy')">Political economy</button>
 </div>
-
 <div id="Data science and visualization" class="tab-content" style="margin-top: 20px">
   <h4>Data science and visualization</h4>
   <ol>
@@ -40,7 +47,6 @@ I'm a Columbia [SIPA](https://www.sipa.columbia.edu/)-[QMSS](https://www.qmss.co
     <li>Flood classification and damage assessments using satellite data</li>
   </ol>
 </div>
-
 <div id="Applied econometrics" class="tab-content" style="margin-top: 20px">
   <h4>Applied econometrics</h4>
   <ol>
@@ -74,6 +80,10 @@ I'm a Columbia [SIPA](https://www.sipa.columbia.edu/)-[QMSS](https://www.qmss.co
   // Get the element with id="defaultOpen" and click on it
   document.getElementById("defaultOpen").click();
 </script>
+
+
+
+
 
 ### Current Positions
 
