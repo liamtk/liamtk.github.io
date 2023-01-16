@@ -110,5 +110,5 @@ I am most comfortable/skilled in data mining with **R**, **Python**, **SQL** and
 * **Cooking** - from my [Peranakan](pages/peranakan.md) heritage
 * **Eating** - here are some [favourite destinations](pages/food.md)
 * **Travelling** - here are some [places](pages/places.md) I've visited
-* **Jazz** - my favourite [records](pages/records.md), I am also an amateur jazz pianist
+* **Jazz** - am an aspiring (amateur) jazz pianist
 
