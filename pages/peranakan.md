@@ -44,36 +44,26 @@ Over time, I'm attempting to compile recipes for most of these dishes (there is 
 * **Achar** - pickled cabbage, cucumber, and carrots
 * **Ang (lek) tau tng** - sweet red (green) bean soup with miniature rice balls
 * **Ayam pongteh** - chicken and potato stew with fermented bean sauce and palm sugar
-<<<<<<< HEAD
 
 * **[Ayam sioh](recipes/ayam-sioh.md)** - chicken with coriander and tamarind
 
-=======
 * **Ayam sioh** - chicken with coriander and palm sugar
->>>>>>> 7193ed77082517325152e15346b903d4f2e415e7
 * **Babi asam** - spicy pork stew with tamarind juice 
 * **Bak chang (肉粽)** - our take on Chinese zongzi, made with butterfly pea flower and coriander seeds
 * **Buah keluak** - pangium seeds cooked with a basic rempah (spice paste), served as a side dish with rice
 * **Chap chye** - stewed vegetables (cabbage, shiitake mushroom, carrot and black fungus) with lily buds and beancurd skin
 * **Ikan asam pedas nenas** - tangy and spicy fish curry with pineapple
 * **Kaya** - coconut and egg jam, served with toast and butter
-<<<<<<< HEAD
 
 * **Kiam chye tng** **(咸菜汤)** - sour vegetable soup with pork bones and tamarind, eaten with sambal belacan (hot chilli)
 
-=======
-* **Kiam Chye Tng** **(咸菜汤)** - sour vegetable soup with pork bones and tamarind, eaten with sambal belacan (hot chilli)
->>>>>>> 7193ed77082517325152e15346b903d4f2e415e7
 * **Kuah hee pio** - fish maw soup with cabbage and pork balls 
+
 * **Kueh pie tee** - pastry shells with jicama and shrimp filling
 * **Kueh salat** - blue pea glutinous rice and pandan cake
-<<<<<<< HEAD
-
 * **Mee siam** - tangy vermicelli noodles with shrimp, egg and chives
 
-=======
-* **Mee Siam** - tangy vermicelli noodles with shrimp, egg and chives
->>>>>>> 7193ed77082517325152e15346b903d4f2e415e7
+
 * **Nyonya Hokkien mee** - light sauce noodles with an egg gravy
 * **Popiah (薄餅)** - rolled crepe with jicama, peanut, shrimp and bean sprout filling
 
