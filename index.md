@@ -10,7 +10,7 @@ I'm a Columbia [SIPA](https://www.sipa.columbia.edu/)-[QMSS](https://www.qmss.co
 
 
 
-### Projects
+## Projects
 
 <head>
     <style>
@@ -26,7 +26,7 @@ I'm a Columbia [SIPA](https://www.sipa.columbia.edu/)-[QMSS](https://www.qmss.co
   <button class="tab-btn" onclick="openTab(event, 'Political economy')">Political economy</button>
 </div>
 <div id="Data science and visualization" class="tab-content" style="margin-top: 20px">
-  <h4>Data science and visualization</h4>
+  <h4><u>Data science and visualization</u></h4>
   <ol>
     <li><code>imfpy</code> - an intuitive API client for the IMF - <a href="pages/imfpy.html">python package</a></li>
     <li>Understanding COVID-19 misinformation - <a href="pages/covid_misinfo.html">NLP resources</a></li>
@@ -35,7 +35,7 @@ I'm a Columbia [SIPA](https://www.sipa.columbia.edu/)-[QMSS](https://www.qmss.co
   </ol>
 </div>
 <div id="Applied econometrics" class="tab-content" style="margin-top: 20px">
-  <h4>Applied econometrics</h4>
+    <h4><u>Applied econometrics</u></h4>
   <ol>
 <li>New measurements of inequalities in public transit accessibility - <a href="https://ltk2118.shinyapps.io/nyc-transit/">Shiny app</a></li>
     <li>Time series analysis of Australian inward FDI - <a href="pages/fdi.html">paper</a></li>
@@ -43,7 +43,7 @@ I'm a Columbia [SIPA](https://www.sipa.columbia.edu/)-[QMSS](https://www.qmss.co
   </ol>
 </div>
 <div id="Political economy" class="tab-content" style="margin-top: 20px">
-  <h4>Political economy</h4>
+    <h4><u>Political economy</u></h4>
   <ol>
     <li>Congressional Voting and Import Competition - <a href="pages/congress_trade.html">policy brief</a></li>
     <li>Partisanship in America through language - <a href="https://newsapp-for-newsroom.shinyapps.io/partisanship-in-america/">Shiny app</a></li>
@@ -70,20 +70,16 @@ I'm a Columbia [SIPA](https://www.sipa.columbia.edu/)-[QMSS](https://www.qmss.co
 
 
 
-### Current Positions
+### Experience
 
-- **Research Assistant** - Columbia University School of International and Public Affairs (SIPA) - *A Research Agenda for Trade Policy* - Sharyn O'Halloran and Thomas Groll
-- **GIS Data Analyst** - University of Pennsylvania Graduate School of Education (GSE) - Amalia Dache and Harold Stolper
+- **Research Analyst - Geospatial Data** - University of Pennsylvania Graduate School of Education (GSE) - Amalia Dache and Harold Stolper (2022-present)
 
-
-
-### Past Experience
-
-* **Graduate Consultant** - Citi Global Wealth
-* **Teaching Assistant, R for Policy Analysis** - Columbia SIPA
-* **Australian Embassy, Beijing** - Public Affairs Assistant
-* **United Nations Capital Development Fund** - Junior Research Analyst
-* **Internships** - Asia Society Policy Institute (Washington), KPMG Global China Practice (Beijing), Westpac Treasury (Sydney)
+* **Graduate Consultant** - Citi Global Wealth (2022)
+* **Research Assistant, Data Science and Public Policy** - Columbia University School of International and Public Affairs (SIPA) - *A Research Agenda for Trade Policy* - Sharyn O'Halloran (2021-22)
+* **Teaching Assistant, R for Policy Analysis** - Columbia SIPA (2021-22)
+* **Australian Embassy, Beijing** - Public Affairs Assistant (2019)
+* **United Nations Capital Development Fund** - Junior Research Analyst (2017)
+* **Internships** - Asia Society Policy Institute (Washington, 2022), KPMG Global China Practice (Beijing, 2018), Westpac Treasury (Sydney, 2017)
 
 
 
