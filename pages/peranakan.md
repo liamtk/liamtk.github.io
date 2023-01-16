@@ -45,7 +45,6 @@ Over time, I'm attempting to compile recipes for most of these dishes (there is 
 * **Ang (lek) tau tng** - sweet red (green) bean soup with miniature rice balls
 * **Ayam pongteh** - chicken and potato stew with fermented bean sauce and palm sugar
 * **[Ayam sioh](recipes/ayam-sioh.md)** - chicken with coriander and tamarind
-* **Ayam sioh** - chicken with coriander and palm sugar
 * **Babi asam** - spicy pork stew with tamarind juice 
 * **Bak chang (肉粽)** - our take on Chinese zongzi, made with butterfly pea flower and coriander seeds
 * **Buah keluak** - pangium seeds cooked with a basic rempah (spice paste), served as a side dish with rice
