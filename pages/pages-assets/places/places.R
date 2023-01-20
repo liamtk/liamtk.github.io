@@ -6,10 +6,12 @@ library(tidygeocoder)
 
 # Australia & NZ ----------------------------------------------------------
 
-anz <-
+region_aus_nz <-
   data.frame("place" = c(
     "Sydney, NSW",
     "Perth, WA",
+    "Exmouth, WA",
+    "Gold Coast, QLD",
     "Melbourne, VIC",
     "Mount Buller, VIC",
     "Brisbane, QLD",
@@ -45,10 +47,10 @@ anz <-
 
 # North Asia -----------------------------------------------------------
 
-noa <-
+region_north_asia <-
   data.frame("place" = c(
-    "Beijing",
-    "Shanghai",
+    "Beijing, China",
+    "Shanghai, China",
     "Hangzhou, Zhejiang",
     "Guangzhou, Guangdong",
     "Qiandaohu, Zhejiang",
@@ -62,8 +64,8 @@ noa <-
     "Fuzhou, Fujian",
     "Ningde, Fujian",
     "Xiamen, Fujian",
-    "Hong Kong",
-    "Macau",
+    "Hong Kong SAR",
+    "Macau SAR",
     "Urumqi, Xinjiang",
     "Guilin, Guangxi",
     "Fenghuang, Hunan",
@@ -71,7 +73,7 @@ noa <-
     "Dali, Yunnan",
     "Lijiang, Yunnan",
     "Shangri-La, Yunnan",
-    "Chongqing",
+    "Chongqing, China",
     "Chengdu, Sichuan",
     "Leshan, Sichuan",
     "Hohhot, Inner Mongolia",
@@ -80,12 +82,12 @@ noa <-
     "Changbaishan, Jilin",
     "Nanjing, Jiangsu",
     "Suzhou, Jiangsu",
-    "Tokyo",
+    "Tokyo, Japan",
     "Yokohama, Japan",
     "Sapporo, Japan",
     "Osaka, Japan",
     "Kyoto, Japan",
-    "Seoul",
+    "Seoul, South Korea",
     "Jeju, South Korea"
   )) %>% 
   mutate(region = "noa") %>%
@@ -94,33 +96,33 @@ noa <-
 
 # Southeast Asia ----------------------------------------------------------
 
-sea <-
+region_southeast_asia <-
   data.frame("place" = c(
-    "Singapore",
+    "Singapore, Singapore",
     "Johor Bahru, Malaysia",
     "Muar, Malaysia",
     "Ipoh, Malaysia",
     "Penang, Malaysia",
-    "Jakarta",
+    "Jakarta, Indonesia",
     "Bali, Indonesia",
     "Kuala Lumpur",
     "Cameron Highlands, Malaysia",
     "Malacca, Malaysia",
     "Kota Kinabalu, Malaysia",
-    "Bangkok",
+    "Bangkok, Thailand",
     "Chiang Mai, Thailand",
     "Siem Reap, Cambodia",
-    "Phnom Penh",
+    "Phnom Penh, Cambodia",
     "Saigon, Vietnam",
     "Hue, Vietnam",
     "Da Nang, Vietnam",
-    "Hanoi",
+    "Hanoi, Vietnam",
     "Luang Prabang, Laos",
     "Yangon, Myanmar",
-    "Bagan, Mandalay",
-    "Naypyidaw",
-    "Mawlamyine, Mon State",
-    "Bago, Bago Region"
+    "Bagan, Myanmar",
+    "Naypyidaw, Myanmar",
+    "Mawlamyine, Myanmar",
+    "Bago, Myanmar"
   )) %>% 
   mutate(region = "sea") %>%
   geocode(address = place, method = "osm")
@@ -128,11 +130,11 @@ sea <-
 
 # Middle East & North Africa ----------------------------------------------
 
-mena <-   data.frame("place" = c(
+region_mena <-   data.frame("place" = c(
   "Haifa, Israel",
   "Ramallah, Palestine",
   "Hebron, Palestine",
-  "Jerusalem, Palestine",
+  "Jerusalem",
   "Jericho, Palestine",
   "Acre, Israel"
 )) %>% 
@@ -142,9 +144,9 @@ mena <-   data.frame("place" = c(
 
 # South America -----------------------------------------------------------
 
-sam <-   data.frame("place" = c(
+region_south_america <-   data.frame("place" = c(
  "Islas Ballestas, Peru",
- "Lima",
+ "Lima, Peru",
  "Huacachina, Ica, Peru",
  "Cusco, Peru",
  "Machu Picchu, Peru",
@@ -156,8 +158,8 @@ sam <-   data.frame("place" = c(
 
 # North America -----------------------------------------------------------
 
-nam <- data.frame("place" = c(
-  "New York City",
+region_north_america <- data.frame("place" = c(
+  "New York City, NY",
   "Greenwood Lake, NY",
   "Beacon, NY",
   "New Orleans, LA",
@@ -174,6 +176,7 @@ nam <- data.frame("place" = c(
   "Scranton, PA",
   "Lancaster, PA",
   "Hoboken, NJ",
+  "Baltimore, MD",
   "New Haven, CT",
   "Wilmington, DE",
   "Toronto, Canada",
@@ -194,13 +197,13 @@ nam <- data.frame("place" = c(
 
 # Europe ------------------------------------------------------------------
 
-eur <- data.frame("place" = c(
-  "Paris",
+region_europe <- data.frame("place" = c(
+  "Paris, France",
   "Barcelona, Catalunya",
-  "Madrid",
+  "Madrid, Spain",
   "Berlin, Germany",
   "Seville, Spain",
-  "Lisbon",
+  "Lisbon, Portugal",
   "Sintra, Portugal",
   "Porto, Portugal",
   "Bourg-Saint-Maurice, France",
@@ -208,8 +211,8 @@ eur <- data.frame("place" = c(
   "Limerick, Ireland",
   "Galway, Ireland",
   "Aarhus, Denmark",
-  "Copenhagen",
-  "Prague",
+  "Copenhagen, Denmark",
+  "Prague, Czechia",
   "Milan, Italy",
   "Catania, Italy",
   "Palermo, Italy",
@@ -217,13 +220,13 @@ eur <- data.frame("place" = c(
   "Agrigento, Italy",
   "Ragusa, Italy",
   "Taormina, Italy",
-  "Rome",
+  "Rome, Italy",
   "Naples, Italy",
   "Florence, Italy",
   "Venice, Italy",
   "Pisa, Italy",
   "Lugano, Switzerland",
-  "Vienna",
+  "Vienna, Austria",
   "Salzburg, Austria",
   "Melk, Austria",
   "Bratislava, Slovakia",
@@ -231,10 +234,10 @@ eur <- data.frame("place" = c(
   "Hallstatt, Austria",
   "Cesky Krumlov, Czechia",
   "Amsterdam, Netherlands",
-  "London",
-  "Oxford, U.K.",
-  "Cambridge, U.K.",
-  "Bath, U.K.",
+  "London, UK",
+  "Oxford, UK",
+  "Cambridge, UK",
+  "Bath, UK",
   "Bilbao, Basque Country",
   "Cordoba, Spain",
   "Donostia, Basque Country"
@@ -245,21 +248,78 @@ eur <- data.frame("place" = c(
 
 # Build data, palette & map -----------------------------------------------
 
-combined <- rbind(nam, sam, eur, anz, mena, noa, sea) %>% 
-  mutate(region=as.factor(region))
+combined <- bind_rows(mget(ls(pattern = "region_")))
+
+saveRDS(combined, file = "../../../files/combined_places.rds")
+
+
+### START HERE TO ADD NEW PLACES
+
+library(tidyverse)
+library(leaflet)
+library(tmap)
+library(htmlwidgets)
+library(tidygeocoder)
+
+combined <- readRDS("../../../files/combined_places.rds")
+
+add_location <- function(df, location_name, region_code){
+  
+  #' @param get_landing_urls a valid region code 
+  #' valid codes: anz  eur  mena nam  noa  sam  sea soa
+  
+  if(region_code %in% c("anz", "eur","mena", "nam", "noa", "sam", "sea", "soa")){
+    
+    new <- data.frame(place = location_name, region = region_code) %>%
+      geocode(address = place, method = "osm")
+    
+    return(unique(rbind(df, new)))
+    
+  }
+  
+  else{
+    print("Invalid region_code.")
+  }
+
+}
+
+# combined <- add_location(combined, "New Delhi, India", "soa")
 
 pal <- colorFactor(
-  palette = c('blue', 'darkorange1', 'black', 'turquoise4', 'red', 'darkorchid4', 'limegreen'),
+  palette = c('blue', 'darkorange1', 'black', 'turquoise4', 'red', 'darkorchid4', 'darkgreen'),
   domain = combined$region
 )
 
-map <- combined %>% leaflet() %>% # create leaflet map widget
+map <- combined %>%
+  mutate(region = as.factor(region)) %>% 
+  leaflet() %>% # create leaflet map widget
   addProviderTiles(providers$CartoDB.Positron) %>% # add muted palette basemap
   addCircles(lng = ~ long, lat = ~ lat, popup = ~place, color = ~pal(region)) # add markers with popup text
+
+map <- combined %>%
+  mutate(region = as.factor(region)) %>% 
+  leaflet() %>%
+  addCircles(lng = ~ long, lat = ~ lat, popup = ~place, color = ~pal(region))
+
+# add basemap layer groups
+map <- map %>% addLayersControl(
+  baseGroups = c("CartoDB.Positron", "OpenStreetMap", "Esri.WorldTopoMap"),
+  options = layersControlOptions(collapsed = FALSE)
+) %>%
+  addProviderTiles("Esri.WorldGrayCanvas", group = "Esri.WorldGrayCanvas") %>%
+  addProviderTiles("OpenStreetMap", group = "OpenStreetMap") %>%
+  addProviderTiles("Esri.WorldTopoMap", group = "Esri.WorldTopoMap") %>%
+  leaflet::fitBounds(lng1 = -90, lat1 = -90, lng2 = 90, lat2 = 90) %>% 
+  leaflet.extras::addFullscreenControl() %>%
+  leaflet.extras::addResetMapButton() %>%
+  leaflet::setView(lat = 0, lng = 0, zoom = 1.3)
+
+
+map
 
 # Save/write map as widget ----------------------------------------------
 
 setwd(dirname(rstudioapi::getActiveDocumentContext()[["path"]]))
 
-map %>% saveWidget('places_been.html') # save as widget
+map %>% saveWidget('places.html') # save as widget
 
