@@ -292,27 +292,19 @@ pal <- colorFactor(
 
 map <- combined %>%
   mutate(region = as.factor(region)) %>% 
-  leaflet() %>% # create leaflet map widget
-  addProviderTiles(providers$CartoDB.Positron) %>% # add muted palette basemap
-  addCircles(lng = ~ long, lat = ~ lat, popup = ~place, color = ~pal(region)) # add markers with popup text
-
-map <- combined %>%
-  mutate(region = as.factor(region)) %>% 
   leaflet() %>%
-  addCircles(lng = ~ long, lat = ~ lat, popup = ~place, color = ~pal(region))
-
-# add basemap layer groups
-map <- map %>% addLayersControl(
+  addCircles(lng = ~ long, lat = ~ lat, popup = ~place, color = ~pal(region)) %>%
+  addLayersControl(
   baseGroups = c("CartoDB.Positron", "OpenStreetMap", "Esri.WorldTopoMap"),
   options = layersControlOptions(collapsed = FALSE)
 ) %>%
   addProviderTiles("Esri.WorldGrayCanvas", group = "Esri.WorldGrayCanvas") %>%
   addProviderTiles("OpenStreetMap", group = "OpenStreetMap") %>%
   addProviderTiles("Esri.WorldTopoMap", group = "Esri.WorldTopoMap") %>%
-  leaflet::fitBounds(lng1 = -90, lat1 = -90, lng2 = 90, lat2 = 90) %>% 
+  leaflet::fitBounds(lng1 = -90, lat1 = -80, lng2 = 90, lat2 = 80) %>% 
   leaflet.extras::addFullscreenControl() %>%
   leaflet.extras::addResetMapButton() %>%
-  leaflet::setView(lat = 0, lng = 0, zoom = 1.3)
+  leaflet::setView(lat = 0, lng = 0, zoom = 1)
 
 
 map
