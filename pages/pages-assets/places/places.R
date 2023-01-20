@@ -293,14 +293,23 @@ pal <- colorFactor(
 map <- combined %>%
   mutate(region = as.factor(region)) %>% 
   leaflet() %>%
-  addCircles(lng = ~ long, lat = ~ lat, popup = ~place, color = ~pal(region)) %>%
+  addCircleMarkers(lng = ~ long, 
+                   lat = ~ lat, 
+                   popup = ~place, 
+                   color = ~pal(region), 
+                   stroke = F,
+                   fillOpacity = 0.7,
+                   radius = 4.5) %>%
   addLayersControl(
   baseGroups = c("CartoDB.Positron", "OpenStreetMap", "Esri.WorldTopoMap"),
   options = layersControlOptions(collapsed = FALSE)
 ) %>%
-  addProviderTiles("Esri.WorldGrayCanvas", group = "Esri.WorldGrayCanvas") %>%
-  addProviderTiles("OpenStreetMap", group = "OpenStreetMap") %>%
-  addProviderTiles("Esri.WorldTopoMap", group = "Esri.WorldTopoMap") %>%
+  addProviderTiles("CartoDB.Positron", group = "CartoDB.Positron", 
+                   options = providerTileOptions(minZoom = 1, maxZoom = 6)) %>%
+  addProviderTiles("OpenStreetMap", group = "OpenStreetMap",
+                   options = providerTileOptions(minZoom = 1, maxZoom = 6)) %>%
+  addProviderTiles("Esri.WorldTopoMap", group = "Esri.WorldTopoMap",
+                   options = providerTileOptions(minZoom = 1, maxZoom = 6)) %>%
   leaflet::fitBounds(lng1 = -90, lat1 = -80, lng2 = 90, lat2 = 80) %>% 
   leaflet.extras::addFullscreenControl() %>%
   leaflet.extras::addResetMapButton() %>%
