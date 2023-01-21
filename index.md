@@ -79,8 +79,8 @@ I'm a Columbia [SIPA](https://www.sipa.columbia.edu/)-[QMSS](https://www.qmss.co
 * **Graduate Consultant** - Citi Global Wealth (2022)
 * **Research Assistant, Data Science and Public Policy** - Columbia SIPA - Sharyn O'Halloran (2021-22)
 * **Teaching Assistant, R for Policy Analysis** - Columbia SIPA (2021-22)
-* **Australian Embassy, Beijing** - Public Affairs Assistant (2019)
-* **United Nations Capital Development Fund** - Junior Research Analyst (2017)
+* **Public Affairs Assistant** - Australian Embassy, Beijing (2019)
+* **Junior Research Analyst** - United Nations Capital Development Fund (2017)
 * **Internships** - Asia Society Policy Institute (Washington, 2022), KPMG Global China Practice (Beijing, 2018), Westpac Treasury (Sydney, 2017)
 
 
