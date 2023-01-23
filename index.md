@@ -25,16 +25,16 @@ I'm a Columbia [SIPA](https://www.sipa.columbia.edu/)-[QMSS](https://www.qmss.co
   <button class="tab-btn" onclick="openTab(event, 'Applied econometrics')">Applied econometrics</button>
   <button class="tab-btn" onclick="openTab(event, 'Political economy')">Political economy</button>
 </div>
-<div id="Data science and visualization" class="tab-content" style="min-height:175px; margin-top: 20px; background-color: #f2f8ff; margin-bottom:20px;">
+<div id="Data science and visualization" class="tab-content" style="min-height:185px; margin-top: 20px; background-color: #f2f8ff; margin-bottom:20px;">
   <h4><u>Data science and visualization</u></h4>
   <ol>
     <li><code>imfpy</code> - an intuitive API client for the IMF - <a href="pages/imfpy.html">python package</a></li>
-    <li>Understanding COVID-19 misinformation - <a href="pages/covid_misinfo.html">NLP resources, Tableau visuals</a></li>
+    <li>Understanding COVID-19 misinformation - <a href="pages/covid_misinfo.html">NLP resources, Tableau visualizations</a></li>
     <li>Understanding far-right networks using Wikipedia data - <a href="pages/wikihate.html">paper</a></li>
     <li>Flood classification and damage assessments using satellite data - <a href="pages/floodai.html">presentation</a></li>
   </ol>
 </div>
-<div id="Applied econometrics" class="tab-content" style="min-height:175px; margin-top: 20px; background-color: #f8fbfb; margin-bottom:20px;">
+<div id="Applied econometrics" class="tab-content" style="min-height:185px; margin-top: 20px; background-color: #f8fbfb; margin-bottom:20px;">
     <h4><u>Applied econometrics</u></h4>
   <ol>
 <li>New measurements of inequalities in public transit accessibility - <a href="https://ltk2118.shinyapps.io/nyc-transit/">Shiny app</a></li>
@@ -42,12 +42,12 @@ I'm a Columbia [SIPA](https://www.sipa.columbia.edu/)-[QMSS](https://www.qmss.co
     <li>Empirical analysis of municipal broadband restrictions - <a href="pages/broadband.html">policy memo</a></li>
   </ol>
 </div>
-<div id="Political economy" class="tab-content" style="min-height:175px; margin-top: 20px; background-color: #fffafa; margin-bottom:20px;">
+<div id="Political economy" class="tab-content" style="min-height:185px; margin-top: 20px; background-color: #fffafa; margin-bottom:20px;">
     <h4><u>Political economy</u></h4>
   <ol>
-    <li>Congressional Voting and Import Competition - <a href="pages/congress_trade.html">policy brief</a></li>
-    <li>Partisanship in America through language - <a href="https://newsapp-for-newsroom.shinyapps.io/partisanship-in-america/">Shiny app</a></li>
-    <li>Private sector participation in Europe's pivot from Russian gas - <a href="pages/citi.html">report</a></li>
+    <li>Congressional FTA voting and import competition - <a href="pages/congress_trade.html">policy brief</a></li>
+    <li>Analyzing partisanship in America through language - <a href="https://newsapp-for-newsroom.shinyapps.io/partisanship-in-america/">Shiny app</a></li>
+    <li>Private sector participation in Europe's pivot away from Russian gas - <a href="pages/citi.html">report</a></li>
   </ol>
 </div>
 <script>
@@ -67,6 +67,7 @@ I'm a Columbia [SIPA](https://www.sipa.columbia.edu/)-[QMSS](https://www.qmss.co
   // Get the element with id="defaultOpen" and click on it
   document.getElementById("defaultOpen").click();
 </script>
+
 
 
 
