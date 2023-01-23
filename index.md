@@ -29,7 +29,7 @@ I'm a Columbia [SIPA](https://www.sipa.columbia.edu/)-[QMSS](https://www.qmss.co
   <h4><u>Data science and visualization</u></h4>
   <ol>
     <li><code>imfpy</code> - an intuitive API client for the IMF - <a href="pages/imfpy.html">python package</a></li>
-    <li>Understanding COVID-19 misinformation - <a href="pages/covid_misinfo.html">NLP resources</a></li>
+    <li>Understanding COVID-19 misinformation - <a href="pages/covid_misinfo.html">NLP resources, Tableau visuals</a></li>
     <li>Understanding far-right networks using Wikipedia data - <a href="pages/wikihate.html">paper</a></li>
     <li>Flood classification and damage assessments using satellite data - <a href="pages/floodai.html">presentation</a></li>
   </ol>
@@ -67,6 +67,8 @@ I'm a Columbia [SIPA](https://www.sipa.columbia.edu/)-[QMSS](https://www.qmss.co
   // Get the element with id="defaultOpen" and click on it
   document.getElementById("defaultOpen").click();
 </script>
+
+
 
 
 
@@ -114,4 +116,3 @@ I am most comfortable/skilled in data mining with **R**, **Python**, **SQL** and
 * **Eating** - here are some [favourite destinations](pages/food.md)
 * **Travelling** - here are some [places](pages/places.md) I've visited
 * **Jazz** - am an aspiring (amateur) jazz pianist
-
