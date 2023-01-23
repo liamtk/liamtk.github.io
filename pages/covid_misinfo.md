@@ -10,8 +10,8 @@ In order to better understand the underlying characteristics and trends in COVID
 
 I then trained eight binary classifiers using various algorithms including logistic regression, naïve bayes, random forest, support vector machine, AdaBoost, and a simple sequential neural network. The final part of the repo contains code used to train a fine-tuned BERT model with added dense and dropout layers which won the the 2021 Columbia University AI Modelshare Competition. The model (details below) predicted fake COVID tweets with a 97.4% F1 score.
 
-| **accuracy** | **f1** | **precision** | **recall** | **framework** | optimizer | lr   |
-| ------------ | ------ | ------------- | ---------- | ------------- | --------- | ---- |
-| 97.4%        | 97.4%  | 97.4%         | 97.4%      | keras-BERT    | Adam      | 1e-5 |
+| **accuracy** | **f1** | **precision** | **recall** | **framework** | optimizer | loss rate |
+| ------------ | ------ | ------------- | ---------- | ------------- | --------- | --------- |
+| 97.4%        | 97.4%  | 97.4%         | 97.4%      | keras         | Adam      | 1e-5      |
 
 *Thanks to Joy Zhang (Goldman Sachs) who also contributed to the project.*
