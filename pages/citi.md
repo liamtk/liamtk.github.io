@@ -1,6 +1,6 @@
 # How Private Client Investors can Participate in Europe’s Alternatives to Russian Gas Supply
 
-> **View the full report [here](https://ltk2118.github.io/home/pages/pages-assets/citi/For-publication_Citi-Global-Wealth_J-Guidera-advisor.pdf).**
+> **View the full report [here](https://liamtk.github.io/home/pages/pages-assets/citi/cgw-guidera-22.pdf).**
 
 Russia’s invasion of Ukraine in February 2022 precipitated an unprecedented energy crisis in Europe. At the time of writing, year-on-year Russian deliveries have fallen by two thirds, with the threat of further supply cuts heading into winter. Europe must now replace (or eliminate demand for) 40% of its natural gas supply. To address the challenge, short-term responses have been activated and policy frameworks put in place, all of which indicate that the private sector is an important part of the solution.
 
