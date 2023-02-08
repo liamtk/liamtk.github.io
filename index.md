@@ -99,15 +99,16 @@ I'm a Columbia [SIPA](https://www.sipa.columbia.edu/)-[QMSS](https://www.qmss.co
 
 ### Technical Skills
 
-I am most comfortable/skilled in data mining with **R**, **Python**, **SQL** and **Excel**, with experience applying them across a variety of use cases. I also have proficiency in the following:
+I am most comfortable/skilled in data mining with **R**, **Python**, **SQL** and **Excel**, with experience applying them across a variety of use cases. I also have solid proficiency in the following:
 
+- **Databases**: MySQL, MongoDB, Neo4j, Access
 - **Data Visualization**: Shiny, Tableau, Dash, D3
 - **Econometrics**: R, Stata, EViews
 - **Geospatial**: QGIS, Leaflet, GeoPandas, GeoDa, PySAL
-- **Machine Learning**: Sklearn, Tensorflow
-- **Natural Language Processing**: NTLK, SpaCy, Quanteda 
-- **Cloud Computing**: GCP, AWS
-- **Other**: Git, Github, Databricks/Spark, HTML/CSS, etc.
+- **Machine Learning**: Sklearn, Tensorflow, PyTorch
+- **Natural Language Processing**: NTLK, SpaCy, Quanteda, ChatGPT 
+- **Cloud Computing**: AWS, GCP, Snowflake
+- **Other**: Git, Github, Databricks, PySpark, HTML, CSS, JS.
 
 
 
