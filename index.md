@@ -106,9 +106,9 @@ I am most comfortable/skilled in data mining with **R**, **Python**, **SQL** and
 - **Econometrics**: R, Stata, EViews
 - **Geospatial**: QGIS, Leaflet, GeoPandas, GeoDa, PySAL
 - **Machine Learning**: Sklearn, Tensorflow, PyTorch
-- **Natural Language Processing**: NTLK, SpaCy, Quanteda, ChatGPT 
+- **Natural Language Processing**: NTLK, SpaCy, Quanteda
 - **Cloud Computing**: AWS, GCP, Snowflake
-- **Other**: Git, Github, Databricks, PySpark, HTML, CSS, JS.
+- **Other**: Git, Github, Databricks, PySpark, HTML, CSS, JS
 
 
 
