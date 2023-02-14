@@ -101,14 +101,16 @@ I'm a Columbia [SIPA](https://www.sipa.columbia.edu/)-[QMSS](https://www.qmss.co
 
 I am most comfortable/skilled in data mining with **R**, **Python**, **SQL** and **Excel**, with experience applying them across a variety of use cases. I also have solid proficiency in the following:
 
-- **Databases**: MySQL, MongoDB, Neo4j, Access
-- **Data Visualization**: Shiny, Tableau, Dash, D3
-- **Econometrics**: R, Stata, EViews
+- **Data Visualization**: Tableau, R Shiny, Dash, D3, JavaScript
+- **Databases**: MySQL, MongoDB, Neo4j, Cassandra
 - **Geospatial**: QGIS, Leaflet, GeoPandas, GeoDa, PySAL
 - **Machine Learning**: Sklearn, Tensorflow, PyTorch
+- **Econometrics**: R, Stata, EViews
 - **Natural Language Processing**: NTLK, SpaCy, Quanteda
 - **Cloud Computing**: AWS, GCP, Snowflake
-- **Other**: Git, Github, Databricks, PySpark, HTML, CSS, JS
+- **Workflow**: Databricks, PySpark, Airflow
+- **Web Development**: HTML, CSS, JavaScript, Flask
+- **Version control**: Git, Github, DVC
 
 
 
