@@ -1,6 +1,6 @@
 ## Hi, my name is Liam :-)
 
-I'm a Columbia [SIPA](https://www.sipa.columbia.edu/)-[QMSS](https://www.qmss.columbia.edu/) Dual Degree student and [Fulbright Scholar](https://www.fulbright.org.au/scholarships/anne-wexler-australian/) with deep interests in data science and quantitative applications to economic and public policy.
+I'm a Columbia [SIPA](https://www.sipa.columbia.edu/)-[QMSS](https://www.qmss.columbia.edu/) Dual Master's graduate and [Fulbright Scholar](https://www.fulbright.org.au/scholarships/anne-wexler-australian/) with deep interests in data science and quantitative applications to economic and public policy.
 
 - **Email**: [liam.k@columbia.edu](mailto:liam.k@columbia.edu)
 - **LinkedIn**: [https://www.linkedin.com/in/liamtaykearney](https://www.linkedin.com/in/liamtaykearney)
@@ -78,12 +78,12 @@ I'm a Columbia [SIPA](https://www.sipa.columbia.edu/)-[QMSS](https://www.qmss.co
 
 ### Experience
 
-* **Research Analyst - Geospatial Data** - University of Pennsylvania Graduate School of Education (GSE) - (2022-present)
-* **Graduate Consultant** - Citi Global Wealth (2022)
+* **Research Analyst - Geospatial Data** - University of Pennsylvania (2022-present)
+* **Graduate Consultant, Data Analysis** - Citi Global Wealth (2022) and KPMG Digital Lighthouse (2022)
 * **Research Assistant, Data Science and Public Policy** - Columbia SIPA - Sharyn O'Halloran (2021-22)
 * **Teaching Assistant, R for Policy Analysis** - Columbia SIPA (2021-22)
 * **Public Affairs Assistant** - Australian Embassy, Beijing (2019)
-* **Junior Research Analyst** - United Nations Capital Development Fund (2017)
+* **Junior Analyst** - United Nations Capital Development Fund (2017)
 * **Internships** - Asia Society Policy Institute (Washington, 2022), KPMG Global China Practice (Beijing, 2018), Westpac Treasury (Sydney, 2017)
 
 
@@ -101,15 +101,15 @@ I'm a Columbia [SIPA](https://www.sipa.columbia.edu/)-[QMSS](https://www.qmss.co
 
 I am most comfortable/skilled in data mining with **R**, **Python**, **SQL** and **Excel**, with experience applying them across a variety of use cases. I also have solid proficiency in the following:
 
-- **Data Visualization**: Tableau, R Shiny, Dash, D3, JavaScript
-- **Databases**: MySQL, MongoDB, Neo4j, Cassandra
-- **Geospatial**: QGIS, Leaflet, GeoPandas, GeoDa, PySAL
+- **Data Visualization**: Tableau, Shiny, D3, Dash
+- **Databases**: MySQL, MongoDB, Neo4j
+- **Geospatial**: QGIS, Leaflet, GeoPandas, GeoDa
 - **Machine Learning**: Sklearn, Tensorflow, PyTorch
 - **Econometrics**: R, Stata, EViews
-- **Natural Language Processing**: NTLK, SpaCy, Quanteda
-- **Cloud Computing**: AWS, GCP, Snowflake
+- **NLP**: NTLK, SpaCy, Quanteda
+- **Cloud**: AWS, GCP, Snowflake
 - **Workflow**: Databricks, PySpark, Airflow
-- **Web Development**: HTML, CSS, JavaScript, Flask
+- **Web Dev**: HTML, CSS, JS
 - **Version control**: Git, Github, DVC
 
 
