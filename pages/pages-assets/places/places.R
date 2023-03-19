@@ -294,6 +294,8 @@ pal <- colorFactor(
   domain = combined$region
 )
 
+
+
 map <- combined %>%
   mutate(region = as.factor(region)) %>% 
   leaflet() %>%
@@ -322,9 +324,43 @@ map <- combined %>%
 
 map
 
+
+# Add a column 'image_url' to your dataframe with the image URLs
+# combined$image_url <- c("image_url_1", "image_url_2", ...)
+
+combined$image_url <- NA
+combined$image_url[which(combined$place == "Budapest, Hungary")] = "https://i.imgur.com/lak1plE.jpg"
+
+map <- combined %>%
+  mutate(region = as.factor(region)) %>% 
+  leaflet() %>%
+  addCircleMarkers(lng = ~ long, 
+                   lat = ~ lat, 
+                   popup = ~paste(place, "<br><img src='", image_url, "' width='200' height='auto'/>", sep = ""),
+                   color = ~pal(region), 
+                   stroke = F,
+                   fillOpacity = 0.7,
+                   radius = 4.5) %>%
+  addLayersControl(
+    baseGroups = c("CartoDB.Positron", "OpenStreetMap", "Esri.WorldTopoMap"),
+    options = layersControlOptions(collapsed = FALSE)
+  ) %>%
+  addProviderTiles("CartoDB.Positron", group = "CartoDB.Positron", 
+                   options = providerTileOptions(minZoom = 1, maxZoom = 6)) %>%
+  addProviderTiles("OpenStreetMap", group = "OpenStreetMap",
+                   options = providerTileOptions(minZoom = 1, maxZoom = 6)) %>%
+  addProviderTiles("Esri.WorldTopoMap", group = "Esri.WorldTopoMap",
+                   options = providerTileOptions(minZoom = 1, maxZoom = 6)) %>%
+  leaflet::fitBounds(lng1 = -90, lat1 = -80, lng2 = 90, lat2 = 80) %>% 
+  leaflet.extras::addFullscreenControl() %>%
+  leaflet.extras::addResetMapButton() %>%
+  leaflet::setView(lat = 0, lng = 0, zoom = 1)
+
+map
+
 # Save/write map as widget ----------------------------------------------
 
 setwd(dirname(rstudioapi::getActiveDocumentContext()[["path"]]))
 
-map %>% saveWidget('places.html') # save as widget
+map %>% saveWidget('places2.html') # save as widget
 
