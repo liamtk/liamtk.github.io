@@ -1,6 +1,6 @@
 place,region,lat,long,image_url,visited_year
 "Sydney, NSW",anz,-33.8698439,151.2082848,https://i.imgur.com/wr2h5O7.jpg,"2003, 2007, 2011, 2016, 2017, 2018, 2019"
-"Perth, WA",anz,-31.9558964,115.8605801,https://i.imgur.com/6AMSo5l.jpg,Home
+"Perth, WA",anz,-31.9558964,115.8605801,https://i.imgur.com/6AMSo5l.jpg,NA (Home)
 "Exmouth, WA",anz,-22.29247155,114.1469586,NA,2006
 "Gold Coast, QLD",anz,-28.0023731,153.4145987,NA,2003
 "Melbourne, VIC",anz,-37.8142176,144.9631608,https://i.imgur.com/NoWc0lC.jpg,"2013, 2014, 2015, 2019"
@@ -15,7 +15,7 @@ place,region,lat,long,image_url,visited_year
 "Broome, WA",anz,-17.9566909,122.2240181,https://i.imgur.com/hPibGGh.jpg,"2006, 2020, 2021"
 "Kununurra, WA",anz,-15.7730916,128.738839,https://i.imgur.com/7kG29jc.jpg,2006
 "Carnarvon, WA",anz,-24.8826131,113.6576486,NA,2006
-"Boddington, WA",anz,-32.792141,116.4210582,https://i.imgur.com/IRY6o1y.jpg,Home
+"Boddington, WA",anz,-32.792141,116.4210582,https://i.imgur.com/IRY6o1y.jpg,NA (Home)
 "Boyup Brook, WA",anz,-33.884175,116.5197515,NA,2002
 "Bunbury, WA",anz,-33.3267797,115.636698,https://i.imgur.com/TE5Nzk6.jpg,"2006, 2012"
 "Port Headland, WA",anz,-20.3718658,118.6316559,NA,2006
@@ -127,7 +127,7 @@ Grand Canyon North Rim,nam,36.1974532,-112.0529243,https://i.imgur.com/5Nn9G9c.j
 "Fuzhou, Fujian",noa,26.0774954,119.2918215,https://i.imgur.com/8IyGf52.jpg,2015
 "Ningde, Fujian",noa,26.6695006,119.5432715,https://i.imgur.com/r7VrRZC.jpg,2015
 "Xiamen, Fujian",noa,24.4801069,118.0853479,https://i.imgur.com/DpF0E1O.jpg,2019
-Hong Kong SAR,noa,22.350627,114.1849161,https://i.imgur.com/2IfybQB.jpg,"2009, 2010, 2011, 2018"
+Hong Kong SAR,noa,22.350627,114.1849161,https://i.imgur.com/2IfybQB.jpg,"2007, 2009, 2010, 2011, 2018"
 Macau SAR,noa,22.318781,113.9488778,https://i.imgur.com/wSXcxEy.jpg,2010
 "Urumqi, Xinjiang",noa,43.419754,87.319461,https://i.imgur.com/JkSZfUC.jpg,2016
 "Guilin, Guangxi",noa,25.238704,110.1750728,NA,2010
@@ -147,7 +147,6 @@ Macau SAR,noa,22.318781,113.9488778,https://i.imgur.com/wSXcxEy.jpg,2010
 "Suzhou, Jiangsu",noa,31.3016935,120.5810725,https://i.imgur.com/qBzZnFw.jpg,2017
 "Tokyo, Japan",noa,35.6812665,139.757653,https://i.imgur.com/XHBeIcP.jpg,"2008, 2013, 2017"
 "Yokohama, Japan",noa,35.4443947,139.6367727,https://i.imgur.com/qawxtXA.jpg,2017
-"Sapporo, Japan",noa,43.061936,141.3542924,https://i.imgur.com/03xOewl.jpg,2008
 "Osaka, Japan",noa,34.661629,135.4999268,https://i.imgur.com/XHBeIcP.jpg,2013
 "Kyoto, Japan",noa,35.021041,135.7556075,https://i.imgur.com/58DIOMp.jpg,2013
 "Seoul, South Korea",noa,37.5666791,126.9782914,https://i.imgur.com/DVtBknm.jpg,"2013, 2018"
@@ -159,8 +158,8 @@ Macau SAR,noa,22.318781,113.9488778,https://i.imgur.com/wSXcxEy.jpg,2010
 "Machu Picchu, Peru",sam,-13.16442195,-72.5450851,https://i.imgur.com/92ssjnA.jpg,2020
 "Bogota, Colombia",sam,4.6534649,-74.0836453,https://i.imgur.com/xIu6QW5.jpg,2020
 "Zipaquira, Colombia",sam,5.0234748,-74.0039818,https://i.imgur.com/Z4FD3gW.jpg,2020
-"Singapore, Singapore",sea,1.357107,103.8194992,https://i.imgur.com/nUUVoZd.jpg,Home
-"Johor Bahru, Malaysia",sea,1.503555,103.7495586,NA,"2009, 2010"
+"Singapore, Singapore",sea,1.357107,103.8194992,https://i.imgur.com/nUUVoZd.jpg,NA (Home)
+"Johor Bahru, Malaysia",sea,1.503555,103.7495586,https://i.imgur.com/W5qv5YB.jpg,"2009, 2010"
 "Muar, Malaysia",sea,2.05,102.5666667,https://i.imgur.com/GKDY1TA.jpg,2009
 "Ipoh, Malaysia",sea,4.5986817,101.0900236,https://i.imgur.com/Fm3dsYF.jpg,2010
 "New Delhi, India",sea,28.6138954,77.2090057,https://i.imgur.com/IsFTtV0.jpg,2023
@@ -199,3 +198,7 @@ Grand Canyon Visitor Center,nam,36.05911175,-112.1093343,https://i.imgur.com/n5K
 "Lago di Como, Italy",eur,45.9917589,9.264881035,https://i.imgur.com/6aiFQfv.jpg,2015
 "San Gimignano, Italy",eur,43.4677993,11.0432115,https://i.imgur.com/5Jix8RJ.jpg,2015
 Washington DC,nam,38.8950368,-77.0365427,https://i.imgur.com/QqT9wHb.jpg,"2021, 2022, 2023"
+"Walpole, WA",anz,-34.9776796,116.7310063,https://i.imgur.com/KzJpSKv.jpg,2011
+"Rockingham, WA",anz,-32.2851899,115.7426524,https://i.imgur.com/BYWnYcZ.jpg,NA (Home)
+"Mandurah, WA",anz,-32.5302495,115.7208782,https://i.imgur.com/OFcXZR7.jpg,NA (Home)
+"Niseko, Japan",noa,42.804684,140.6873034,https://i.imgur.com/03xOewl.jpg,"2008, 2009"
