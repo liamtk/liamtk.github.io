@@ -61,5 +61,5 @@ map
 
 setwd(dirname(rstudioapi::getActiveDocumentContext()[["path"]]))
 
-map %>% saveWidget('places2.html') # save as widget
+map %>% saveWidget('places.html') # save as widget
 
