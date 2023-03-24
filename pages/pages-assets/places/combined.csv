@@ -11,22 +11,22 @@ place,region,lat,long,image_url,visited_year
 "Cairns, QLD",anz,-16.9206657,145.7721854,NA,2003
 "Hobart, TAS",anz,-42.8825088,147.3281233,https://i.imgur.com/yTjLm5r.jpg,2020
 "Adelaide, SA",anz,-34.9281805,138.5999312,https://i.imgur.com/yWa7zAe.jpg,2009
-"Darwin, NT",anz,-12.46044,130.8410469,https://i.imgur.com/kVGwDWj.jpg,2005
+"Darwin, NT",anz,-12.46044,130.8410469,https://i.imgur.com/kVGwDWj.jpg,2009
 "Broome, WA",anz,-17.9566909,122.2240181,https://i.imgur.com/hPibGGh.jpg,"2006, 2020, 2021"
 "Kununurra, WA",anz,-15.7730916,128.738839,https://i.imgur.com/7kG29jc.jpg,2006
 "Carnarvon, WA",anz,-24.8826131,113.6576486,NA,2006
 "Boddington, WA",anz,-32.792141,116.4210582,https://i.imgur.com/IRY6o1y.jpg,NA (Home)
 "Boyup Brook, WA",anz,-33.884175,116.5197515,NA,2002
 "Bunbury, WA",anz,-33.3267797,115.636698,https://i.imgur.com/TE5Nzk6.jpg,"2006, 2012"
-"Port Headland, WA",anz,-20.3718658,118.6316559,NA,2006
+"Port Hedland, WA",anz,-20.3718658,118.6316559,NA,2006
 "Albany, WA",anz,-35.0247822,117.883608,https://i.imgur.com/ACEizuh.jpg,2020
 "Margaret River, WA",anz,-33.9531776,115.0769369,https://i.imgur.com/5iWaQvZ.jpg,"2002, 2003, 2004, 2012, 2019"
 "Kalbarri, WA",anz,-27.7109989,114.1638162,NA,2006
 "Dalwallinu, WA",anz,-30.1299745,116.9455417,https://i.imgur.com/h3Fco2r.jpg,2016
-"Three Springs, WA",anz,-29.4913105,115.6356876,NA,2013
+"Three Springs, WA",anz,-29.4913105,115.6356876,https://i.imgur.com/5uvVQz0.jpg,2014
 "Geraldton, WA",anz,-28.77035,114.6147159,NA,2006
 "Hamilton Island, QLD",anz,-20.35462625,148.9560518,NA,2003
-"Christchurch, NZ",anz,-43.530955,172.6366455,NA,2017
+"Christchurch, NZ",anz,-43.530955,172.6366455,https://i.imgur.com/1owwEMP.jpg,2017
 "Akaroa, NZ",anz,-43.82493765,173.0209638,https://i.imgur.com/Vyjr2gr.jpg,2017
 "Lake Pukaki, NZ",anz,-44.04776085,170.1742311,https://i.imgur.com/D4OcbzW.jpg,2017
 "Queenstown, NZ",anz,-45.0321923,168.661,https://i.imgur.com/Nc1RuDC.jpg,2011
@@ -93,7 +93,7 @@ Grand Canyon North Rim,nam,36.1974532,-112.0529243,https://i.imgur.com/5Nn9G9c.j
 "Cold Spring, NY",nam,41.4200938,-73.9545831,https://i.imgur.com/6d4H9op.jpg,2021
 "Boston, MA",nam,42.3554334,-71.060511,https://i.imgur.com/Q1kiP1b.jpg,2021
 "Salt Lake City, UT",nam,40.7596198,-111.886797,NA,2023
-"Montego Bay, Jamaica",nam,18.4724603,-77.9217357,NA,2023
+"Montego Bay, Jamaica",nam,18.4724603,-77.9217357,https://i.imgur.com/cDWU3Y7.jpg,2023
 "Yellowstone, WY",nam,44.6200885,-110.5606893,NA,2023
 "Philadelphia, PA",nam,39.9527237,-75.1635262,https://i.imgur.com/jDk011P.jpg,"2022, 2023"
 "Portland, Maine",nam,43.6610277,-70.2548596,https://i.imgur.com/3LcaTiY.jpg,2021
