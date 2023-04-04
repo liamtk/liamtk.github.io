@@ -1,12 +1,12 @@
 ## Hi, my name is Liam :-)
 
-I'm a Columbia [SIPA](https://www.sipa.columbia.edu/)-[QMSS](https://www.qmss.columbia.edu/) Dual Master's graduate and [Fulbright Scholar](https://www.fulbright.org.au/scholarships/anne-wexler-australian/) with deep interests in data science and quantitative applications to economic and public policy.
+I'm a Columbia [SIPA](https://www.sipa.columbia.edu/)-[QMSS](https://www.qmss.columbia.edu/) Dual Master's graduate and [Fulbright Scholar](https://www.fulbright.org.au/scholarships/anne-wexler-australian/) with deep interests in data science and quantitative applications to economic policy, international trade and financial markets.
 
 - **Email**: [liam.k@columbia.edu](mailto:liam.k@columbia.edu)
 - **LinkedIn**: [https://www.linkedin.com/in/liamtaykearney](https://www.linkedin.com/in/liamtaykearney)
-- **Interests**: political economy, social and economic inequality, applied statistics, data science, data visualization
-- **Nationalities**: Australian-Singaporean-Irish
-- **Languages**: English (native), Chinese (fluent), Spanish (basic)
+- **Interests**: political economy, international finance, applied econometrics, data science, data visualization
+- **Nationalities**: Australia-Ireland-Singapore
+- **Languages**: English (native), Chinese (fluent), Spanish (limited), Malay (basic)
 
 
 
@@ -99,18 +99,17 @@ I'm a Columbia [SIPA](https://www.sipa.columbia.edu/)-[QMSS](https://www.qmss.co
 
 ### Technical Skills
 
-I am most comfortable/skilled in data mining with **R**, **Python**, **SQL** and **Excel**, with experience applying them across a variety of use cases. I also have solid proficiency in the following:
+I am most comfortable/skilled in data mining with **R**, **Python**, **SQL**, **Tableau** and  **Excel**, with experience applying them across a variety of use cases. I also have proficiency in the following stacks:
 
 - **Data Visualization**: Tableau, Shiny, D3, Dash
 - **Databases**: MySQL, MongoDB, Neo4j
 - **Geospatial**: QGIS, Leaflet, GeoPandas, GeoDa
 - **Machine Learning**: Sklearn, Tensorflow, PyTorch
 - **Econometrics**: R, Stata, EViews
-- **NLP**: NTLK, SpaCy, Quanteda
 - **Cloud**: AWS, GCP, Snowflake
 - **Workflow**: Databricks, PySpark, Airflow
 - **Web Dev**: HTML, CSS, JS
-- **Version control**: Git, Github, DVC
+- **Version control**: Git, Github
 
 
 
