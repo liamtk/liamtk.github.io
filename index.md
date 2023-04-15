@@ -100,17 +100,48 @@ I'm a Columbia [SIPA](https://www.sipa.columbia.edu/)-[QMSS](https://www.qmss.co
 
 I am most comfortable/skilled in data mining with **R**, **Python**, **SQL**, **Tableau** and  **Excel**, with experience applying them across a variety of use cases and subject domains. I also have proficiency in the following:
 
-| Skill area                | Proficiencies                     |
-| ------------------------- | --------------------------------- |
-| Data Visualization        | Tableau, R Shiny, D3, Dash        |
-| Databases                 | MySQL, MongoDB, Neo4j, MS Access  |
-| Geospatial                | QGIS, Leaflet, GeoPandas, GeoDa   |
-| Machine Learning          | Scikit-learn, TensorFlow, PyTorch |
-| Econometrics & Statistics | R, STATA, EViews                  |
-| Cloud Services            | AWS, GCP, Snowflake               |
-| Big Data & Workflow       | Databricks, PySpark, Airflow      |
-| Web Development           | HTML, CSS, JavaScript, Flask      |
-| Version Control           | Git, Github                       |
+<table style="width: 100%; border-collapse: collapse;">
+  <tr style="line-height: 1.5;">
+    <th style="text-align: left; padding: 5px;">Skill area</th>
+    <th style="text-align: left; padding: 5px;">Technologies</th>
+  </tr>
+  <tr style="line-height: 1.5;">
+    <td style="padding: 5px;">Data Visualization</td>
+    <td style="padding: 5px;">Tableau, Shiny, D3, Dash</td>
+  </tr>
+  <tr style="line-height: 1.5;">
+    <td style="padding: 5px;">Databases</td>
+    <td style="padding: 5px;">MySQL, MongoDB, Neo4j, MS Access</td>
+  </tr>
+  <tr style="line-height: 1.5;">
+    <td style="padding: 5px;">Geospatial</td>
+    <td style="padding: 5px;">QGIS, Leaflet, GeoPandas, GeoDa</td>
+  </tr>
+  <tr style="line-height: 1.5;">
+    <td style="padding: 5px;">Machine Learning</td>
+    <td style="padding: 5px;">Scikit-learn, TensorFlow, PyTorch</td>
+  </tr>
+  <tr style="line-height: 1.5;">
+    <td style="padding: 5px;">Econometrics & Statistics</td>
+    <td style="padding: 5px;">R, Stata, EViews</td>
+  </tr>
+  <tr style="line-height: 1.5;">
+    <td style="padding: 5px;">Cloud Services</td>
+    <td style="padding: 5px;">AWS, GCP, Snowflake</td>
+  </tr>
+  <tr style="line-height: 1.5;">
+    <td style="padding: 5px;">Big Data & Workflow</td>
+    <td style="padding: 5px;">Databricks, PySpark, Airflow</td>
+  </tr>
+  <tr style="line-height: 1.5;">
+    <td style="padding: 5px;">Web Development</td>
+    <td style="padding: 5px;">HTML, CSS, JS, Flask</td>
+  </tr>
+  <tr style="line-height: 1.5;">
+    <td style="padding: 5px;">Version Control</td>
+    <td style="padding: 5px;">Git, Github</td>
+  </tr>
+</table>
 
 
 
