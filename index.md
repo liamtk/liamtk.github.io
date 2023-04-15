@@ -84,10 +84,10 @@ I'm a Columbia [SIPA](https://www.sipa.columbia.edu/)-[QMSS](https://www.qmss.co
 - **University of Pennsylvania** - Research Data Analyst (2022-present)
 - **Citi Global Wealth** - Graduate Consultant, Investment Research (Fall 2022)
 - **KPMG Digital** - Graduate Consultant, Data Science (Spring 2022)
-- **Columbia SIPA** - Research Assistant, Data Science & Public Policy (2021-22)
-- **Columbia SIPA** - Teaching Assistant, R for Policy Analysis (2021-22)
+- **Columbia SIPA** - Research Asst. Data Science & Public Policy (2021-22)
+- **Columbia SIPA** - Teaching Asst. R for Policy Research (2021-22)
 - **Australian Embassy, Beijing** - Public Affairs Assistant (2018)
-- **United Nations Capital Development Fund** - Junior Research Analyst (2017)
+- **UN Capital Development Fund** - Junior Research Analyst (2017)
 - **Internships**:
     - Asia Society Policy Institute (Washington, 2022)
     - KPMG Global China Practice (Beijing, 2018)
