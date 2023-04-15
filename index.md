@@ -81,8 +81,7 @@ I'm a Columbia [SIPA](https://www.sipa.columbia.edu/)-[QMSS](https://www.qmss.co
 
 ### Experience
 
-* **University of Pennsylvania** - Research Data Analyst (2022-present)
-
+- **University of Pennsylvania** - Research Data Analyst (2022-present)
 - **Citi Global Wealth** - Graduate Consultant, Investment Research (Fall 2022)
 - **KPMG Digital** - Graduate Consultant, Data Science (Spring 2022)
 - **Columbia SIPA** - Research Assistant, Data Science & Public Policy (2021-22)
@@ -101,45 +100,45 @@ I'm a Columbia [SIPA](https://www.sipa.columbia.edu/)-[QMSS](https://www.qmss.co
 I am most comfortable/skilled in data mining with **R**, **Python**, **SQL**, **Tableau** and  **Excel**, with experience applying them across a variety of use cases and subject domains. I also have proficiency in the following:
 
 <table style="width: 100%; border-collapse: collapse;">
-  <tr style="line-height: 1.5;">
-    <th style="text-align: left; padding: 5px;">Skill area</th>
-    <th style="text-align: left; padding: 5px;">Technologies</th>
+  <tr style="line-height: 1.4; background-color: #d0d0d0;">
+    <th style="text-align: left; padding: 4px;">Skill area</th>
+    <th style="text-align: left; padding: 4px;">Technologies</th>
   </tr>
-  <tr style="line-height: 1.5;">
-    <td style="padding: 5px;">Data Visualization</td>
-    <td style="padding: 5px;">Tableau, Shiny, D3, Dash</td>
+  <tr style="line-height: 1.4; background-color: #ffffff;">
+    <td style="padding: 4px;">Data Visualization</td>
+    <td style="padding: 4px;">Tableau, Shiny, D3, Dash</td>
   </tr>
-  <tr style="line-height: 1.5;">
-    <td style="padding: 5px;">Databases</td>
-    <td style="padding: 5px;">MySQL, MongoDB, Neo4j, MS Access</td>
+  <tr style="line-height: 1.4; background-color: #f0f0f0;">
+    <td style="padding: 4px;">Databases</td>
+    <td style="padding: 4px;">MySQL, MongoDB, Neo4j, MS Access</td>
   </tr>
-  <tr style="line-height: 1.5;">
-    <td style="padding: 5px;">Geospatial</td>
-    <td style="padding: 5px;">QGIS, Leaflet, GeoPandas, GeoDa</td>
+  <tr style="line-height: 1.4; background-color: #ffffff;">
+    <td style="padding: 4px;">Geospatial</td>
+    <td style="padding: 4px;">QGIS, Leaflet, GeoPandas, GeoDa</td>
   </tr>
-  <tr style="line-height: 1.5;">
-    <td style="padding: 5px;">Machine Learning</td>
-    <td style="padding: 5px;">Scikit-learn, TensorFlow, PyTorch</td>
+  <tr style="line-height: 1.4; background-color: #f0f0f0;">
+    <td style="padding: 4px;">Machine Learning</td>
+    <td style="padding: 4px;">Scikit-learn, TensorFlow, PyTorch</td>
   </tr>
-  <tr style="line-height: 1.5;">
-    <td style="padding: 5px;">Econometrics & Statistics</td>
-    <td style="padding: 5px;">R, Stata, EViews</td>
+  <tr style="line-height: 1.4; background-color: #ffffff;">
+    <td style="padding: 4px;">Econometrics & Statistics</td>
+    <td style="padding: 4px;">R, Stata, EViews</td>
   </tr>
-  <tr style="line-height: 1.5;">
-    <td style="padding: 5px;">Cloud Services</td>
-    <td style="padding: 5px;">AWS, GCP, Snowflake</td>
+  <tr style="line-height: 1.4; background-color: #f0f0f0;">
+    <td style="padding: 4px;">Cloud Services</td>
+    <td style="padding: 4px;">AWS, GCP, Snowflake</td>
   </tr>
-  <tr style="line-height: 1.5;">
-    <td style="padding: 5px;">Big Data & Workflow</td>
-    <td style="padding: 5px;">Databricks, PySpark, Airflow</td>
+  <tr style="line-height: 1.4; background-color: #ffffff;">
+    <td style="padding: 4px;">Big Data & Workflow</td>
+    <td style="padding: 4px;">Databricks, PySpark, Airflow</td>
   </tr>
-  <tr style="line-height: 1.5;">
-    <td style="padding: 5px;">Web Development</td>
-    <td style="padding: 5px;">HTML, CSS, JS, Flask</td>
+  <tr style="line-height: 1.4; background-color: #f0f0f0;">
+    <td style="padding: 4px;">Web Development</td>
+    <td style="padding: 4px;">HTML, CSS, JS, Flask</td>
   </tr>
-  <tr style="line-height: 1.5;">
-    <td style="padding: 5px;">Version Control</td>
-    <td style="padding: 5px;">Git, Github</td>
+  <tr style="line-height: 1.4; background-color: #ffffff;">
+    <td style="padding: 4px;">Version Control</td>
+    <td style="padding: 4px;">Git, Github</td>
   </tr>
 </table>
 
