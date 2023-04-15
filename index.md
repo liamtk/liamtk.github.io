@@ -1,12 +1,12 @@
 ## Hi, my name is Liam :-)
 
-I'm a Columbia [SIPA](https://www.sipa.columbia.edu/)-[QMSS](https://www.qmss.columbia.edu/) Dual Master's graduate and [Fulbright Scholar](https://www.fulbright.org.au/scholarships/anne-wexler-australian/) with deep interests in data science and quantitative applications to economic policy, international trade and financial markets.
+I'm a Columbia [SIPA](https://www.sipa.columbia.edu/)-[QMSS](https://www.qmss.columbia.edu/) double Master's graduate and [Fulbright Scholar](https://www.fulbright.org.au/scholarships/anne-wexler-australian/) with deep interests in data science and quantitative applications to economic policy, international trade and financial markets.
 
 - **Email**: [liam.k@columbia.edu](mailto:liam.k@columbia.edu)
 - **LinkedIn**: [https://www.linkedin.com/in/liamtaykearney](https://www.linkedin.com/in/liamtaykearney)
+- **Nationalities**: 🇦🇺 Australia - 🇮🇪 Ireland - 🇸🇬 Singapore
+- **Languages**: English (native), Mandarin (fluent), Spanish (limited), Malay (basic)
 - **Interests**: political economy, international finance, applied econometrics, data science, data visualization
-- **Nationalities**: Australia-Ireland-Singapore
-- **Languages**: English (native), Chinese (fluent), Spanish (limited), Malay (basic)
 
 
 
@@ -69,53 +69,54 @@ I'm a Columbia [SIPA](https://www.sipa.columbia.edu/)-[QMSS](https://www.qmss.co
 </script>
 
 
-
-
-
-
-
-
-
-### Experience
-
-* **Research Analyst - Geospatial Data** - University of Pennsylvania (2022-present)
-* **Graduate Consultant, Data Analysis** - Citi Global Wealth (2022) and KPMG Digital Lighthouse (2022)
-* **Research Assistant, Data Science and Public Policy** - Columbia SIPA - Sharyn O'Halloran (2021-22)
-* **Teaching Assistant, R for Policy Analysis** - Columbia SIPA (2021-22)
-* **Public Affairs Assistant** - Australian Embassy, Beijing (2019)
-* **Junior Analyst** - United Nations Capital Development Fund (2017)
-* **Internships** - Asia Society Policy Institute (Washington, 2022), KPMG Global China Practice (Beijing, 2018), Westpac Treasury (Sydney, 2017)
-
-
-
 ### Qualifications
 
-1. **Master of International Affairs** - Economic Policy ([Columbia SIPA](https://www.sipa.columbia.edu/))
+1. **Master of International Affairs** - International Finance & Economic Policy ([Columbia SIPA](https://www.sipa.columbia.edu/))
 2. **Master of Arts** - Applied Data Science ([Columbia QMSS](https://www.qmss.columbia.edu/))
 3. **Bachelor of Philosophy (Hons)** - Economics, Finance ([UWA](https://www.uwa.edu.au/study/courses/bachelor-of-philosophy))
 4. **Diploma of Interpreting** - Chinese-English ([AIWT](https://www.aiwt.edu.au/courses/psp50916-diploma-of-interpreting-lote-english/))
 
 
 
+
+### Experience
+
+* **University of Pennsylvania** - Research Data Analyst (2022-present)
+
+- **Citi Global Wealth** - Graduate Consultant, Investment Research (Fall 2022)
+- **KPMG Digital** - Graduate Consultant, Data Science (Spring 2022)
+- **Columbia SIPA** - Research Assistant, Data Science & Public Policy (2021-22)
+- **Columbia SIPA** - Teaching Assistant, R for Policy Analysis (2021-22)
+- **Australian Embassy, Beijing** - Public Affairs Assistant (2018)
+- **United Nations Capital Development Fund** - Junior Research Analyst (2017)
+- **Internships**:
+    - Asia Society Policy Institute (Washington, 2022)
+    - KPMG Global China Practice (Beijing, 2018)
+    - Westpac Institutional Bank (Sydney, 2017)
+
+
+
 ### Technical Skills
 
-I am most comfortable/skilled in data mining with **R**, **Python**, **SQL**, **Tableau** and  **Excel**, with experience applying them across a variety of use cases. I also have proficiency in the following stacks:
+I am most comfortable/skilled in data mining with **R**, **Python**, **SQL**, **Tableau** and  **Excel**, with experience applying them across a variety of use cases and subject domains. I also have proficiency in the following:
 
-- **Data Visualization**: Tableau, Shiny, D3, Dash
-- **Databases**: MySQL, MongoDB, Neo4j
-- **Geospatial**: QGIS, Leaflet, GeoPandas, GeoDa
-- **Machine Learning**: Sklearn, Tensorflow, PyTorch
-- **Econometrics**: R, Stata, EViews
-- **Cloud**: AWS, GCP, Snowflake
-- **Workflow**: Databricks, PySpark, Airflow
-- **Web Dev**: HTML, CSS, JS
-- **Version control**: Git, Github
+| Skill area                | Proficiencies                     |
+| ------------------------- | --------------------------------- |
+| Data Visualization        | Tableau, R Shiny, D3, Dash        |
+| Databases                 | MySQL, MongoDB, Neo4j, MS Access  |
+| Geospatial                | QGIS, Leaflet, GeoPandas, GeoDa   |
+| Machine Learning          | Scikit-learn, TensorFlow, PyTorch |
+| Econometrics & Statistics | R, STATA, EViews                  |
+| Cloud Services            | AWS, GCP, Snowflake               |
+| Big Data & Workflow       | Databricks, PySpark, Airflow      |
+| Web Development           | HTML, CSS, JavaScript, Flask      |
+| Version Control           | Git, Github                       |
 
 
 
 ### Hobbies
 
-* **Cooking** - from my [Peranakan](pages/peranakan.md) heritage
-* **Eating** - here are some [favourite destinations](pages/food.md)
-* **Travelling** - here are some [places](pages/places.md) I've visited
-* **Jazz** - am an aspiring (amateur) jazz pianist
+* **Cooking** - from my [Peranakan](pages/peranakan.md) heritage (ongoing project)
+* **Eating** - here are some [favourite destinations](pages/food.md) in NY, SG and Perth
+* **Travelling** - here are some [places](pages/places.md) I've visited on the journey so far
+* **Jazz** - am an aspiring (amateur) jazz piano player
