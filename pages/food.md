@@ -30,6 +30,7 @@
 ### New York
 
 * Abuqir Seafood (Astoria)
+* Al Badawi (Brooklyn Heights)
 * Al Sham Sweets & Pastries (Astoria)
 * Awang Kitchen (Elmhurst)
 * Banh (Morningside)
@@ -69,6 +70,7 @@
 * Juniper & Bay (Como)
 * Monsterella (Wembley)
 * Nao Japanese Ramen (CBD)
+* Shogun DE'Likes (CBD)
 * Tra Vinh (Northbridge)
 * The Prophet (EVP)
 * UMA (CBD)
