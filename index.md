@@ -97,7 +97,6 @@ I'm a Columbia [SIPA](https://www.sipa.columbia.edu/)-[QMSS](https://www.qmss.co
         </li>
     </ul>
 </div>
-
 <script>
     function toggleExperience() {
         var experience = document.getElementById("experience");
@@ -110,6 +109,7 @@ I'm a Columbia [SIPA](https://www.sipa.columbia.edu/)-[QMSS](https://www.qmss.co
             experienceToggle.innerHTML = "Experience ►";
         }
     }
+ 	toggleExperience();
 </script>
 
 
@@ -171,7 +171,6 @@ I am most comfortable/skilled in data mining with **R**, **Python**, **SQL**, **
         <li><strong>Jazz</strong> - am an aspiring (amateur) jazz piano player</li>
     </ul>
 </div>
-
 <script>
     function toggleHobbies() {
         var hobbies = document.getElementById("hobbies");
@@ -184,4 +183,6 @@ I am most comfortable/skilled in data mining with **R**, **Python**, **SQL**, **
             hobbiesToggle.innerHTML = "Hobbies ►";
         }
     }
+    toggleHobbies();
 </script>
+
