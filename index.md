@@ -10,7 +10,7 @@ I'm a Columbia [SIPA](https://www.sipa.columbia.edu/)-[QMSS](https://www.qmss.co
 
 
 
-### Projects
+## Projects
 
 <head>
     <style>
@@ -69,56 +69,12 @@ I'm a Columbia [SIPA](https://www.sipa.columbia.edu/)-[QMSS](https://www.qmss.co
 </script>
 
 
-### Qualifications
-
-1. **Master of International Affairs** - International Finance & Economic Policy ([Columbia SIPA](https://www.sipa.columbia.edu/))
-2. **Master of Arts** - Applied Data Science ([Columbia QMSS](https://www.qmss.columbia.edu/))
-3. **Bachelor of Philosophy (Hons)** - Economics, Finance ([UWA](https://www.uwa.edu.au/study/courses/bachelor-of-philosophy))
-4. **Diploma of Interpreting** - Chinese-English ([AIWT](https://www.aiwt.edu.au/courses/psp50916-diploma-of-interpreting-lote-english/))
-
-
-
-<h3 onclick="toggleExperience()" style="cursor: pointer;">Experience ▼</h3>
-<div id="experience" style="display: none;">
-    <ul>
-        <li><strong>University of Pennsylvania</strong> - Research Data Analyst (2022-present)</li>
-        <li><strong>Citi Global Wealth</strong> - Grad. Consultant, Investment Research (Fall 2022)</li>
-        <li><strong>KPMG Digital</strong> - Grad. Consultant, Data Science (Spring 2022)</li>
-        <li><strong>Columbia SIPA</strong> - Research Assistant, Data Science & Public Policy (2021-22)</li>
-        <li><strong>Columbia SIPA</strong> - Teaching Assistant, R for Policy Research (2021-22)</li>
-        <li><strong>Australian Embassy, Beijing</strong> - Public Affairs Assistant (2018)</li>
-        <li><strong>UN Capital Development Fund</strong> - Junior Research Analyst (2017)</li>
-        <li><strong>Internships:</strong>
-            <ul>
-                <li>Asia Society Policy Institute (Washington, 2022)</li>
-                <li>KPMG Global China Practice (Beijing, 2018)</li>
-                <li>Westpac Institutional Bank (Sydney, 2017)</li>
-            </ul>
-        </li>
-    </ul>
-</div>
-<script>
-    function toggleExperience() {
-        var experience = document.getElementById("experience");
-        var experienceToggle = document.querySelector("h3[onclick='toggleExperience()']");
-        if (experience.style.display === "none") {
-            experience.style.display = "block";
-            experienceToggle.innerHTML = "Experience ▼";
-        } else {
-            experience.style.display = "none";
-            experienceToggle.innerHTML = "Experience ►";
-        }
-    }
- 	toggleExperience();
-</script>
-
-
-
-### Technical Skills
-
-I am most comfortable/skilled in data mining with **R**, **Python**, **SQL**, **Tableau** and  **Excel**, with experience applying them across a variety of use cases and subject domains. I also have proficiency in the following:
-
-<table style="width: 100%; border-collapse: collapse;">
+<h3 onclick="toggleTechnicalSkills()" style="cursor: pointer;">Technical Skills ►</h3>
+<div id="technicalSkills" style="display: none;">
+    <p>
+        I am most comfortable/skilled in data mining with <strong>R</strong>, <strong>Python</strong>, <strong>SQL</strong>, <strong>Tableau</strong> and  <strong>Excel</strong>, with experience applying them across a variety of use cases and subject domains. I also have proficiency in the following:
+    </p>
+    <table style="width: 100%; border-collapse: collapse;">
   <tr style="line-height: 1.4; background-color: #d0d0d0;">
     <th style="text-align: left; padding: 4px;">Skill area</th>
     <th style="text-align: left; padding: 4px;">Technologies</th>
@@ -160,9 +116,91 @@ I am most comfortable/skilled in data mining with **R**, **Python**, **SQL**, **
     <td style="padding: 4px;">Git, Github</td>
   </tr>
 </table>
+</div>
 
 
-<h3 onclick="toggleHobbies()" style="cursor: pointer;">Hobbies ▼</h3>
+<script>
+    function toggleTechnicalSkills() {
+        var technicalSkills = document.getElementById("technicalSkills");
+        var technicalSkillsToggle = document.querySelector("h3[onclick='toggleTechnicalSkills()']");
+        if (technicalSkills.style.display === "none") {
+            technicalSkills.style.display = "block";
+            technicalSkillsToggle.innerHTML = "Technical Skills ▼";
+        } else {
+            technicalSkills.style.display = "none";
+            technicalSkillsToggle.innerHTML = "Technical Skills ►";
+        }
+    }
+    toggleTechnicalSkills(); // Set the initial text to show a sideways-pointing arrow
+</script>
+
+
+
+<h2 onclick="toggleQualifications()" style="cursor: pointer;">Qualifications ►</h2>
+<div id="qualifications" style="display: none;">
+    <ul>
+        <li>Master of International Affairs - International Finance & Economic Policy (<a href="https://www.sipa.columbia.edu/">Columbia SIPA</a>)</li>
+        <li>Master of Arts - Applied Data Science (<a href="https://www.qmss.columbia.edu/">Columbia QMSS</a>)</li>
+        <li>Bachelor of Philosophy (Hons) - Economics, Finance (<a href="https://www.uwa.edu.au/study/courses/bachelor-of-philosophy">UWA</a>)</li>
+        <li>Diploma of Interpreting - Chinese-English (<a href="https://www.aiwt.edu.au/courses/psp50916-diploma-of-interpreting-lote-english/">AIWT</a>)</li>
+    </ul>
+</div>
+
+
+<script>
+    function toggleQualifications() {
+        var qualifications = document.getElementById("qualifications");
+        var qualificationsToggle = document.querySelector("h3[onclick='toggleQualifications()']");
+        if (qualifications.style.display === "none") {
+            qualifications.style.display = "block";
+            qualificationsToggle.innerHTML = "Qualifications ▼";
+        } else {
+            qualifications.style.display = "none";
+            qualificationsToggle.innerHTML = "Qualifications ►";
+        }
+    }
+    toggleQualifications(); // Set the initial text to show a sideways-pointing arrow
+</script>
+
+
+
+<h2 onclick="toggleExperience()" style="cursor: pointer;">Experience ►</h2>
+<div id="experience" style="display: none;">
+    <ul>
+        <li><strong>University of Pennsylvania</strong> - Research Data Analyst (2022-present)</li>
+        <li><strong>Citi Global Wealth</strong> - Grad. Consultant, Investment Research (Fall 2022)</li>
+        <li><strong>KPMG Digital</strong> - Grad. Consultant, Data Science (Spring 2022)</li>
+        <li><strong>Columbia SIPA</strong> - Research Assistant, Data Science & Public Policy (2021-22)</li>
+        <li><strong>Columbia SIPA</strong> - Teaching Assistant, R for Policy Research (2021-22)</li>
+        <li><strong>Australian Embassy, Beijing</strong> - Public Affairs Assistant (2018)</li>
+        <li><strong>UN Capital Development Fund</strong> - Junior Research Analyst (2017)</li>
+        <li><strong>Internships:</strong>
+            <ul>
+                <li>Asia Society Policy Institute (Washington, 2022)</li>
+                <li>KPMG Global China Practice (Beijing, 2018)</li>
+                <li>Westpac Institutional Bank (Sydney, 2017)</li>
+            </ul>
+        </li>
+    </ul>
+</div>
+
+<script>
+    function toggleExperience() {
+        var experience = document.getElementById("experience");
+        var experienceToggle = document.querySelector("h3[onclick='toggleExperience()']");
+        if (experience.style.display === "none") {
+            experience.style.display = "block";
+            experienceToggle.innerHTML = "Experience ▼";
+        } else {
+            experience.style.display = "none";
+            experienceToggle.innerHTML = "Experience ►";
+        }
+    }
+</script>
+
+
+
+<h2 onclick="toggleHobbies()" style="cursor: pointer;">Hobbies ►</h2>
 <div id="hobbies" style="display: none;">
     <ul>
         <li><strong>Cooking</strong> - from my <a href="pages/peranakan.md">Peranakan</a> heritage (ongoing project)</li>
@@ -171,6 +209,7 @@ I am most comfortable/skilled in data mining with **R**, **Python**, **SQL**, **
         <li><strong>Jazz</strong> - am an aspiring (amateur) jazz piano player</li>
     </ul>
 </div>
+
 <script>
     function toggleHobbies() {
         var hobbies = document.getElementById("hobbies");
@@ -183,6 +222,5 @@ I am most comfortable/skilled in data mining with **R**, **Python**, **SQL**, **
             hobbiesToggle.innerHTML = "Hobbies ►";
         }
     }
-    toggleHobbies();
 </script>
 
