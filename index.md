@@ -150,3 +150,37 @@ I am most comfortable/skilled in data mining with **R**, **Python**, **SQL**, **
 * **Eating** - here are some [favourite destinations](pages/food.md) in NY, SG and Perth
 * **Travelling** - here are some [places](pages/places.md) I've visited on the journey so far
 * **Jazz** - am an aspiring (amateur) jazz piano player
+
+
+
+```javascript
+// Hobbies dropdown
+var hobbiesDropdown = document.createElement("h3");
+hobbiesDropdown.innerHTML = "Hobbies ▼";
+hobbiesDropdown.style.cursor = "pointer";
+hobbiesDropdown.onclick = function() {
+    var hobbiesContent = document.getElementById("hobbies-content");
+    if (hobbiesContent.style.display === "none") {
+        hobbiesContent.style.display = "block";
+        hobbiesDropdown.innerHTML = "Hobbies ▼";
+    } else {
+        hobbiesContent.style.display = "none";
+        hobbiesDropdown.innerHTML = "Hobbies ►";
+    }
+};
+document.body.insertBefore(hobbiesDropdown, document.body.children[document.body.children.length - 1].nextSibling);
+
+// Hobbies content
+var hobbiesContent = document.createElement("div");
+hobbiesContent.id = "hobbies-content";
+hobbiesContent.style.display = "none";
+hobbiesContent.innerHTML = `
+    <ul>
+        <li><strong>Cooking</strong> - from my <a href="pages/peranakan.md">Peranakan</a> heritage (ongoing project)</li>
+        <li><strong>Eating</strong> - here are some <a href="pages/food.md">favourite destinations</a> in NY, SG and Perth</li>
+        <li><strong>Travelling</strong> - here are some <a href="pages/places.md">places</a> I've visited on the journey so far</li>
+        <li><strong>Jazz</strong> - am an aspiring (amateur) jazz piano player</li>
+    </ul>
+`;
+document.body.insertBefore(hobbiesContent, document.body.children[document.body.children.length - 1].nextSibling);
+```
