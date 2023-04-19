@@ -1,4 +1,4 @@
-# Hi, my name is Liam :-)
+## Hi, my name is Liam :-)
 
 I'm a Columbia [SIPA](https://www.sipa.columbia.edu/)-[QMSS](https://www.qmss.columbia.edu/) double Master's graduate and [Fulbright Scholar](https://www.fulbright.org.au/scholarships/anne-wexler-australian/) with deep interests in data science and quantitative applications to economic policy, international trade and financial markets.
 
@@ -121,7 +121,7 @@ I'm a Columbia [SIPA](https://www.sipa.columbia.edu/)-[QMSS](https://www.qmss.co
 <script>
     function toggleTechnicalSkills() {
         var technicalSkills = document.getElementById("technicalSkills");
-        var technicalSkillsToggle = document.querySelector("h3[onclick='toggleTechnicalSkills()']");
+        var technicalSkillsToggle = document.querySelector("h2[onclick='toggleTechnicalSkills()']");
         if (technicalSkills.style.display === "none") {
             technicalSkills.style.display = "block";
             technicalSkillsToggle.innerHTML = "Technical Skills ▼";
@@ -147,7 +147,7 @@ I'm a Columbia [SIPA](https://www.sipa.columbia.edu/)-[QMSS](https://www.qmss.co
 <script>
     function toggleQualifications() {
         var qualifications = document.getElementById("qualifications");
-        var qualificationsToggle = document.querySelector("h3[onclick='toggleQualifications()']");
+        var qualificationsToggle = document.querySelector("h2[onclick='toggleQualifications()']");
         if (qualifications.style.display === "none") {
             qualifications.style.display = "block";
             qualificationsToggle.innerHTML = "Qualifications ▼";
@@ -183,7 +183,7 @@ I'm a Columbia [SIPA](https://www.sipa.columbia.edu/)-[QMSS](https://www.qmss.co
 <script>
     function toggleExperience() {
         var experience = document.getElementById("experience");
-        var experienceToggle = document.querySelector("h3[onclick='toggleExperience()']");
+        var experienceToggle = document.querySelector("h2[onclick='toggleExperience()']");
         if (experience.style.display === "none") {
             experience.style.display = "block";
             experienceToggle.innerHTML = "Experience ▼";
@@ -209,7 +209,7 @@ I'm a Columbia [SIPA](https://www.sipa.columbia.edu/)-[QMSS](https://www.qmss.co
 <script>
     function toggleHobbies() {
         var hobbies = document.getElementById("hobbies");
-        var hobbiesToggle = document.querySelector("h3[onclick='toggleHobbies()']");
+        var hobbiesToggle = document.querySelector("h2[onclick='toggleHobbies()']");
         if (hobbies.style.display === "none") {
             hobbies.style.display = "block";
             hobbiesToggle.innerHTML = "Hobbies ▼";
