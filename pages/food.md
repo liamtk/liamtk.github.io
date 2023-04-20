@@ -1,3 +1,7 @@
+---
+layout: default
+title: Food
+---
 # My favourite places to eat
 
 ### Singapore
