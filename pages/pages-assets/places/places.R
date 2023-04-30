@@ -5,6 +5,8 @@ library(tidygeocoder)
 
 setwd(dirname(rstudioapi::getActiveDocumentContext()[["path"]]))
 
+## Write in new places into the csv file.
+
 # read in data
 combined <- read_csv("combined.csv")
 
@@ -18,6 +20,7 @@ combined <- combined %>%
   filter(!is.na(lat) & !is.na(long)) %>%
   bind_rows(new_places)
 
+# make sure combined.csv file is closed in excel
 write_csv(combined, "combined.csv")
 
 #init color palette

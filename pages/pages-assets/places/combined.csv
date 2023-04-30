@@ -1,6 +1,6 @@
 place,region,lat,long,image_url,visited_year
 "Sydney, NSW",anz,-33.8698439,151.2082848,https://i.imgur.com/wr2h5O7.jpg,"2003, 2007, 2011, 2016, 2017, 2018, 2019"
-"Perth, WA",anz,-31.9558964,115.8605801,https://i.imgur.com/6AMSo5l.jpg,NA (Home)
+"Perth, WA",anz,-31.9558964,115.8605801,https://i.imgur.com/6AMSo5l.jpg,NA
 "Exmouth, WA",anz,-22.29247155,114.1469586,NA,2006
 "Gold Coast, QLD",anz,-28.0023731,153.4145987,NA,2003
 "Melbourne, VIC",anz,-37.8142176,144.9631608,https://i.imgur.com/NoWc0lC.jpg,"2013, 2014, 2015, 2019"
@@ -15,7 +15,7 @@ place,region,lat,long,image_url,visited_year
 "Broome, WA",anz,-17.9566909,122.2240181,https://i.imgur.com/hPibGGh.jpg,"2006, 2020, 2021"
 "Kununurra, WA",anz,-15.7730916,128.738839,https://i.imgur.com/7kG29jc.jpg,2006
 "Carnarvon, WA",anz,-24.8826131,113.6576486,NA,2006
-"Boddington, WA",anz,-32.792141,116.4210582,https://i.imgur.com/IRY6o1y.jpg,NA (Home)
+"Boddington, WA",anz,-32.792141,116.4210582,https://i.imgur.com/IRY6o1y.jpg,NA
 "Boyup Brook, WA",anz,-33.884175,116.5197515,NA,2002
 "Bunbury, WA",anz,-33.3267797,115.636698,https://i.imgur.com/TE5Nzk6.jpg,"2006, 2012"
 "Port Hedland, WA",anz,-20.3718658,118.6316559,NA,2006
@@ -66,8 +66,8 @@ place,region,lat,long,image_url,visited_year
 "Budapest, Hungary",eur,47.48138955,19.14609413,https://i.imgur.com/R3SwO3N.jpg,2018
 "Hallstatt, Austria",eur,47.5621698,13.6486697,https://i.imgur.com/ntNw6Y1.jpg,2018
 "Cesky Krumlov, Czechia",eur,48.80511495,14.31619779,https://i.imgur.com/8dW5Ufg.jpg,2018
-"Amsterdam, Netherlands",eur,52.3730796,4.8924534,https://i.imgur.com/WqjLuHw.jpg,"2015, 2022"
-"London, UK",eur,51.5073359,-0.12765,https://i.imgur.com/nlIRIfk.jpg,"2015, 2018"
+"Amsterdam, Netherlands",eur,52.3730796,4.8924534,https://i.imgur.com/WqjLuHw.jpg,"2015, 2022, 2023"
+"London, UK",eur,51.5073359,-0.12765,https://i.imgur.com/nlIRIfk.jpg,"2015, 2018, 2023"
 "Oxford, UK",eur,51.7520131,-1.2578499,https://i.imgur.com/53Iaux7.jpg,2015
 "Cambridge, UK",eur,52.2055314,0.1186637,https://i.imgur.com/KNEPZBW.jpg,2015
 "Bath, UK",eur,51.3813864,-2.3596963,https://i.imgur.com/t5g8Kn7.jpg,2015
@@ -158,7 +158,7 @@ Macau SAR,noa,22.318781,113.9488778,https://i.imgur.com/wSXcxEy.jpg,2010
 "Machu Picchu, Peru",sam,-13.16442195,-72.5450851,https://i.imgur.com/92ssjnA.jpg,2020
 "Bogota, Colombia",sam,4.6534649,-74.0836453,https://i.imgur.com/xIu6QW5.jpg,2020
 "Zipaquira, Colombia",sam,5.0234748,-74.0039818,https://i.imgur.com/Z4FD3gW.jpg,2020
-"Singapore, Singapore",sea,1.357107,103.8194992,https://i.imgur.com/nUUVoZd.jpg,NA (Home)
+"Singapore, Singapore",sea,1.357107,103.8194992,https://i.imgur.com/nUUVoZd.jpg,NA
 "Johor Bahru, Malaysia",sea,1.503555,103.7495586,https://i.imgur.com/W5qv5YB.jpg,"2009, 2010"
 "Muar, Malaysia",sea,2.05,102.5666667,https://i.imgur.com/GKDY1TA.jpg,2009
 "Ipoh, Malaysia",sea,4.5986817,101.0900236,https://i.imgur.com/Fm3dsYF.jpg,2010
@@ -199,6 +199,16 @@ Grand Canyon Visitor Center,nam,36.05911175,-112.1093343,https://i.imgur.com/n5K
 "San Gimignano, Italy",eur,43.4677993,11.0432115,https://i.imgur.com/5Jix8RJ.jpg,2015
 Washington DC,nam,38.8950368,-77.0365427,https://i.imgur.com/QqT9wHb.jpg,"2021, 2022, 2023"
 "Walpole, WA",anz,-34.9776796,116.7310063,https://i.imgur.com/KzJpSKv.jpg,2011
-"Rockingham, WA",anz,-32.2851899,115.7426524,https://i.imgur.com/BYWnYcZ.jpg,NA (Home)
-"Mandurah, WA",anz,-32.5302495,115.7208782,https://i.imgur.com/OFcXZR7.jpg,NA (Home)
+"Rockingham, WA",anz,-32.2851899,115.7426524,https://i.imgur.com/BYWnYcZ.jpg,NA
+"Mandurah, WA",anz,-32.5302495,115.7208782,https://i.imgur.com/OFcXZR7.jpg,NA
 "Niseko, Japan",noa,42.804684,140.6873034,https://i.imgur.com/03xOewl.jpg,"2008, 2009"
+"Thessaloniki, Greece",eur,40.6403167,22.9352716,NA,2023
+"Athens, Greece",eur,37.9839412,23.7283052,https://i.imgur.com/F6uolT0.jpg,2023
+"Kotor, Montenegro",eur,42.4248515,18.7710437,https://i.imgur.com/3FaNGYK.jpg,2023
+"Sveti Stefan, Montenegro",eur,42.2558399,18.89118267872983,https://i.imgur.com/uxxnyLW.jpg,2023
+"Podgorica, Montenegro",eur,42.4415238,19.2621081,https://i.imgur.com/qQ5gQnp.jpg,2023
+"Perast, Montenegro",eur,42.4862681,18.6988592,https://i.imgur.com/sVgLTuT.jpg,2023
+"Istanbul, Turkiye",eur,41.0091982,28.9662187,https://i.imgur.com/qsDia6X.jpg,2023
+"Paphos, Cyprus",eur,34.7743988,32.4231586,NA,2023
+"Nicosia, Cyprus",eur,35.1748976,33.3638568,NA,2023
+"Skadarsko Jezero, Montenegro",eur,42.195312,19.292694051218554,https://i.imgur.com/pY184xv.jpg,2023
