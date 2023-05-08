@@ -3,9 +3,13 @@ library(leaflet)
 library(htmlwidgets)
 library(tidygeocoder)
 
+## WARNINGS
+## Make sure to close the 'combined.csv' file before executing this script
+## Check the variable "new_places" to see whether the geocode has worked
+
 setwd(dirname(rstudioapi::getActiveDocumentContext()[["path"]]))
 
-## Write in new places into the csv file.
+## 1 -- Read in data, geocode new places
 
 # read in data
 combined <- read_csv("combined.csv")
@@ -20,16 +24,19 @@ combined <- combined %>%
   filter(!is.na(lat) & !is.na(long)) %>%
   bind_rows(new_places)
 
-# make sure combined.csv file is closed in excel
+## Write out the new combined.csv file
+
+
+## 2 -- Generate the map 
 write_csv(combined, "combined.csv")
 
-#init color palette
+# set color palette
 pal <- colorFactor(
   palette = c('blue', 'darkorange1', 'black', 'turquoise4', 'red', 'darkorchid4', 'darkgreen'),
   domain = combined$region
 )
 
-#generate map
+# make the map
 map <- combined %>%
   mutate(region = as.factor(region)) %>% 
   leaflet() %>%
@@ -58,11 +65,9 @@ map <- combined %>%
   leaflet.extras::addResetMapButton() %>%
   leaflet::setView(lat = 0, lng = 0, zoom = 1)
 
+# display the map
 map
 
-# Save/write map as widget ----------------------------------------------
-
-setwd(dirname(rstudioapi::getActiveDocumentContext()[["path"]]))
-
+# save/write map as widget ----------------------------------------------
 map %>% saveWidget('places.html') # save as widget
 
