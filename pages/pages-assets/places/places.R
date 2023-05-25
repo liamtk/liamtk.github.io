@@ -1,8 +1,15 @@
+# places.R geocoder and travel map with images
+
 library(tidyverse)
 library(dplyr)
 library(leaflet)
 library(htmlwidgets)
 library(tidygeocoder)
+
+## INSTRUCTIONS
+## Update the combined.csv file
+## Upload images to imgur and add links if desired
+## Then run this whole script (cmd + shift + enter)
 
 ## WARNINGS
 ## Make sure to close the 'combined.csv' file before executing this script
@@ -72,3 +79,21 @@ map
 # save/write map as widget ----------------------------------------------
 map %>% saveWidget('places.html') # save as widget
 
+# Git commands
+system("git config --global user.email 'liam.k@columbia.edu'")
+
+# Pull first
+system("git pull")
+
+# Commit message
+commit_message <- "update places.html map"
+
+# Add changes to the staging area
+system("git add combined.csv")
+system("git add places.html")
+
+# Commit changes with the specified message
+system2("git", c("commit", "-m", shQuote(commit_message)))
+
+# Push changes to the remote repository
+system("git push -u origin main")
