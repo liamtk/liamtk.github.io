@@ -1,4 +1,5 @@
 library(tidyverse)
+library(dplyr)
 library(leaflet)
 library(htmlwidgets)
 library(tidygeocoder)
@@ -17,7 +18,7 @@ combined <- read_csv("combined.csv")
 # geocode new (if no new places, ignore -- it will throw an error)
 new_places <- combined %>%
   filter(is.na(lat) & is.na(long)) %>%
-  select(-lat, -long) %>%
+  dplyr::select(-lat, -long) %>%
   geocode(address = place, method = "osm")
 
 combined <- combined %>% 
