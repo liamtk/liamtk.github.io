@@ -3,8 +3,8 @@ _site
 Gemfile.lock
 *.gem
 .jekyll-cache
-places.R
 
 files/
 files
 ./files/
+pages/pages-assets/places/.Rhistory
