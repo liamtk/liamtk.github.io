@@ -1,7 +1,8 @@
 # places.R geocoder and travel map with images
 
-library(tidyverse)
 library(dplyr)
+library(rstudioapi)
+library(readr)
 library(leaflet)
 library(htmlwidgets)
 library(tidygeocoder)
@@ -15,32 +16,59 @@ library(tidygeocoder)
 ## Make sure to close the 'combined.csv' file before executing this script
 ## Check the variable "new_places" to see whether the geocode has worked
 
-setwd(dirname(rstudioapi::getActiveDocumentContext()[["path"]]))
-
-## 1 -- Read in data, geocode new places
+setwd(dirname(getActiveDocumentContext()[["path"]]))
 
 # read in data
 combined <- read_csv("combined.csv")
 
 # geocode new (if no new places, ignore -- it will throw an error)
-new_places <- combined %>%
-  filter(is.na(lat) & is.na(long)) %>%
-  dplyr::select(-lat, -long) %>%
-  geocode(address = place, method = "osm")
-
-combined <- combined %>% 
-  filter(!is.na(lat) & !is.na(long)) %>%
-  bind_rows(new_places)
-
-## Write out the new combined.csv file
-
+if(sum(is.na(combined$lat) | is.na(combined$long)) == 0){
+  message("LIAM SAYS: There were no new places to geocode")
+  stop("Please try again with actual addresses to geocode...",
+       call. = FALSE)
+  
+} else{
+  
+  new_places <- combined %>%
+    filter(is.na(lat) | is.na(long)) %>%
+    dplyr::select(-lat, -long) %>%
+    geocode(address = place, method = "osm")
+  
+  successes <- sum(!is.na(new_places$lat) & !is.na(new_places$long))
+  failures <-  sum(is.na(new_places$lat) | is.na(new_places$long))
+  
+  cat("New places geocoded: \n\n")
+  
+  for (i in seq_len(nrow(new_places))) {
+    if (is.na(new_places$lat[i]) | is.na(new_places$long[i])) {
+      cat(paste(new_places$place[i], "[FAILURE]", sep = " "), "\n")
+    } else {
+      cat(paste(new_places$place[i], "[SUCCESS]", sep = " "), "\n")
+    }
+  }
+  
+  ## Remove input rows and bind newly geocoded rows
+  combined <<- combined %>% 
+    filter(!is.na(lat) & !is.na(long)) %>%
+    bind_rows(new_places)
+  
+  ## Write out the new combined.csv file
+  message("File combined.csv successfully overwritten")
+  write_csv(combined, "combined.csv")
+  
+}
 
 ## 2 -- Generate the map 
-write_csv(combined, "combined.csv")
 
-# set color palette
+# Create color palette based on the unique continents
 pal <- colorFactor(
-  palette = c('blue', 'darkorange1', 'black', 'turquoise4', 'red', 'darkorchid4', 'darkgreen'),
+  palette = c('forestgreen', #europe
+              'navyblue', #latin america 
+              'goldenrod4', #middle east & north africa 
+              'firebrick2', #north america 
+              'darkmagenta', #north & east asia 
+              'deepskyblue3', #oceania
+              'darkorange1'), #south and southeast asia
   domain = combined$region
 )
 
@@ -59,7 +87,7 @@ map <- combined %>%
                    fillOpacity = 0.7,
                    radius = 4.5) %>%
   addLayersControl(
-    baseGroups = c("CartoDB.Positron", "OpenStreetMap", "Esri.WorldTopoMap"),
+    baseGroups = c("CartoDB.Positron","Esri.WorldTopoMap", "OpenStreetMap"),
     options = layersControlOptions(collapsed = FALSE)
   ) %>%
   addProviderTiles("CartoDB.Positron", group = "CartoDB.Positron", 
