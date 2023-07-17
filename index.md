@@ -1,6 +1,6 @@
 ## Hi, my name is Liam :-)
 
-I'm a Columbia [SIPA](https://www.sipa.columbia.edu/)-[QMSS](https://www.qmss.columbia.edu/) double Master's graduate and [Fulbright Scholar](https://www.fulbright.org.au/scholarships/anne-wexler-australian/) with deep interests in data science and quantitative applications to economic policy, international trade and financial markets.
+I'm a Columbia [SIPA](https://www.sipa.columbia.edu/)-[QMSS](https://www.qmss.columbia.edu/) double Master's graduate and [Fulbright Scholar](https://www.fulbright.org.au/scholarships/anne-wexler-australian/) with deep interests in data science and quantitative applications to economic policy, international trade and financial markets. Currently working as a quantitative research associate at [M Science](https://mscience.com/).
 
 - **Email**: [liam.k@columbia.edu](mailto:liam.k@columbia.edu)
 - **LinkedIn**: [https://www.linkedin.com/in/liamtaykearney](https://www.linkedin.com/in/liamtaykearney)
@@ -159,13 +159,12 @@ I'm a Columbia [SIPA](https://www.sipa.columbia.edu/)-[QMSS](https://www.qmss.co
 </script>
 
 
-
 <h2 onclick="toggleExperience()" style="cursor: pointer;">Experience ►</h2>
 <div id="experience" style="display: none;">
     <ul>
+        <li><strong>M Science</strong> - Quantitative Research Associate (2023-present)</li>
         <li><strong>University of Pennsylvania</strong> - Research Data Analyst (2022-present)</li>
         <li><strong>Citi Global Wealth</strong> - Grad. Consultant, Investment Research (Fall 2022)</li>
-        <li><strong>KPMG Digital</strong> - Grad. Consultant, Data Science (Spring 2022)</li>
         <li><strong>Columbia SIPA</strong> - Research Assistant, Data Science & Public Policy (2021-22)</li>
         <li><strong>Columbia SIPA</strong> - Teaching Assistant, R for Policy Research (2021-22)</li>
         <li><strong>Australian Embassy, Beijing</strong> - Public Affairs Assistant (2018)</li>
@@ -179,6 +178,7 @@ I'm a Columbia [SIPA](https://www.sipa.columbia.edu/)-[QMSS](https://www.qmss.co
         </li>
     </ul>
 </div>
+
 
 <script>
     function toggleExperience() {
