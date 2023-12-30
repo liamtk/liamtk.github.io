@@ -1,239 +1,247 @@
-place,region,lat,long,image_url,visited_year
-"Perth, WA",Oceania,-31.9558964,115.8605801,https://i.imgur.com/6AMSo5l.jpg,NA
-"Exmouth, WA",Oceania,-22.29247155,114.1469586,NA,2006
-"Melbourne, VIC",Oceania,-37.8142176,144.9631608,https://i.imgur.com/NoWc0lC.jpg,"2013, 2014, 2015, 2019"
-"Mount Buller, VIC",Oceania,-37.2694615,146.4008688,NA,2003
-"Canberra, ACT",Oceania,-35.2975906,149.1012676,https://i.imgur.com/zICtkCe.jpg,"2016, 2017, 2019, 2020"
-"Port Douglas, QLD",Oceania,-16.4845983,145.4636294,NA,2003
-"Cairns, QLD",Oceania,-16.9206657,145.7721854,NA,2003
-"Hobart, TAS",Oceania,-42.8825088,147.3281233,https://i.imgur.com/yTjLm5r.jpg,2020
-"Darwin, NT",Oceania,-12.46044,130.8410469,https://i.imgur.com/kVGwDWj.jpg,2009
-"Broome, WA",Oceania,-17.9566909,122.2240181,https://i.imgur.com/hPibGGh.jpg,"2006, 2020, 2021"
-"Kununurra, WA",Oceania,-15.7730916,128.738839,https://i.imgur.com/7kG29jc.jpg,2006
-"Carnarvon, WA",Oceania,-24.8826131,113.6576486,NA,2006
-"Boddington, WA",Oceania,-32.792141,116.4210582,https://i.imgur.com/IRY6o1y.jpg,NA
-"Boyup Brook, WA",Oceania,-33.884175,116.5197515,NA,2002
-"Bunbury, WA",Oceania,-33.3267797,115.636698,https://i.imgur.com/TE5Nzk6.jpg,"2006, 2012"
-"Port Hedland, WA",Oceania,-20.3718658,118.6316559,NA,2006
-"Margaret River, WA",Oceania,-33.9531776,115.0769369,https://i.imgur.com/5iWaQvZ.jpg,"2002, 2003, 2004, 2012, 2019"
-"Dalwallinu, WA",Oceania,-30.1299745,116.9455417,https://i.imgur.com/h3Fco2r.jpg,2016
-"Three Springs, WA",Oceania,-29.4913105,115.6356876,https://i.imgur.com/5uvVQz0.jpg,2014
-"Geraldton, WA",Oceania,-28.77035,114.6147159,NA,2006
-"Hamilton Island, QLD",Oceania,-20.35462625,148.9560518,NA,2003
-"Christchurch, NZ",Oceania,-43.530955,172.6366455,https://i.imgur.com/1owwEMP.jpg,2017
-"Akaroa, NZ",Oceania,-43.82493765,173.0209638,https://i.imgur.com/Vyjr2gr.jpg,2017
-"Lake Pukaki, NZ",Oceania,-44.04776085,170.1742311,https://i.imgur.com/D4OcbzW.jpg,2017
-"Queenstown, NZ",Oceania,-45.0321923,168.661,https://i.imgur.com/Nc1RuDC.jpg,2011
-"Suva, Fiji",Oceania,-18.1415884,178.4421662,https://i.imgur.com/enceNb7.png,2008
-"Nadi, Fiji",Oceania,-17.7992725,177.4178549,https://i.imgur.com/roS5MmB.png,2008
-"Paris, France",Europe,48.8588897,2.320041022,https://i.imgur.com/D82zSqR.jpg,2009
-"Barcelona, Catalunya",Europe,41.3828939,2.1774322,https://i.imgur.com/mOD2zcz.jpg,"2015, 2018"
-"Madrid, Spain",Europe,40.4167047,-3.7035825,https://i.imgur.com/gkzyw5d.jpg,"2015, 2018"
-"Berlin, Germany",Europe,52.5170365,13.3888599,https://i.imgur.com/nUGaLIy.jpg,2022
-"Seville, Spain",Europe,37.3886303,-5.9953403,https://i.imgur.com/IpVAOgH.jpg,2015
-"Lisbon, Portugal",Europe,38.7077507,-9.1365919,https://i.imgur.com/XWFFgmv.jpg,2018
-"Sintra, Portugal",Europe,38.83554455,-9.352237113,https://i.imgur.com/IVkpP4a.jpg,2018
-"Porto, Portugal",Europe,41.1494512,-8.6107884,https://i.imgur.com/rhsdbhz.jpg,2018
-"Bourg-Saint-Maurice, France",Europe,45.6185284,6.7694313,https://i.imgur.com/9OyAVNW.jpg,2009
-"Cork, Ireland",Europe,51.897077,-8.4654674,https://i.imgur.com/Ydo133K.jpg,2015
-"Limerick, Ireland",Europe,52.661252,-8.6301239,https://i.imgur.com/28beFST.jpg,2015
-"Galway, Ireland",Europe,53.2744122,-9.0490601,https://i.imgur.com/0GlfM3K.jpg,2015
-"Aarhus, Denmark",Europe,56.1496278,10.2134046,https://i.imgur.com/Ha4PMBU.jpg,2018
-"Prague, Czechia",Europe,50.0874654,14.4212535,https://i.imgur.com/ISxRnIq.jpg,2018
-"Milan, Italy",Europe,45.4641943,9.1896346,https://i.imgur.com/PWijvt7.jpg,2015
-"Catania, Italy",Europe,37.5023612,15.0873718,https://i.imgur.com/8hnGEfj.jpg,2022
-"Palermo, Italy",Europe,38.1112268,13.3524434,https://i.imgur.com/hKnDG9a.jpg,2022
-"Syracuse, Italy",Europe,37.0646139,15.2907196,https://i.imgur.com/ciFVRve.jpg,2022
-"Agrigento, Italy",Europe,37.3122991,13.57465,https://i.imgur.com/XMWm9th.jpg,2022
-"Ragusa, Italy",Europe,36.9219828,14.7213455,https://i.imgur.com/7h070pj.jpg,2022
-"Taormina, Italy",Europe,37.8517921,15.2856523,https://i.imgur.com/mCmfA4Q.jpg,2022
-"Rome, Italy",Europe,41.8933203,12.4829321,https://i.imgur.com/IgbjkJs.jpg,"2015, 2022"
-"Naples, Italy",Europe,40.8358846,14.2487679,https://i.imgur.com/p99T6wb.jpg,"2015, 2022"
-"Florence, Italy",Europe,43.7698712,11.2555757,https://i.imgur.com/WcS6Q0V.jpg,2015
-"Venice, Italy",Europe,45.4371908,12.3345898,https://i.imgur.com/dlI8eiK.jpg,2015
-"Pisa, Italy",Europe,43.7159395,10.4018624,https://i.imgur.com/8BiDaJv.jpg,2015
-"Lugano, Switzerland",Europe,46.0050102,8.9520281,NA,2015
-"Vienna, Austria",Europe,48.2083537,16.3725042,https://i.imgur.com/sAdBddr.jpg,2018
-"Salzburg, Austria",Europe,47.7981346,13.0464806,https://i.imgur.com/TROmeIq.jpg,2018
-"Melk, Austria",Europe,48.2272068,15.3369992,https://i.imgur.com/wZZschN.jpg,2018
-"Bratislava, Slovakia",Europe,48.1516988,17.1093063,https://i.imgur.com/XuSSPpS.jpg,2018
-"Budapest, Hungary",Europe,47.48138955,19.14609413,https://i.imgur.com/R3SwO3N.jpg,2018
-"Hallstatt, Austria",Europe,47.5621698,13.6486697,https://i.imgur.com/ntNw6Y1.jpg,2018
-"Cesky Krumlov, Czechia",Europe,48.80511495,14.31619779,https://i.imgur.com/8dW5Ufg.jpg,2018
-"Amsterdam, Netherlands",Europe,52.3730796,4.8924534,https://i.imgur.com/WqjLuHw.jpg,"2015, 2022, 2023"
-"London, UK",Europe,51.5073359,-0.12765,https://i.imgur.com/nlIRIfk.jpg,"2015, 2018, 2023"
-"Oxford, UK",Europe,51.7520131,-1.2578499,https://i.imgur.com/53Iaux7.jpg,2015
-"Cambridge, UK",Europe,52.2055314,0.1186637,https://i.imgur.com/KNEPZBW.jpg,2015
-"Bath, UK",Europe,51.3813864,-2.3596963,https://i.imgur.com/t5g8Kn7.jpg,2015
-"Bilbao, Basque Country",Europe,43.2630018,-2.9350039,https://i.imgur.com/Hyee1jw.jpg,"2015, 2018"
-"Cordoba, Spain",Europe,37.8845813,-4.7760138,https://i.imgur.com/QStKXQ4.jpg,2015
-"Donostia, Basque Country",Europe,43.3224219,-1.9838889,https://i.imgur.com/rQRQKRN.jpg,2018
-"Haifa, Israel",Middle East & North Africa,32.8191218,34.9983856,https://i.imgur.com/BzzpQVf.jpg,2022
-"Ramallah, Palestine",Middle East & North Africa,31.8986188,35.1780635,https://i.imgur.com/ijQdsDq.png,2022
-"Hebron, Palestine",Middle East & North Africa,31.5336282,35.0979762,https://i.imgur.com/of1mvxC.jpg,2022
-Jerusalem,Middle East & North Africa,31.79592425,35.21198076,https://i.imgur.com/SVwnp2Y.jpg,2022
-"Jericho, Palestine",Middle East & North Africa,31.8588002,35.4597469,https://i.imgur.com/gJQau48.jpg,2022
-"Acre, Israel",Middle East & North Africa,32.9281731,35.0756378,https://i.imgur.com/VqbHkN1.jpg,2022
-"New York City, NY",North & Central America,40.7127281,-74.0060152,https://i.imgur.com/C4IpcHZ.jpg,"2021, 2022, 2023"
-"Greenwood Lake, NY",North & Central America,41.2225932,-74.2943178,https://i.imgur.com/9grq7AK.jpg,2022
-"Beacon, NY",North & Central America,41.504879,-73.9696822,https://i.imgur.com/qAj3ISc.jpg,2022
-"New Orleans, LA",North & Central America,29.9759983,-90.0782127,https://i.imgur.com/4mugHGH.jpg,2022
-"Las Vegas, NV",North & Central America,36.1672559,-115.148516,https://i.imgur.com/XvG8vyJ.jpg,2022
-"San Francisco, CA",North & Central America,37.7790262,-122.419906,https://i.imgur.com/yEGVV5C.jpg,2022
-"Page, AZ",North & Central America,36.9148305,-111.457294,https://i.imgur.com/chCk1Xx.jpg,2022
-"Tusayan, AZ",North & Central America,35.9735954,-112.126556,https://i.imgur.com/4Zcp29o.jpg,2022
-Grand Canyon North Rim,North & Central America,36.1974532,-112.0529243,https://i.imgur.com/5Nn9G9c.jpg,2022
-"Durham, NC",North & Central America,35.996653,-78.9018053,https://i.imgur.com/0z9iumw.jpg,2022
-"Cold Spring, NY",North & Central America,41.4200938,-73.9545831,https://i.imgur.com/6d4H9op.jpg,2021
-"Boston, MA",North & Central America,42.3554334,-71.060511,https://i.imgur.com/Q1kiP1b.jpg,2021
-"Salt Lake City, UT",North & Central America,40.7596198,-111.886797,https://i.imgur.com/kHNOnmx.jpg,2023
-"Montego Bay, Jamaica",Latin America & Caribbean,18.4724603,-77.9217357,https://i.imgur.com/cDWU3Y7.jpg,2023
-"Philadelphia, PA",North & Central America,39.9527237,-75.1635262,https://i.imgur.com/jDk011P.jpg,"2022, 2023"
-"Portland, Maine",North & Central America,43.6610277,-70.2548596,https://i.imgur.com/3LcaTiY.jpg,2021
-"Scranton, PA",North & Central America,41.4086874,-75.6621294,https://i.imgur.com/2JEANAU.jpg,2022
-"Lancaster, PA",North & Central America,40.03813,-76.3056686,https://i.imgur.com/fg1nqv7.jpg,2022
-"Hoboken, NJ",North & Central America,40.7433066,-74.0323752,https://i.imgur.com/s38czL6.jpg,2021
-"Baltimore, MD",North & Central America,39.2908816,-76.610759,https://i.imgur.com/raP0ycl.jpg,2022
-"Wilmington, DE",North & Central America,39.7459468,-75.546589,https://i.imgur.com/qEBuai1.jpg,2022
-"Vancouver, Canada",North & Central America,49.2608724,-123.113952,NA,2002
-"Oaxaca, Mexico",North & Central America,17,-96.5,https://i.imgur.com/KPWRWMh.jpg,2020
-"Merida, Mexico",North & Central America,20.9670759,-89.6237402,https://i.imgur.com/keDA0Wt.jpg,2020
-"Tulum, Mexico",North & Central America,20.2152358,-87.42953531,https://i.imgur.com/rMCunrq.jpg,2020
-"Valladolid, Mexico",North & Central America,20.6902505,-88.2016999,https://i.imgur.com/o5QVHaR.jpg,2020
-"Playa Del Carmen, Mexico",North & Central America,20.6308643,-87.0779503,https://i.imgur.com/bhBhB3V.jpg,2020
-"Ciudad De Mexico, Mexico",North & Central America,19.4326296,-99.1331785,https://i.imgur.com/7PXuDCk.jpg,2020
-"Uxmal, Mexico",North & Central America,20.3591787,-89.7717568,https://i.imgur.com/YQCkXo1.jpg,2020
-"Beijing, China",North & East Asia,39.906217,116.3912757,https://i.imgur.com/rWjMZJq.jpg,"2010, 2011, 2012, 2017, 2018, 2019"
-"Shanghai, China",North & East Asia,31.2322758,121.4692071,https://i.imgur.com/g5N2rTP.jpg,"2010, 2012, 2015, 2017, 2018, 2019"
-"Hangzhou, Zhejiang",North & East Asia,30.2489634,120.2052342,https://i.imgur.com/iDeKDgl.jpg,"2015, 2017, 2018, 2019"
-"Guangzhou, Guangdong",North & East Asia,23.1301964,113.2592945,https://i.imgur.com/EckPagG.jpg,2019
-"Qiandaohu, Zhejiang",North & East Asia,29.6092534,119.0729204,https://i.imgur.com/uOzS6Ax.jpg,2015
-"Huangshan, Anhui",North & East Asia,30.13235465,118.1566918,https://i.imgur.com/ocnrUgD.jpg,2015
-"Xi'an, Shaanxi",North & East Asia,34.2607713,108.9423443,NA,2010
-"Ordos, Inner Mongolia",North & East Asia,39.6081457,109.7763659,https://i.imgur.com/nykpJRH.jpg,2017
-"Hongcun, Anhui",North & East Asia,30.004784,117.9847312,https://i.imgur.com/5Ucok3S.jpg,2015
-"Taipei, Taiwan",North & East Asia,25.0375198,121.5636796,https://i.imgur.com/jXxs8r5.jpg,2016
-"Yehliu, Taiwan",North & East Asia,25.2038994,121.6886491,https://i.imgur.com/YSxIUPp.jpg,2016
-"Sanya, Hainan",North & East Asia,18.2534658,109.5034392,https://i.imgur.com/lyuYMMO.jpg,2015
-"Fuzhou, Fujian",North & East Asia,26.0774954,119.2918215,https://i.imgur.com/8IyGf52.jpg,2015
-"Ningde, Fujian",North & East Asia,26.6695006,119.5432715,https://i.imgur.com/r7VrRZC.jpg,2015
-"Xiamen, Fujian",North & East Asia,24.4801069,118.0853479,https://i.imgur.com/DpF0E1O.jpg,2019
-Hong Kong SAR,North & East Asia,22.350627,114.1849161,https://i.imgur.com/2IfybQB.jpg,"2007, 2009, 2010, 2011, 2018"
-Macau SAR,North & East Asia,22.318781,113.9488778,https://i.imgur.com/wSXcxEy.jpg,2010
-"Urumqi, Xinjiang",North & East Asia,43.419754,87.319461,https://i.imgur.com/JkSZfUC.jpg,2016
-"Guilin, Guangxi",North & East Asia,25.238704,110.1750728,NA,2010
-"Fenghuang, Hunan",North & East Asia,27.9513305,109.5941968,https://i.imgur.com/6cq4Qgw.jpg,2016
-"Zhangjiajie, Hunan",North & East Asia,29.1176794,110.4741428,https://i.imgur.com/0kL6JBk.jpg,2016
-"Dali, Yunnan",North & East Asia,25.6074778,100.2651597,https://i.imgur.com/Agtyxwh.jpg,2017
-"Lijiang, Yunnan",North & East Asia,26.8595868,100.2249797,https://i.imgur.com/Hknwftt.jpg,2017
-"Shangri-La, Yunnan",North & East Asia,27.8452587,99.7414777,https://i.imgur.com/rwaH2fE.jpg,2017
-"Chongqing, China",North & East Asia,29.5647398,106.5478767,https://i.imgur.com/PVP1ucc.jpg,"2011, 2018"
-"Chengdu, Sichuan",North & East Asia,30.6598628,104.0633717,https://i.imgur.com/4xXFDCn.jpg,2017
-"Leshan, Sichuan",North & East Asia,29.5851296,103.747791,https://i.imgur.com/qlyYoF3.jpg,2017
-"Hohhot, Inner Mongolia",North & East Asia,40.8337963,111.6730788,https://i.imgur.com/hTlhVrJ.jpg,2017
-"Harbin, Heilongjiang",North & East Asia,45.8016143,126.5287796,https://i.imgur.com/IAPNPlP.jpg,2011
-"Jiamusi, Heilongjiang",North & East Asia,46.8087794,130.3734556,https://i.imgur.com/qOhLoeZ.jpg,2011
-"Changbaishan, Jilin",North & East Asia,42.4608801,128.1223427,https://i.imgur.com/AJeDi19.jpg,2017
-"Nanjing, Jiangsu",North & East Asia,32.0615513,118.7915619,https://i.imgur.com/B34PiX5.jpg,2017
-"Suzhou, Jiangsu",North & East Asia,31.3016935,120.5810725,https://i.imgur.com/qBzZnFw.jpg,2017
-"Tokyo, Japan",North & East Asia,35.6812665,139.757653,https://i.imgur.com/XHBeIcP.jpg,"2008, 2013, 2017"
-"Yokohama, Japan",North & East Asia,35.4443947,139.6367727,https://i.imgur.com/qawxtXA.jpg,2017
-"Osaka, Japan",North & East Asia,34.661629,135.4999268,https://i.imgur.com/XHBeIcP.jpg,2013
-"Kyoto, Japan",North & East Asia,35.021041,135.7556075,https://i.imgur.com/58DIOMp.jpg,2013
-"Seoul, South Korea",North & East Asia,37.5666791,126.9782914,https://i.imgur.com/DVtBknm.jpg,"2013, 2018"
-"Jeju, South Korea",North & East Asia,33.3939924,126.5626653,https://i.imgur.com/Fbk7olW.jpg,2018
-"Islas Ballestas, Peru",Latin America & Caribbean,-13.7359794,-76.39441336,https://i.imgur.com/9xp5B63.jpg,2020
-"Lima, Peru",Latin America & Caribbean,-12.0621065,-77.0365256,https://i.imgur.com/T5l1BGs.jpg,2020
-"Huacachina, Ica, Peru",Latin America & Caribbean,-14.08759145,-75.76305533,https://i.imgur.com/gALbnim.jpg,2020
-"Cusco, Peru",Latin America & Caribbean,-13.5170887,-71.9785356,https://i.imgur.com/WQgaFvS.jpg,2020
-"Machu Picchu, Peru",Latin America & Caribbean,-13.16442195,-72.5450851,https://i.imgur.com/92ssjnA.jpg,2020
-"Bogota, Colombia",Latin America & Caribbean,4.6534649,-74.0836453,https://i.imgur.com/xIu6QW5.jpg,2020
-"Zipaquira, Colombia",Latin America & Caribbean,5.0234748,-74.0039818,https://i.imgur.com/Z4FD3gW.jpg,2020
-"Singapore, Singapore",South & Southeast Asia,1.357107,103.8194992,https://i.imgur.com/nUUVoZd.jpg,NA
-"Johor Bahru, Malaysia",South & Southeast Asia,1.503555,103.7495586,https://i.imgur.com/W5qv5YB.jpg,"2009, 2010"
-"Muar, Malaysia",South & Southeast Asia,2.05,102.5666667,https://i.imgur.com/GKDY1TA.jpg,2009
-"Ipoh, Malaysia",South & Southeast Asia,4.5986817,101.0900236,https://i.imgur.com/Fm3dsYF.jpg,2010
-"New Delhi, India",South & Southeast Asia,28.6138954,77.2090057,https://i.imgur.com/IsFTtV0.jpg,2023
-"Penang, Malaysia",South & Southeast Asia,5.4065013,100.2559077,https://i.imgur.com/myxS74j.jpg,"2019, 2020"
-"Jakarta, Indonesia",South & Southeast Asia,-6.1753942,106.827183,NA,1999
-"Bali, Indonesia",South & Southeast Asia,-8.3304977,115.0906401,https://i.imgur.com/H9Y6YD1.jpg,2005
-Kuala Lumpur,South & Southeast Asia,3.1516964,101.6942371,https://i.imgur.com/jgyHm7U.jpg,2010
-"Cameron Highlands, Malaysia",South & Southeast Asia,4.4724267,101.3778646,https://i.imgur.com/hHsxmjc.jpg,2010
-"Malacca, Malaysia",South & Southeast Asia,2.3293744,102.2880962,https://i.imgur.com/ifryTy6.jpg,2009
-"Kota Kinabalu, Malaysia",South & Southeast Asia,5.9780066,116.0728988,NA,2004
-"Bangkok, Thailand",South & Southeast Asia,13.7524938,100.4935089,https://i.imgur.com/a27M4Vb.jpg,"2017, 2019"
-"Chiang Mai, Thailand",South & Southeast Asia,18.7882778,98.9858802,https://i.imgur.com/x9WLAjq.jpg,2017
-"Siem Reap, Cambodia",South & Southeast Asia,13.3617562,103.8590321,https://i.imgur.com/51Gecq6.jpg,2017
-"Phnom Penh, Cambodia",South & Southeast Asia,11.568271,104.9224426,https://i.imgur.com/MuhOfzI.jpg,2017
-"Saigon, Vietnam",South & Southeast Asia,10.7764772,106.701938,https://i.imgur.com/zae6man.jpg,2017
-"Hue, Vietnam",South & Southeast Asia,16.4639321,107.5863388,https://i.imgur.com/XRMjdOZ.jpg,2017
-"Da Nang, Vietnam",South & Southeast Asia,16.068,108.212,https://i.imgur.com/U1GlVcG.jpg,2017
-"Hanoi, Vietnam",South & Southeast Asia,21.0294498,105.8544441,https://i.imgur.com/u9LkdAv.jpg,2017
-"Luang Prabang, Laos",South & Southeast Asia,19.8887438,102.135898,https://i.imgur.com/mG4kFg2.jpg,2017
-"Yangon, Myanmar",South & Southeast Asia,16.7967129,96.1609916,https://i.imgur.com/76IukIM.jpg,2017
-"Bagan, Myanmar",South & Southeast Asia,21.1317111,94.8623644,https://i.imgur.com/AKTGN5i.jpg,2017
-"Naypyidaw, Myanmar",South & Southeast Asia,19.7540045,96.1344976,https://i.imgur.com/fDz85Bu.jpg,2017
-"Mawlamyine, Myanmar",South & Southeast Asia,16.4908026,97.6284825,https://i.imgur.com/PaYs0be.jpg,2017
-"Bago, Myanmar",South & Southeast Asia,18.3278182,95.64238093,https://i.imgur.com/HJBgTA7.jpg,2017
-"Tasman Island, TAS",Oceania,-43.23873035,148.002841,https://i.imgur.com/57ASnky.jpg,2020
-"Positano, Italy",Europe,40.6286581,14.4854955,https://i.imgur.com/I1nFpse.jpg,2015
-"Negev, Israel",Middle East & North Africa,30.5,34.9166667,https://i.imgur.com/wGugM3i.jpg,2022
-"Bethlehem, Palestine",Middle East & North Africa,31.7037676,35.1860778,https://i.imgur.com/wZKpAtR.jpg,2022
-Grand Canyon Visitor Center,North & Central America,36.05911175,-112.1093343,https://i.imgur.com/n5KZZye.jpg,2022
-"Ha Long Bay, Vietnam",South & Southeast Asia,20.9084384,107.0682782,https://i.imgur.com/uSuBPRx.jpg,2017
-"Tiger Leaping Gorge, Yunnan",North & East Asia,27.2044019,100.1206446,https://i.imgur.com/aWh4Y0c.jpg,2018
-"Yegyi, Ayeyarwady, Myanmar",South & Southeast Asia,17.3422261,95.1133498,https://i.imgur.com/FZG4Bf4.jpg,2017
-"Stonehenge, UK",Europe,51.1788293,-1.826183,https://i.imgur.com/meoMLeZ.jpg,2015
-"DMZ, South Korea",North & East Asia,38.3072977,127.2302394,https://i.imgur.com/Vu8Ro72.jpg,2013
-"Muir Woods, CA",North & Central America,37.89639075,-122.5802183,https://i.imgur.com/kgjugw8.jpg,2022
-"Lago di Como, Italy",Europe,45.9917589,9.264881035,https://i.imgur.com/6aiFQfv.jpg,2015
-"San Gimignano, Italy",Europe,43.4677993,11.0432115,https://i.imgur.com/5Jix8RJ.jpg,2015
-Washington DC,North & Central America,38.8950368,-77.0365427,https://i.imgur.com/QqT9wHb.jpg,"2021, 2022, 2023"
-"Walpole, WA",Oceania,-34.9776796,116.7310063,https://i.imgur.com/KzJpSKv.jpg,2011
-"Rockingham, WA",Oceania,-32.2851899,115.7426524,https://i.imgur.com/BYWnYcZ.jpg,NA
-"Mandurah, WA",Oceania,-32.5302495,115.7208782,https://i.imgur.com/OFcXZR7.jpg,NA
-"Niseko, Japan",North & East Asia,42.804684,140.6873034,https://i.imgur.com/03xOewl.jpg,"2008, 2009"
-"Thessaloniki, Greece",Europe,40.6403167,22.9352716,https://i.imgur.com/ZdjEIaa.jpg,2023
-"Athens, Greece",Europe,37.9839412,23.7283052,https://i.imgur.com/F6uolT0.jpg,2023
-"Kotor, Montenegro",Europe,42.4248515,18.7710437,https://i.imgur.com/3FaNGYK.jpg,2023
-"Sveti Stefan, Montenegro",Europe,42.2558399,18.89118268,https://i.imgur.com/uxxnyLW.jpg,2023
-"Podgorica, Montenegro",Europe,42.4415238,19.2621081,https://i.imgur.com/qQ5gQnp.jpg,2023
-"Perast, Montenegro",Europe,42.4862681,18.6988592,https://i.imgur.com/sVgLTuT.jpg,2023
-"Istanbul, Turkiye",Europe,41.0091982,28.9662187,https://i.imgur.com/qsDia6X.jpg,2023
-"Paphos, Cyprus",Europe,34.7743988,32.4231586,https://i.imgur.com/cEAAONR.jpg,2023
-"Nicosia, Cyprus",Europe,35.1748976,33.3638568,https://i.imgur.com/8hb0TiQ.jpg,2023
-"Skadarsko Jezero, Montenegro",Europe,42.195312,19.29269405,https://i.imgur.com/pY184xv.jpg,2023
-"Girne, Cyprus",Europe,35.3352654,33.3188405,https://i.imgur.com/nf2f1RT.jpg,2023
-"Cape Greco, Cyprus",Europe,34.9726874,34.0587536,https://i.imgur.com/vNhEXLc.jpg,2023
-"Buyukada, Turkiye",Europe,40.8563545,29.11903663,https://i.imgur.com/HwQ5Hv5.jpg,2023
-"West Yellowstone, MT",North & Central America,44.6632505,-111.101169,https://i.imgur.com/3Gvj6l7.jpg,2023
-"Midway Geyser Basin, WY",North & Central America,44.5280983,-110.8361148,https://i.imgur.com/T9O1omi.jpg,2023
-"West Thumb, WY",North & Central America,44.4167607,-110.5737442,https://i.imgur.com/9TgsZsC.jpg,2023
-"Rio de Janeiro, Brazil",Latin America & Caribbean,-22.9110137,-43.2093727,https://i.imgur.com/IPlWbnn.jpg,2023
-"Mammoth, WY",North & Central America,44.976628,-110.7007232,https://i.imgur.com/rBH46aQ.jpg,2023
-"Gold Coast, QLD",Oceania,-28.0023731,153.4145987,NA,2003
-"Gold Coast, QLD",Oceania,-28.0023731,153.4145987,NA,2003
-"Sydney, NSW",Oceania,-33.8698439,151.2082848,https://i.imgur.com/wr2h5O7.jpg,"2003, 2007, 2011, 2016, 2017, 2018, 2019"
-"Brisbane, QLD",Oceania,-27.4689682,153.0234991,NA,2003
-"Adelaide, SA",Oceania,-34.9281805,138.5999312,https://i.imgur.com/yWa7zAe.jpg,2009
-"Albany, WA",Oceania,-35.0247822,117.883608,https://i.imgur.com/ACEizuh.jpg,2020
-"Kalbarri, WA",Oceania,-27.7109989,114.1638162,NA,2006
-"Foz do Iguacu, Brazil",Latin America & Caribbean,-25.5401479,-54.5858139,https://i.imgur.com/fOZeWxh.jpg,2023
-"Puerto Iguazu, Argentina",Latin America & Caribbean,-25.6346782,-54.58287531,https://i.imgur.com/cHUIz9l.jpg,2023
-"Belo Horizonte, Brazil",Latin America & Caribbean,-19.9227318,-43.9450948,https://i.imgur.com/Rg0TG2o.jpg,2023
-"Sao Paulo, Brazil",Latin America & Caribbean,-23.5506507,-46.6333824,https://i.imgur.com/JoyMGCE.jpg,2023
-"Oistins, Barbados",Latin America & Caribbean,13.0631947,-59.542242,https://i.imgur.com/WmOuHtm.jpg,2023
-"Animal Flower Cave, Barbados",Latin America & Caribbean,13.3345914,-59.6131321,https://i.imgur.com/80OCc8p.jpg,2023
-"Kennebunkport, ME",North & Central America,43.362131,-70.477295,https://i.imgur.com/DUWJPKK.jpg,2021
-"Austin, Texas",North & Central America,30.2711286,-97.7436995,https://i.imgur.com/SMau2Ge.jpg,2023
-"New Haven, CT",North & Central America,41.3082138,-72.9250518,https://i.imgur.com/eOrwiLA.jpg,2021
-"Houston, TX",North & Central America,29.7589382,-95.3676974,https://i.imgur.com/7xrNcJU.jpg,2023
-"San Antonio, Texas",North & Central America,29.4246002,-98.4951405,https://i.imgur.com/GlOI5bX.jpg,2023
-"Chicago, Illinois",North & Central America,41.8755616,-87.6244212,https://i.imgur.com/ebWepL1.jpg,2023
-"Miami, FL",North & Central America,25.7741728,-80.19362,https://i.imgur.com/EFu8fVs.jpg,2023
-"Portland, OR",North & Central America,45.5202471,-122.674194,https://i.imgur.com/zozuNC4.jpg,2023
-"Galveston, TX",North & Central America,29.3872254,-94.992736,https://i.imgur.com/kYJ0hPZ.jpg,2023
-"Cross Roads, TX",North & Central America,33.2312781,-97.0091144,https://i.imgur.com/npoWvGO.jpg,2023
-"Dallas, TX",North & Central America,32.7762719,-96.7968559,https://i.imgur.com/MPvkgQM.jpg,2023
-"Fort Worth ,TX",North & Central America,32.753177,-97.3327459,https://i.imgur.com/0pmkUh0.jpg,2023
-"The Woodlands, TX",North & Central America,30.1734194,-95.504686,https://i.imgur.com/CNZYfsJ.jpg,2023
+place,country,region,lat,long,image_url,visited_year
+"Perth, WA",Australia,Oceania,-31.9558964,115.8605801,https://i.imgur.com/6AMSo5l.jpg,NA
+"Exmouth, WA",Australia,Oceania,-22.29247155,114.1469586,NA,2006
+"Melbourne, VIC",Australia,Oceania,-37.8142176,144.9631608,https://i.imgur.com/NoWc0lC.jpg,"2013, 2014, 2015, 2019"
+"Mount Buller, VIC",Australia,Oceania,-37.2694615,146.4008688,NA,2003
+"Canberra, ACT",Australia,Oceania,-35.2975906,149.1012676,https://i.imgur.com/zICtkCe.jpg,"2016, 2017, 2019, 2020"
+"Port Douglas, QLD",Australia,Oceania,-16.4845983,145.4636294,NA,2003
+"Cairns, QLD",Australia,Oceania,-16.9206657,145.7721854,NA,2003
+"Hobart, TAS",Australia,Oceania,-42.8825088,147.3281233,https://i.imgur.com/yTjLm5r.jpg,2020
+"Darwin, NT",Australia,Oceania,-12.46044,130.8410469,https://i.imgur.com/kVGwDWj.jpg,2009
+"Broome, WA",Australia,Oceania,-17.9566909,122.2240181,https://i.imgur.com/hPibGGh.jpg,"2006, 2020, 2021"
+"Kununurra, WA",Australia,Oceania,-15.7730916,128.738839,https://i.imgur.com/7kG29jc.jpg,2006
+"Carnarvon, WA",Australia,Oceania,-24.8826131,113.6576486,NA,2006
+"Boddington, WA",Australia,Oceania,-32.792141,116.4210582,https://i.imgur.com/IRY6o1y.jpg,NA
+"Boyup Brook, WA",Australia,Oceania,-33.884175,116.5197515,NA,2002
+"Bunbury, WA",Australia,Oceania,-33.3267797,115.636698,https://i.imgur.com/TE5Nzk6.jpg,"2006, 2012"
+"Port Hedland, WA",Australia,Oceania,-20.3718658,118.6316559,NA,2006
+"Margaret River, WA",Australia,Oceania,-33.9531776,115.0769369,https://i.imgur.com/5iWaQvZ.jpg,"2002, 2003, 2004, 2012, 2019"
+"Dalwallinu, WA",Australia,Oceania,-30.1299745,116.9455417,https://i.imgur.com/h3Fco2r.jpg,2016
+"Three Springs, WA",Australia,Oceania,-29.4913105,115.6356876,https://i.imgur.com/5uvVQz0.jpg,2014
+"Geraldton, WA",Australia,Oceania,-28.77035,114.6147159,NA,2006
+"Hamilton Island, QLD",Australia,Oceania,-20.35462625,148.9560518,NA,2003
+"Christchurch, NZ",New Zealand,Oceania,-43.530955,172.6366455,https://i.imgur.com/1owwEMP.jpg,2017
+"Akaroa, NZ",New Zealand,Oceania,-43.82493765,173.0209638,https://i.imgur.com/Vyjr2gr.jpg,2017
+"Lake Pukaki, NZ",New Zealand,Oceania,-44.04776085,170.1742311,https://i.imgur.com/D4OcbzW.jpg,2017
+"Queenstown, NZ",New Zealand,Oceania,-45.0321923,168.661,https://i.imgur.com/Nc1RuDC.jpg,2011
+"Suva, Fiji",Fiji,Oceania,-18.1415884,178.4421662,https://i.imgur.com/enceNb7.png,2008
+"Nadi, Fiji",Fiji,Oceania,-17.7992725,177.4178549,https://i.imgur.com/roS5MmB.png,2008
+"Paris, France",France,Europe,48.8588897,2.320041022,https://i.imgur.com/D82zSqR.jpg,2009
+"Barcelona, Catalunya",Spain,Europe,41.3828939,2.1774322,https://i.imgur.com/mOD2zcz.jpg,"2015, 2018"
+"Madrid, Spain",Spain,Europe,40.4167047,-3.7035825,https://i.imgur.com/gkzyw5d.jpg,"2015, 2018"
+"Berlin, Germany",Germany,Europe,52.5170365,13.3888599,https://i.imgur.com/nUGaLIy.jpg,2022
+"Seville, Spain",Spain,Europe,37.3886303,-5.9953403,https://i.imgur.com/IpVAOgH.jpg,2015
+"Lisbon, Portugal",Portugal,Europe,38.7077507,-9.1365919,https://i.imgur.com/XWFFgmv.jpg,2018
+"Sintra, Portugal",Portugal,Europe,38.83554455,-9.352237113,https://i.imgur.com/IVkpP4a.jpg,2018
+"Porto, Portugal",Portugal,Europe,41.1494512,-8.6107884,https://i.imgur.com/rhsdbhz.jpg,2018
+"Bourg-Saint-Maurice, France",France,Europe,45.6185284,6.7694313,https://i.imgur.com/9OyAVNW.jpg,2009
+"Cork, Ireland",Ireland,Europe,51.897077,-8.4654674,https://i.imgur.com/Ydo133K.jpg,2015
+"Limerick, Ireland",Ireland,Europe,52.661252,-8.6301239,https://i.imgur.com/28beFST.jpg,2015
+"Galway, Ireland",Ireland,Europe,53.2744122,-9.0490601,https://i.imgur.com/0GlfM3K.jpg,2015
+"Aarhus, Denmark",Denmark,Europe,56.1496278,10.2134046,https://i.imgur.com/Ha4PMBU.jpg,2018
+"Prague, Czechia",Czechia,Europe,50.0874654,14.4212535,https://i.imgur.com/ISxRnIq.jpg,2018
+"Milan, Italy",Italy,Europe,45.4641943,9.1896346,https://i.imgur.com/PWijvt7.jpg,2015
+"Catania, Italy",Italy,Europe,37.5023612,15.0873718,https://i.imgur.com/8hnGEfj.jpg,2022
+"Palermo, Italy",Italy,Europe,38.1112268,13.3524434,https://i.imgur.com/hKnDG9a.jpg,2022
+"Syracuse, Italy",Italy,Europe,37.0646139,15.2907196,https://i.imgur.com/ciFVRve.jpg,2022
+"Agrigento, Italy",Italy,Europe,37.3122991,13.57465,https://i.imgur.com/XMWm9th.jpg,2022
+"Ragusa, Italy",Italy,Europe,36.9219828,14.7213455,https://i.imgur.com/7h070pj.jpg,2022
+"Taormina, Italy",Italy,Europe,37.8517921,15.2856523,https://i.imgur.com/mCmfA4Q.jpg,2022
+"Rome, Italy",Italy,Europe,41.8933203,12.4829321,https://i.imgur.com/IgbjkJs.jpg,"2015, 2022"
+"Naples, Italy",Italy,Europe,40.8358846,14.2487679,https://i.imgur.com/p99T6wb.jpg,"2015, 2022"
+"Florence, Italy",Italy,Europe,43.7698712,11.2555757,https://i.imgur.com/WcS6Q0V.jpg,2015
+"Venice, Italy",Italy,Europe,45.4371908,12.3345898,https://i.imgur.com/dlI8eiK.jpg,2015
+"Pisa, Italy",Italy,Europe,43.7159395,10.4018624,https://i.imgur.com/8BiDaJv.jpg,2015
+"Lugano, Switzerland",Switzeland,Europe,46.0050102,8.9520281,NA,2015
+"Vienna, Austria",Austria,Europe,48.2083537,16.3725042,https://i.imgur.com/sAdBddr.jpg,2018
+"Salzburg, Austria",Austria,Europe,47.7981346,13.0464806,https://i.imgur.com/TROmeIq.jpg,2018
+"Melk, Austria",Austria,Europe,48.2272068,15.3369992,https://i.imgur.com/wZZschN.jpg,2018
+"Bratislava, Slovakia",Slovakia,Europe,48.1516988,17.1093063,https://i.imgur.com/XuSSPpS.jpg,2018
+"Budapest, Hungary",Hungary,Europe,47.48138955,19.14609413,https://i.imgur.com/R3SwO3N.jpg,2018
+"Hallstatt, Austria",Austria,Europe,47.5621698,13.6486697,https://i.imgur.com/ntNw6Y1.jpg,2018
+"Cesky Krumlov, Czechia",Czechia,Europe,48.80511495,14.31619779,https://i.imgur.com/8dW5Ufg.jpg,2018
+"Amsterdam, Netherlands",Netherlands,Europe,52.3730796,4.8924534,https://i.imgur.com/WqjLuHw.jpg,"2015, 2022, 2023"
+"London, UK",United Kingdom,Europe,51.5073359,-0.12765,https://i.imgur.com/nlIRIfk.jpg,"2015, 2018, 2023"
+"Oxford, UK",United Kingdom,Europe,51.7520131,-1.2578499,https://i.imgur.com/53Iaux7.jpg,2015
+"Cambridge, UK",United Kingdom,Europe,52.2055314,0.1186637,https://i.imgur.com/KNEPZBW.jpg,2015
+"Bath, UK",United Kingdom,Europe,51.3813864,-2.3596963,https://i.imgur.com/t5g8Kn7.jpg,2015
+"Bilbao, Basque Country",Spain,Europe,43.2630018,-2.9350039,https://i.imgur.com/Hyee1jw.jpg,"2015, 2018"
+"Cordoba, Spain",Spain,Europe,37.8845813,-4.7760138,https://i.imgur.com/QStKXQ4.jpg,2015
+"Donostia, Basque Country",Spain,Europe,43.3224219,-1.9838889,https://i.imgur.com/rQRQKRN.jpg,2018
+"Haifa, Israel",Israel,Middle East & North Africa,32.8191218,34.9983856,https://i.imgur.com/BzzpQVf.jpg,2022
+"Ramallah, Palestine",Palestine,Middle East & North Africa,31.8986188,35.1780635,https://i.imgur.com/ijQdsDq.png,2022
+"Hebron, Palestine",Palestine,Middle East & North Africa,31.5336282,35.0979762,https://i.imgur.com/of1mvxC.jpg,2022
+Jerusalem,Palestine,Middle East & North Africa,31.79592425,35.21198076,https://i.imgur.com/SVwnp2Y.jpg,2022
+"Jericho, Palestine",Palestine,Middle East & North Africa,31.8588002,35.4597469,https://i.imgur.com/gJQau48.jpg,2022
+"Acre, Israel",Israel,Middle East & North Africa,32.9281731,35.0756378,https://i.imgur.com/VqbHkN1.jpg,2022
+"New York City, NY",United States,North & Central America,40.7127281,-74.0060152,https://i.imgur.com/C4IpcHZ.jpg,"2021, 2022, 2023, 2024"
+"Greenwood Lake, NY",United States,North & Central America,41.2225932,-74.2943178,https://i.imgur.com/9grq7AK.jpg,2022
+"Beacon, NY",United States,North & Central America,41.504879,-73.9696822,https://i.imgur.com/qAj3ISc.jpg,2022
+"New Orleans, LA",United States,North & Central America,29.9759983,-90.0782127,https://i.imgur.com/4mugHGH.jpg,2022
+"Las Vegas, NV",United States,North & Central America,36.1672559,-115.148516,https://i.imgur.com/XvG8vyJ.jpg,2022
+"San Francisco, CA",United States,North & Central America,37.7790262,-122.419906,https://i.imgur.com/yEGVV5C.jpg,2022
+"Page, AZ",United States,North & Central America,36.9148305,-111.457294,https://i.imgur.com/chCk1Xx.jpg,2022
+"Tusayan, AZ",United States,North & Central America,35.9735954,-112.126556,https://i.imgur.com/4Zcp29o.jpg,2022
+"Grand Canyon North Rim, AZ",United States,North & Central America,36.1974532,-112.0529243,https://i.imgur.com/5Nn9G9c.jpg,2022
+"Durham, NC",United States,North & Central America,35.996653,-78.9018053,https://i.imgur.com/0z9iumw.jpg,2022
+"Cold Spring, NY",United States,North & Central America,41.4200938,-73.9545831,https://i.imgur.com/6d4H9op.jpg,2021
+"Boston, MA",United States,North & Central America,42.3554334,-71.060511,https://i.imgur.com/Q1kiP1b.jpg,2021
+"Salt Lake City, UT",United States,North & Central America,40.7596198,-111.886797,https://i.imgur.com/kHNOnmx.jpg,2023
+"Montego Bay, Jamaica",Jamaica,Latin America & Caribbean,18.4724603,-77.9217357,https://i.imgur.com/cDWU3Y7.jpg,2023
+"Philadelphia, PA",United States,North & Central America,39.9527237,-75.1635262,https://i.imgur.com/jDk011P.jpg,"2022, 2023"
+"Portland, ME",United States,North & Central America,43.6610277,-70.2548596,https://i.imgur.com/3LcaTiY.jpg,2021
+"Scranton, PA",United States,North & Central America,41.4086874,-75.6621294,https://i.imgur.com/2JEANAU.jpg,2022
+"Lancaster, PA",United States,North & Central America,40.03813,-76.3056686,https://i.imgur.com/fg1nqv7.jpg,2022
+"Hoboken, NJ",United States,North & Central America,40.7433066,-74.0323752,https://i.imgur.com/s38czL6.jpg,2021
+"Baltimore, MD",United States,North & Central America,39.2908816,-76.610759,https://i.imgur.com/raP0ycl.jpg,2022
+"Wilmington, DE",United States,North & Central America,39.7459468,-75.546589,https://i.imgur.com/qEBuai1.jpg,2022
+"Vancouver, Canada",Canada,North & Central America,49.2608724,-123.113952,NA,2002
+"Oaxaca, OA",Mexico,North & Central America,17,-96.5,https://i.imgur.com/KPWRWMh.jpg,2020
+"Merida, YU",Mexico,North & Central America,20.9670759,-89.6237402,https://i.imgur.com/keDA0Wt.jpg,2020
+"Tulum, QI",Mexico,North & Central America,20.2152358,-87.42953531,https://i.imgur.com/rMCunrq.jpg,"2020, 2023"
+"Valladolid, YU",Mexico,North & Central America,20.6902505,-88.2016999,https://i.imgur.com/o5QVHaR.jpg,2020
+"Playa Del Carmen, QI",Mexico,North & Central America,20.6308643,-87.0779503,https://i.imgur.com/yDNc6B1.jpg,"2020, 2023"
+"Ciudad De Mexico, Mexico",Mexico,North & Central America,19.4326296,-99.1331785,https://i.imgur.com/7PXuDCk.jpg,2020
+"Uxmal, Mexico",Mexico,North & Central America,20.3591787,-89.7717568,https://i.imgur.com/YQCkXo1.jpg,2020
+"Beijing, China",China,North & East Asia,39.906217,116.3912757,https://i.imgur.com/rWjMZJq.jpg,"2010, 2011, 2012, 2017, 2018, 2019"
+"Shanghai, China",China,North & East Asia,31.2322758,121.4692071,https://i.imgur.com/g5N2rTP.jpg,"2010, 2012, 2015, 2017, 2018, 2019"
+"Hangzhou, Zhejiang",China,North & East Asia,30.2489634,120.2052342,https://i.imgur.com/iDeKDgl.jpg,"2015, 2017, 2018, 2019"
+"Guangzhou, Guangdong",China,North & East Asia,23.1301964,113.2592945,https://i.imgur.com/EckPagG.jpg,2019
+"Qiandaohu, Zhejiang",China,North & East Asia,29.6092534,119.0729204,https://i.imgur.com/uOzS6Ax.jpg,2015
+"Huangshan, Anhui",China,North & East Asia,30.13235465,118.1566918,https://i.imgur.com/ocnrUgD.jpg,2015
+"Xi'an, Shaanxi",China,North & East Asia,34.2607713,108.9423443,NA,2010
+"Ordos, Inner Mongolia",China,North & East Asia,39.6081457,109.7763659,https://i.imgur.com/nykpJRH.jpg,2017
+"Hongcun, Anhui",China,North & East Asia,30.004784,117.9847312,https://i.imgur.com/5Ucok3S.jpg,2015
+"Taipei, Taiwan",Taiwan,North & East Asia,25.0375198,121.5636796,https://i.imgur.com/jXxs8r5.jpg,2016
+"Yehliu, Taiwan",Taiwan,North & East Asia,25.2038994,121.6886491,https://i.imgur.com/YSxIUPp.jpg,2016
+"Sanya, Hainan",China,North & East Asia,18.2534658,109.5034392,https://i.imgur.com/lyuYMMO.jpg,2015
+"Fuzhou, Fujian",China,North & East Asia,26.0774954,119.2918215,https://i.imgur.com/8IyGf52.jpg,2015
+"Ningde, Fujian",China,North & East Asia,26.6695006,119.5432715,https://i.imgur.com/r7VrRZC.jpg,2015
+"Xiamen, Fujian",China,North & East Asia,24.4801069,118.0853479,https://i.imgur.com/DpF0E1O.jpg,2019
+Hong Kong SAR,Hong Kong SAR,North & East Asia,22.350627,114.1849161,https://i.imgur.com/2IfybQB.jpg,"2007, 2009, 2010, 2011, 2018"
+Macau SAR,Macau SAR,North & East Asia,22.318781,113.9488778,https://i.imgur.com/wSXcxEy.jpg,2010
+"Urumqi, Xinjiang",China,North & East Asia,43.419754,87.319461,https://i.imgur.com/JkSZfUC.jpg,2016
+"Guilin, Guangxi",China,North & East Asia,25.238704,110.1750728,NA,2010
+"Fenghuang, Hunan",China,North & East Asia,27.9513305,109.5941968,https://i.imgur.com/6cq4Qgw.jpg,2016
+"Zhangjiajie, Hunan",China,North & East Asia,29.1176794,110.4741428,https://i.imgur.com/0kL6JBk.jpg,2016
+"Dali, Yunnan",China,North & East Asia,25.6074778,100.2651597,https://i.imgur.com/Agtyxwh.jpg,2017
+"Lijiang, Yunnan",China,North & East Asia,26.8595868,100.2249797,https://i.imgur.com/Hknwftt.jpg,2017
+"Shangri-La, Yunnan",China,North & East Asia,27.8452587,99.7414777,https://i.imgur.com/rwaH2fE.jpg,2017
+"Chongqing, China",China,North & East Asia,29.5647398,106.5478767,https://i.imgur.com/PVP1ucc.jpg,"2011, 2018"
+"Chengdu, Sichuan",China,North & East Asia,30.6598628,104.0633717,https://i.imgur.com/4xXFDCn.jpg,2017
+"Leshan, Sichuan",China,North & East Asia,29.5851296,103.747791,https://i.imgur.com/qlyYoF3.jpg,2017
+"Hohhot, Inner Mongolia",China,North & East Asia,40.8337963,111.6730788,https://i.imgur.com/hTlhVrJ.jpg,2017
+"Harbin, Heilongjiang",China,North & East Asia,45.8016143,126.5287796,https://i.imgur.com/IAPNPlP.jpg,2011
+"Jiamusi, Heilongjiang",China,North & East Asia,46.8087794,130.3734556,https://i.imgur.com/qOhLoeZ.jpg,2011
+"Changbaishan, Jilin",China,North & East Asia,42.4608801,128.1223427,https://i.imgur.com/AJeDi19.jpg,2017
+"Nanjing, Jiangsu",China,North & East Asia,32.0615513,118.7915619,https://i.imgur.com/B34PiX5.jpg,2017
+"Suzhou, Jiangsu",China,North & East Asia,31.3016935,120.5810725,https://i.imgur.com/qBzZnFw.jpg,2017
+"Tokyo, Japan",Japan,North & East Asia,35.6812665,139.757653,https://i.imgur.com/XHBeIcP.jpg,"2008, 2013, 2017"
+"Yokohama, Japan",Japan,North & East Asia,35.4443947,139.6367727,https://i.imgur.com/qawxtXA.jpg,2017
+"Osaka, Japan",Japan,North & East Asia,34.661629,135.4999268,https://i.imgur.com/XHBeIcP.jpg,2013
+"Kyoto, Japan",Japan,North & East Asia,35.021041,135.7556075,https://i.imgur.com/58DIOMp.jpg,2013
+"Seoul, South Korea",South Korea,North & East Asia,37.5666791,126.9782914,https://i.imgur.com/DVtBknm.jpg,"2013, 2018"
+"Jeju, South Korea",South Korea,North & East Asia,33.3939924,126.5626653,https://i.imgur.com/Fbk7olW.jpg,2018
+"Islas Ballestas, Peru",Peru,Latin America & Caribbean,-13.7359794,-76.39441336,https://i.imgur.com/9xp5B63.jpg,2020
+"Lima, Peru",Peru,Latin America & Caribbean,-12.0621065,-77.0365256,https://i.imgur.com/T5l1BGs.jpg,2020
+"Huacachina, Ica, Peru",Peru,Latin America & Caribbean,-14.08759145,-75.76305533,https://i.imgur.com/gALbnim.jpg,2020
+"Cusco, Peru",Peru,Latin America & Caribbean,-13.5170887,-71.9785356,https://i.imgur.com/WQgaFvS.jpg,2020
+"Machu Picchu, Peru",Peru,Latin America & Caribbean,-13.16442195,-72.5450851,https://i.imgur.com/92ssjnA.jpg,2020
+"Bogota, Colombia",Colombia,Latin America & Caribbean,4.6534649,-74.0836453,https://i.imgur.com/xIu6QW5.jpg,2020
+"Zipaquira, Colombia",Colombia,Latin America & Caribbean,5.0234748,-74.0039818,https://i.imgur.com/Z4FD3gW.jpg,2020
+"Singapore, Singapore",Singapore,South & Southeast Asia,1.357107,103.8194992,https://i.imgur.com/nUUVoZd.jpg,NA
+"Johor Bahru, Malaysia",Malaysia,South & Southeast Asia,1.503555,103.7495586,https://i.imgur.com/W5qv5YB.jpg,"2009, 2010"
+"Muar, Malaysia",Malaysia,South & Southeast Asia,2.05,102.5666667,https://i.imgur.com/GKDY1TA.jpg,2009
+"Ipoh, Malaysia",Malaysia,South & Southeast Asia,4.5986817,101.0900236,https://i.imgur.com/Fm3dsYF.jpg,2010
+"New Delhi, India",India,South & Southeast Asia,28.6138954,77.2090057,https://i.imgur.com/IsFTtV0.jpg,2023
+"Penang, Malaysia",Malaysia,South & Southeast Asia,5.4065013,100.2559077,https://i.imgur.com/myxS74j.jpg,"2019, 2020"
+"Jakarta, Indonesia",Indonesia,South & Southeast Asia,-6.1753942,106.827183,NA,1999
+"Bali, Indonesia",Indonesia,South & Southeast Asia,-8.3304977,115.0906401,https://i.imgur.com/H9Y6YD1.jpg,2005
+Kuala Lumpur,Malaysia,South & Southeast Asia,3.1516964,101.6942371,https://i.imgur.com/jgyHm7U.jpg,2010
+"Cameron Highlands, Malaysia",Malaysia,South & Southeast Asia,4.4724267,101.3778646,https://i.imgur.com/hHsxmjc.jpg,2010
+"Malacca, Malaysia",Malaysia,South & Southeast Asia,2.3293744,102.2880962,https://i.imgur.com/ifryTy6.jpg,2009
+"Kota Kinabalu, Malaysia",Malaysia,South & Southeast Asia,5.9780066,116.0728988,NA,2004
+"Bangkok, Thailand",Thailand,South & Southeast Asia,13.7524938,100.4935089,https://i.imgur.com/a27M4Vb.jpg,"2017, 2019"
+"Chiang Mai, Thailand",Thailand,South & Southeast Asia,18.7882778,98.9858802,https://i.imgur.com/x9WLAjq.jpg,2017
+"Siem Reap, Cambodia",Cambodia,South & Southeast Asia,13.3617562,103.8590321,https://i.imgur.com/51Gecq6.jpg,2017
+"Phnom Penh, Cambodia",Cambodia,South & Southeast Asia,11.568271,104.9224426,https://i.imgur.com/MuhOfzI.jpg,2017
+"Saigon, Vietnam",Vietnam,South & Southeast Asia,10.7764772,106.701938,https://i.imgur.com/zae6man.jpg,2017
+"Hue, Vietnam",Vietnam,South & Southeast Asia,16.4639321,107.5863388,https://i.imgur.com/XRMjdOZ.jpg,2017
+"Da Nang, Vietnam",Vietnam,South & Southeast Asia,16.068,108.212,https://i.imgur.com/U1GlVcG.jpg,2017
+"Hanoi, Vietnam",Vietnam,South & Southeast Asia,21.0294498,105.8544441,https://i.imgur.com/u9LkdAv.jpg,2017
+"Luang Prabang, Laos",Laos,South & Southeast Asia,19.8887438,102.135898,https://i.imgur.com/mG4kFg2.jpg,2017
+"Yangon, Myanmar",Myanmar,South & Southeast Asia,16.7967129,96.1609916,https://i.imgur.com/76IukIM.jpg,2017
+"Bagan, Myanmar",Myanmar,South & Southeast Asia,21.1317111,94.8623644,https://i.imgur.com/AKTGN5i.jpg,2017
+"Naypyidaw, Myanmar",Myanmar,South & Southeast Asia,19.7540045,96.1344976,https://i.imgur.com/fDz85Bu.jpg,2017
+"Mawlamyine, Myanmar",Myanmar,South & Southeast Asia,16.4908026,97.6284825,https://i.imgur.com/PaYs0be.jpg,2017
+"Bago, Myanmar",Myanmar,South & Southeast Asia,18.3278182,95.64238093,https://i.imgur.com/HJBgTA7.jpg,2017
+"Tasman Island, TAS",Australia,Oceania,-43.23873035,148.002841,https://i.imgur.com/57ASnky.jpg,2020
+"Positano, Italy",Italy,Europe,40.6286581,14.4854955,https://i.imgur.com/I1nFpse.jpg,2015
+"Negev, Israel",Israel,Middle East & North Africa,30.5,34.9166667,https://i.imgur.com/wGugM3i.jpg,2022
+"Bethlehem, Palestine",Palestine,Middle East & North Africa,31.7037676,35.1860778,https://i.imgur.com/wZKpAtR.jpg,2022
+"Grand Canyon Visitor Center, AZ",United States,North & Central America,36.05911175,-112.1093343,https://i.imgur.com/n5KZZye.jpg,2022
+"Ha Long Bay, Vietnam",Vietnam,South & Southeast Asia,20.9084384,107.0682782,https://i.imgur.com/uSuBPRx.jpg,2017
+"Tiger Leaping Gorge, Yunnan",China,North & East Asia,27.2044019,100.1206446,https://i.imgur.com/aWh4Y0c.jpg,2018
+"Yegyi, Ayeyarwady, Myanmar",Myanmar,South & Southeast Asia,17.3422261,95.1133498,https://i.imgur.com/FZG4Bf4.jpg,2017
+"Stonehenge, UK",United Kingdom,Europe,51.1788293,-1.826183,https://i.imgur.com/meoMLeZ.jpg,2015
+"DMZ, South Korea",South Korea,North & East Asia,38.3072977,127.2302394,https://i.imgur.com/Vu8Ro72.jpg,2013
+"Muir Woods, CA",United States,North & Central America,37.89639075,-122.5802183,https://i.imgur.com/kgjugw8.jpg,2022
+"Lago di Como, Italy",Italy,Europe,45.9917589,9.264881035,https://i.imgur.com/6aiFQfv.jpg,2015
+"San Gimignano, Italy",Italy,Europe,43.4677993,11.0432115,https://i.imgur.com/5Jix8RJ.jpg,2015
+Washington DC,United States,North & Central America,38.8950368,-77.0365427,https://i.imgur.com/QqT9wHb.jpg,"2021, 2022, 2023"
+"Walpole, WA",Australia,Oceania,-34.9776796,116.7310063,https://i.imgur.com/KzJpSKv.jpg,2011
+"Rockingham, WA",Australia,Oceania,-32.2851899,115.7426524,https://i.imgur.com/BYWnYcZ.jpg,NA
+"Mandurah, WA",Australia,Oceania,-32.5302495,115.7208782,https://i.imgur.com/OFcXZR7.jpg,NA
+"Niseko, Japan",Japan,North & East Asia,42.804684,140.6873034,https://i.imgur.com/03xOewl.jpg,"2008, 2009"
+"Thessaloniki, Greece",Greece,Europe,40.6403167,22.9352716,https://i.imgur.com/ZdjEIaa.jpg,2023
+"Athens, Greece",Greece,Europe,37.9839412,23.7283052,https://i.imgur.com/F6uolT0.jpg,2023
+"Kotor, Montenegro",Montenegro,Europe,42.4248515,18.7710437,https://i.imgur.com/3FaNGYK.jpg,2023
+"Sveti Stefan, Montenegro",Montenegro,Europe,42.2558399,18.89118268,https://i.imgur.com/uxxnyLW.jpg,2023
+"Podgorica, Montenegro",Montenegro,Europe,42.4415238,19.2621081,https://i.imgur.com/qQ5gQnp.jpg,2023
+"Perast, Montenegro",Montenegro,Europe,42.4862681,18.6988592,https://i.imgur.com/sVgLTuT.jpg,2023
+"Istanbul, Turkiye",Turkiye,Europe,41.0091982,28.9662187,https://i.imgur.com/qsDia6X.jpg,2023
+"Paphos, Cyprus",Cyprus,Europe,34.7743988,32.4231586,https://i.imgur.com/cEAAONR.jpg,2023
+"Nicosia, Cyprus",Cyprus,Europe,35.1748976,33.3638568,https://i.imgur.com/8hb0TiQ.jpg,2023
+"Skadarsko Jezero, Montenegro",Montenegro,Europe,42.195312,19.29269405,https://i.imgur.com/pY184xv.jpg,2023
+"Girne, Cyprus",TRNC,Europe,35.3352654,33.3188405,https://i.imgur.com/nf2f1RT.jpg,2023
+"Cape Greco, Cyprus",Cyprus,Europe,34.9726874,34.0587536,https://i.imgur.com/vNhEXLc.jpg,2023
+"Buyukada, Turkiye",Turkiye,Europe,40.8563545,29.11903663,https://i.imgur.com/HwQ5Hv5.jpg,2023
+"West Yellowstone, MT",United States,North & Central America,44.6632505,-111.101169,https://i.imgur.com/3Gvj6l7.jpg,2023
+"Midway Geyser Basin, WY",United States,North & Central America,44.5280983,-110.8361148,https://i.imgur.com/T9O1omi.jpg,2023
+"West Thumb, WY",United States,North & Central America,44.4167607,-110.5737442,https://i.imgur.com/9TgsZsC.jpg,2023
+"Rio de Janeiro, RJ",Brazil,Latin America & Caribbean,-22.9110137,-43.2093727,https://i.imgur.com/IPlWbnn.jpg,2023
+"Mammoth, WY",United States,North & Central America,44.976628,-110.7007232,https://i.imgur.com/rBH46aQ.jpg,2023
+"Gold Coast, QLD",Australia,Oceania,-28.0023731,153.4145987,NA,2003
+"Sydney, NSW",Australia,Oceania,-33.8698439,151.2082848,https://i.imgur.com/wr2h5O7.jpg,"2003, 2007, 2011, 2016, 2017, 2018, 2019"
+"Brisbane, QLD",Australia,Oceania,-27.4689682,153.0234991,NA,2003
+"Adelaide, SA",Australia,Oceania,-34.9281805,138.5999312,https://i.imgur.com/yWa7zAe.jpg,2009
+"Albany, WA",Australia,Oceania,-35.0247822,117.883608,https://i.imgur.com/ACEizuh.jpg,2020
+"Kalbarri, WA",Australia,Oceania,-27.7109989,114.1638162,NA,2006
+"Foz do Iguacu, PR",Brazil,Latin America & Caribbean,-25.5401479,-54.5858139,https://i.imgur.com/fOZeWxh.jpg,2023
+"Puerto Iguazu, Argentina",Argentina,Latin America & Caribbean,-25.6346782,-54.58287531,https://i.imgur.com/cHUIz9l.jpg,2023
+"Belo Horizonte, MG",Brazil,Latin America & Caribbean,-19.9227318,-43.9450948,https://i.imgur.com/Rg0TG2o.jpg,2023
+"Sao Paulo, SP",Brazil,Latin America & Caribbean,-23.5506507,-46.6333824,https://i.imgur.com/JoyMGCE.jpg,2023
+"Oistins, Barbados",Barbados,Latin America & Caribbean,13.0631947,-59.542242,https://i.imgur.com/WmOuHtm.jpg,2023
+"Animal Flower Cave, Barbados",Barbados,Latin America & Caribbean,13.3345914,-59.6131321,https://i.imgur.com/80OCc8p.jpg,2023
+"Kennebunkport, ME",United States,North & Central America,43.362131,-70.477295,https://i.imgur.com/DUWJPKK.jpg,2021
+"Austin, TX",United States,North & Central America,30.2711286,-97.7436995,https://i.imgur.com/SMau2Ge.jpg,2023
+"New Haven, CT",United States,North & Central America,41.3082138,-72.9250518,https://i.imgur.com/eOrwiLA.jpg,2021
+"Houston, TX",United States,North & Central America,29.7589382,-95.3676974,https://i.imgur.com/7xrNcJU.jpg,"2023, 2024"
+"San Antonio, TX",United States,North & Central America,29.4246002,-98.4951405,https://i.imgur.com/GlOI5bX.jpg,2023
+"Chicago, IL",United States,North & Central America,41.8755616,-87.6244212,https://i.imgur.com/ebWepL1.jpg,2023
+"Miami, FL",United States,North & Central America,25.7741728,-80.19362,https://i.imgur.com/EFu8fVs.jpg,2023
+"Portland, OR",United States,North & Central America,45.5202471,-122.674194,https://i.imgur.com/zozuNC4.jpg,2023
+"Galveston, TX",United States,North & Central America,29.3872254,-94.992736,https://i.imgur.com/kYJ0hPZ.jpg,2023
+"Cross Roads, TX",United States,North & Central America,33.2312781,-97.0091144,https://i.imgur.com/npoWvGO.jpg,2023
+"Dallas, TX",United States,North & Central America,32.7762719,-96.7968559,https://i.imgur.com/MPvkgQM.jpg,2023
+"Fort Worth ,TX",United States,North & Central America,32.753177,-97.3327459,https://i.imgur.com/0pmkUh0.jpg,2023
+"The Woodlands, TX",United States,North & Central America,30.1734194,-95.504686,https://i.imgur.com/CNZYfsJ.jpg,2023
+"Chetumal, QI",Mexico,North & Central America,31.6276136,-106.3897032,https://i.imgur.com/Yi2tRt9.jpg,2023
+"Bacalar, QI",Mexico,North & Central America,31.7415781,-106.4187625,https://i.imgur.com/YFmuI5w.jpg,2023
+San Miguel de Cozumel,Mexico,North & Central America,20.5014305,-86.9435851,https://i.imgur.com/NaxEy4L.jpg,2023
+"El Mirador, Cozumel",Mexico,North & Central America,20.31745,-86.929348,https://i.imgur.com/pWbRXWj.jpg,2023
+"Belize City, Belize",Belize,North & Central America,17.5002768,-88.1988737,https://i.imgur.com/ublq1io.jpg,2023
+"San Pedro, Belize",Belize,North & Central America,17.9204087,-87.9621768,https://i.imgur.com/zwbWPiL.jpg,2023
+"Caye Caulker, Belize",Belize,North & Central America,17.73948765,-88.03367940679524,https://i.imgur.com/ugCrb5a.jpg,2023
+"Hol Chan Marine Reserve, Belize",Belize,North & Central America,17.8602125,-88.02669188996376,https://i.imgur.com/Mn5q3Bp.jpg,2023
+Vatican City,Vatican City,Europe,41.903411,12.4528527,https://i.imgur.com/w8ehk87.jpg,"2015, 2022"
