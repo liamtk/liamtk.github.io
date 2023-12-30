@@ -91,11 +91,11 @@ map <- combined %>%
     options = layersControlOptions(collapsed = FALSE)
   ) %>%
   addProviderTiles("CartoDB.Positron", group = "CartoDB.Positron", 
-                   options = providerTileOptions(minZoom = 1, maxZoom = 7)) %>%
+                   options = providerTileOptions(minZoom = 1, maxZoom = 8)) %>%
   addProviderTiles("OpenStreetMap", group = "OpenStreetMap",
-                   options = providerTileOptions(minZoom = 1, maxZoom = 7)) %>%
+                   options = providerTileOptions(minZoom = 1, maxZoom = 8)) %>%
   addProviderTiles("Esri.WorldTopoMap", group = "Esri.WorldTopoMap",
-                   options = providerTileOptions(minZoom = 1, maxZoom = 7)) %>%
+                   options = providerTileOptions(minZoom = 1, maxZoom = 8)) %>%
   leaflet::fitBounds(lng1 = -90, lat1 = -80, lng2 = 90, lat2 = 80) %>% 
   leaflet.extras::addFullscreenControl() %>%
   leaflet.extras::addResetMapButton() %>%

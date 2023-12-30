@@ -1,12 +1,12 @@
 ## Hi, my name is Liam :-)
 
-I'm a Columbia [SIPA](https://www.sipa.columbia.edu/)-[QMSS](https://www.qmss.columbia.edu/) double Master's graduate and [Fulbright Scholar](https://www.fulbright.org.au/scholarships/anne-wexler-australian/) with deep interests in data science and quantitative applications to economic policy, international trade and financial markets. Currently working as a quantitative research associate at [M Science](https://mscience.com/).
+I'm a Columbia [SIPA](https://www.sipa.columbia.edu/)-[QMSS](https://www.qmss.columbia.edu/) double Master's graduate and [Fulbright Scholar](https://www.fulbright.org.au/scholarships/anne-wexler-australian/) with deep interests in data science and quantitative applications to economic policy, international trade and financial markets. Half Aussie, half Singaporean, food, travel and nature lover. Always curious. Currently working as a quantitative research associate at [M Science](https://mscience.com/).
 
 - **Email**: [liam.k@columbia.edu](mailto:liam.k@columbia.edu)
 - **LinkedIn**: [https://www.linkedin.com/in/liamtaykearney](https://www.linkedin.com/in/liamtaykearney)
-- **Nationalities**: 🇦🇺 Australia - 🇮🇪 Ireland - 🇸🇬 Singapore
-- **Languages**: English (native), Mandarin (fluent), Spanish (limited), Malay (basic)
-- **Interests**: political economy, international finance, applied econometrics, data science, data visualization
+- **Nationalities**: 🇦🇺 Australia, 🇮🇪 Ireland, 🇬🇧 United Kingdom
+- **Languages**: English (native), Mandarin (fluent), Spanish (ok), Malay (basic), Hokkien (basic)
+- **Interests**: data science, data visualization, political economy, applied econometrics, alternative data, equity research
 
 
 
