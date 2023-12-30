@@ -200,7 +200,7 @@ I'm a Columbia [SIPA](https://www.sipa.columbia.edu/)-[QMSS](https://www.qmss.co
 <div id="hobbies" style="display: none;">
     <ul>
         <li><strong>Cooking</strong> - from my <a href="pages/peranakan.html">Peranakan</a> heritage (ongoing project)</li>
-        <li><strong>Eating</strong> - here are some <a href="pages/food.html">favourite destinations</a> in NY, SG and Perth</li>
+        <li><strong>Eating</strong> - here are some <a href="pages/food.html">favourite destinations</a> in Singapore, NYC, Houston and Perth</li>
         <li><strong>Travelling</strong> - here are some <a href="pages/places.html">places</a> I've visited on the journey so far</li>
         <li><strong>Jazz</strong> - am an aspiring (amateur) jazz piano player</li>
     </ul>
