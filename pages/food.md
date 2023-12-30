@@ -7,6 +7,7 @@
 * Beach Road Prawn Mee & Ngoh Hiang (East Coast)
 * Goldhill Hakka Restaurant (Eunos)
 * Habib's Indian Rojak (Ayer Rajah)
+* Haig Road Putu Piring (Haig Road)
 * Hill Street Tai Hwa Pork Noodle (Crawford Lane)
 * Hjh Maimunah (Joo Chiat/Jalan Pisang)
 * Hock Lai Seng Teochew Fishball Mee (Maxwell)
@@ -30,7 +31,6 @@
 ### New York
 
 * Abuqir Seafood (Astoria)
-* Al Badawi (Brooklyn Heights)
 * Al Sham Sweets & Pastries (Astoria)
 * Awang Kitchen (Elmhurst)
 * Banh (Morningside)
@@ -38,6 +38,9 @@
 * Birria-Landia (Jackson Heights)
 * Cho Dang Gol (Koreatown)
 * Dhamaka (Lower East Side)
+* Double Chicken Please (Lower East Side)
+* Great NY Noodletown (Chinatown)
+* Hug Esan (Elmhurst)
 * JG Melon (Upper East Side)
 * Keens Steakhouse (Midtown South)
 * Kono (Bowery)
@@ -54,6 +57,28 @@
 
 
 
+### Houston
+
+* Andes Cafe (POST)
+* Aga's (Sugarland)
+* Asia Market Thai Lao Food (Heights)
+* Buc-Ee's (Katy)
+* Golden Dim Sum (Chinatown)
+* Haidilao (Katy)
+* Laredo Taqueria (Washington Ave)
+* Nam Giao (Westchase)
+* Noodle Hot Pot Quán Đêm (Westchase)
+* Papa Rich (Westchase)
+* Pinkerton's Barbecue (Brooke Smith)
+* Rim Tanon (Montrose)
+* San Dong Noodle & Dumpling House (Chinatown)
+* Seoul Garden (Memorial City)
+* Sul Bing Su (Westchase)
+* Tamashi (Chinatown)
+* Xalisko (Woodlands)
+
+
+
 ### Perth
 
 * Authentic Bites (Northbridge)
@@ -66,7 +91,7 @@
 * Louis Bogelin Patisserie (Subiaco)
 * Lulu La Delizia (Subiaco)
 * Manuka Woodfire (Fremantle)
-* Jumbo BBQ Roast DUck House (EVP)
+* Jumbo BBQ Roast Duck House (EVP)
 * Juniper & Bay (Como)
 * Monsterella (Wembley)
 * Nao Japanese Ramen (CBD)
