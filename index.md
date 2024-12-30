@@ -1,12 +1,12 @@
 ## Hi, my name is Liam :-)
 
-I'm a Columbia [SIPA](https://www.sipa.columbia.edu/)-[QMSS](https://www.qmss.columbia.edu/) double Master's graduate and [Fulbright Scholar](https://www.fulbright.org.au/scholarships/anne-wexler-australian/) with deep interests in data science and quantitative applications to economic policy, international trade and financial markets. Half Aussie, half Singaporean, food, travel and nature lover. Always curious. Currently working as a quantitative research associate at [M Science](https://mscience.com/).
+I'm a Columbia [SIPA](https://www.sipa.columbia.edu/)-[QMSS](https://www.qmss.columbia.edu/) double Master's graduate and [Fulbright Scholar](https://www.fulbright.org.au/scholarships/anne-wexler-australian/) with deep interests in data science and quantitative applications to economic policy, international trade and financial markets. Aussie-Singaporean. Food, travel and nature lover. Always curious. Currently working as a senior research associate at [M Science](https://mscience.com/).
 
 - **Email**: [liam.k@columbia.edu](mailto:liam.k@columbia.edu)
 - **LinkedIn**: [https://www.linkedin.com/in/liamtaykearney](https://www.linkedin.com/in/liamtaykearney)
 - **Nationalities**: 🇦🇺 Australia, 🇮🇪 Ireland, 🇬🇧 United Kingdom
 - **Languages**: English (native), Mandarin (fluent), Spanish (ok), Malay (basic), Hokkien (basic)
-- **Interests**: data science, data visualization, political economy, applied econometrics, alternative data, equity research
+- **Interests**: data science, data visualization, applied econometrics, alternative data, equity research
 
 
 
@@ -72,7 +72,7 @@ I'm a Columbia [SIPA](https://www.sipa.columbia.edu/)-[QMSS](https://www.qmss.co
 <h2 onclick="toggleTechnicalSkills()" style="cursor: pointer;">Technical Skills ►</h2>
 <div id="technicalSkills" style="display: none;">
     <p>
-        I am most comfortable/skilled in data mining with <strong>R</strong>, <strong>Python</strong>, <strong>SQL</strong>, <strong>Tableau</strong> and  <strong>Excel</strong>, with experience applying them across a variety of use cases and subject domains. I also have proficiency in the following:
+        I am most comfortable/skilled in data mining with <strong>R</strong>, <strong>Python/PySpark</strong>, <strong>SQL</strong>, <strong>Tableau</strong> and  <strong>Excel</strong>, with experience applying them across a variety of use cases and subject domains. I also have proficiency in the following:
     </p>
     <table style="width: 100%; border-collapse: collapse;">
   <tr style="line-height: 1.4; background-color: #d0d0d0;">
@@ -118,6 +118,7 @@ I'm a Columbia [SIPA](https://www.sipa.columbia.edu/)-[QMSS](https://www.qmss.co
 </table>
 </div>
 
+
 <script>
     function toggleTechnicalSkills() {
         var technicalSkills = document.getElementById("technicalSkills");
@@ -162,7 +163,7 @@ I'm a Columbia [SIPA](https://www.sipa.columbia.edu/)-[QMSS](https://www.qmss.co
 <h2 onclick="toggleExperience()" style="cursor: pointer;">Experience ►</h2>
 <div id="experience" style="display: none;">
     <ul>
-        <li><strong>M Science</strong> - Quantitative Research Associate (2023-present)</li>
+        <li><strong>M Science</strong> - Senior Research Associate (2023-present)</li>
         <li><strong>University of Pennsylvania</strong> - Research Data Analyst (2022-present)</li>
         <li><strong>Citi Global Wealth</strong> - Grad. Consultant, Investment Research (Fall 2022)</li>
         <li><strong>Columbia SIPA</strong> - Research Assistant, Data Science & Public Policy (2021-22)</li>
@@ -178,6 +179,7 @@ I'm a Columbia [SIPA](https://www.sipa.columbia.edu/)-[QMSS](https://www.qmss.co
         </li>
     </ul>
 </div>
+
 
 
 <script>

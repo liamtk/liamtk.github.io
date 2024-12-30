@@ -166,7 +166,7 @@ Jerusalem,Palestine,Middle East & North Africa,31.79592425,35.21198076,https://i
 "Muir Woods, CA",United States,North & Central America,37.89639075,-122.5802183,https://i.imgur.com/kgjugw8.jpg,2022
 "Salt Lake City, UT",United States,North & Central America,40.7596198,-111.886797,https://i.imgur.com/kHNOnmx.jpg,2023
 "Montego Bay, Jamaica",Jamaica,Latin America & Caribbean,18.4724603,-77.9217357,https://i.imgur.com/cDWU3Y7.jpg,2023
-"New Delhi, India",India,South & Southeast Asia,28.6138954,77.2090057,https://i.imgur.com/IsFTtV0.jpg,2023
+"New Delhi, India",India,South & Southeast Asia,28.6138954,77.2090057,https://i.imgur.com/IsFTtV0.jpg,"2023, 2025"
 "Thessaloniki, Greece",Greece,Europe,40.6403167,22.9352716,https://i.imgur.com/ZdjEIaa.jpg,2023
 "Athens, Greece",Greece,Europe,37.9839412,23.7283052,https://i.imgur.com/F6uolT0.jpg,2023
 "Kotor, Montenegro",Montenegro,Europe,42.4248515,18.7710437,https://i.imgur.com/3FaNGYK.jpg,2023
@@ -193,7 +193,7 @@ Jerusalem,Palestine,Middle East & North Africa,31.79592425,35.21198076,https://i
 "Animal Flower Cave, Barbados",Barbados,Latin America & Caribbean,13.3345914,-59.6131321,https://i.imgur.com/80OCc8p.jpg,2023
 "Austin, TX",United States,North & Central America,30.2711286,-97.7436995,https://i.imgur.com/SMau2Ge.jpg,2023
 "San Antonio, TX",United States,North & Central America,29.4246002,-98.4951405,https://i.imgur.com/GlOI5bX.jpg,2023
-"Chicago, IL",United States,North & Central America,41.8755616,-87.6244212,https://i.imgur.com/ebWepL1.jpg,"2023, 2024"
+"Chicago, IL",United States,North & Central America,41.8755616,-87.6244212,https://i.imgur.com/ebWepL1.jpg,"2023, 2024, 2025"
 "Miami, FL",United States,North & Central America,25.7741728,-80.19362,https://i.imgur.com/EFu8fVs.jpg,2023
 "Portland, OR",United States,North & Central America,45.5202471,-122.674194,https://i.imgur.com/zozuNC4.jpg,"2023, 2024"
 "Galveston, TX",United States,North & Central America,29.3872254,-94.992736,https://i.imgur.com/kYJ0hPZ.jpg,2023
@@ -233,7 +233,7 @@ Vatican City,Vatican City,Europe,41.903411,12.4528527,https://i.imgur.com/w8ehk8
 "Tulum, QR",Mexico,North & Central America,20.2152358,-87.42953531,https://i.imgur.com/rMCunrq.jpg,"2020, 2023"
 "Playa Del Carmen, QR",Mexico,North & Central America,20.6308643,-87.0779503,https://i.imgur.com/yDNc6B1.jpg,"2020, 2023"
 Washington DC,United States,North & Central America,38.8950368,-77.0365427,https://i.imgur.com/QqT9wHb.jpg,"2021, 2022, 2023, 2024"
-"New York City, NY",United States,North & Central America,40.7127281,-74.0060152,https://i.imgur.com/C4IpcHZ.jpg,"2021, 2022, 2023, 2024"
+"New York City, NY",United States,North & Central America,40.7127281,-74.0060152,https://i.imgur.com/C4IpcHZ.jpg,"2021, 2022, 2023, 2024, 2025"
 "Philadelphia, PA",United States,North & Central America,39.9527237,-75.1635262,https://i.imgur.com/jDk011P.jpg,"2022, 2023"
 "Houston, TX",United States,North & Central America,29.7589382,-95.3676974,https://i.imgur.com/7xrNcJU.jpg,"2023, 2024"
 "Perth, WA",Australia,Oceania,-31.9558964,115.8605801,https://i.imgur.com/6AMSo5l.jpg,NA
@@ -259,8 +259,6 @@ Washington DC,United States,North & Central America,38.8950368,-77.0365427,https
 "Little Rock, AR",United States,North & Central America,34.7465071,-92.2896267,https://i.imgur.com/8hBhKv6.jpeg,2024
 "Fountain Lake, AR",United States,North & Central America,34.6109499,-92.9195139,https://i.imgur.com/PeKKVmW.jpeg,2024
 "Port Angeles, WA",United States,North & Central America,48.118146,-123.430741,https://i.imgur.com/UBsflHP.jpg,2024
-"T-Mobile Park, Seattle, WA",United States,North & Central America,47.59148535,-122.3320994,https://i.imgur.com/FtjjGUX.jpg,2024
-"Fremont Troll, Seattle WA",United States,North & Central America,47.6510483,-122.347234,https://i.imgur.com/qMGjtNY.jpeg,2024
 "Hoh Rainforest, Jefferson, WA",United States,North & Central America,47.8573608,-123.934187,https://i.imgur.com/l56dCz7.jpg,2024
 "Hurricane Ridge, Clallam, WA",United States,North & Central America,47.9690947,-123.4989758,https://i.imgur.com/wkCjhQn.jpg,2024
 "Rialto Beach, Clallam, WA",United States,North & Central America,47.9289102,-124.6410791,https://i.imgur.com/t5W7s3a.jpg,2024
@@ -279,7 +277,7 @@ Washington DC,United States,North & Central America,38.8950368,-77.0365427,https
 "Littleton, NH",United States,North & Central America,44.3063899,-71.7710705,https://i.imgur.com/JefOKnM.jpeg,2024
 "Conway, NH",United States,North & Central America,43.9784926,-71.1205372,https://i.imgur.com/jDMPQP9.jpg,2024
 "Ellsworth, ME",United States,North & Central America,44.5414596,-68.4243599,https://i.imgur.com/dOv0J1K.jpeg,2024
-"Acadia National Park, ME",United States,North & Central America,44.356311500000004,-68.21547874304889,https://i.imgur.com/AjICJTd.jpeg,2024
+"Acadia National Park, ME",United States,North & Central America,44.356311500000004,-68.21547874,https://i.imgur.com/AjICJTd.jpeg,2024
 "Falmouth, MA",United States,North & Central America,41.5514979,-70.6147519,https://i.imgur.com/a9c10Fy.jpg,2024
 "Provincetown, MA",United States,North & Central America,42.0525612,-70.1858639,https://i.imgur.com/rmzV0yo.jpeg,2024
 "Chatham, MA",United States,North & Central America,41.6820563,-69.9597376,https://i.imgur.com/jx6Y1Tg.jpeg,2024
@@ -293,8 +291,11 @@ Washington DC,United States,North & Central America,38.8950368,-77.0365427,https
 "Oak Bluffs, MA",United States,North & Central America,41.4536222,-70.5684337,https://i.imgur.com/bjz0kkv.jpeg,2024
 "Bretton Woods, NH",United States,North & Central America,44.2576311,-71.4413006,https://i.imgur.com/DYD945e.jpeg,2024
 "Lebanon, NH",United States,North & Central America,43.643032,-72.251587,https://i.imgur.com/W3j6MAc.jpg,2024
-"Fort Pulaski, GA",United States,North & Central America,32.0270564,-80.89085729907873,https://i.imgur.com/PP8NVyZ.jpeg,2024
+"Fort Pulaski, GA",United States,North & Central America,32.0270564,-80.8908573,https://i.imgur.com/PP8NVyZ.jpeg,2024
 "Savannah, GA",United States,North & Central America,32.0790074,-81.0921335,https://i.imgur.com/Izgn0Nr.jpeg,2024
 "Columbia, SC",United States,North & Central America,34.0003117,-81.0331309,https://i.imgur.com/kRcijGK.jpeg,2024
-"Congaree National Park, SC",United States,North & Central America,33.79415535,-80.7636520686356,https://i.imgur.com/uIZVQE2.jpeg,2024
+"Congaree National Park, SC",United States,North & Central America,33.79415535,-80.76365207,https://i.imgur.com/uIZVQE2.jpeg,2024
 "Hilton Head Island, SC",United States,North & Central America,32.1618488,-80.7512616,https://i.imgur.com/LVHFItL.jpeg,2024
+"Seattle, WA",United States,North & Central America,47.6038321,-122.330062,https://i.imgur.com/FtjjGUX.jpg,"2024, 2025"
+"Atlanta, GA",United States,North & Central America,33.7489924,-84.3902644,https://i.imgur.com/0xpvzhJ.jpeg,2024
+"Charleston, SC",United States,North & Central America,32.7884363,-79.9399309,https://i.imgur.com/qZBbyA7.jpeg,2024
