@@ -26,7 +26,6 @@ combined <- read_csv("combined.csv")
 # Geocode new places if latitude or longitude is missing
 if (sum(is.na(combined$lat) | is.na(combined$long)) == 0) {
   message("LIAM SAYS: There were no new places to geocode")
-  stop("Please try again with actual addresses to geocode...", call. = FALSE)
 } else {
   new_places <- combined %>%
     filter(is.na(lat) | is.na(long)) %>%
@@ -53,25 +52,42 @@ if (sum(is.na(combined$lat) | is.na(combined$long)) == 0) {
   write_csv(combined, "combined.csv")
 }
 
-# Split data into 'home' and 'away'
+# Process max year and create a discrete year group for toggling
 combined_factored <- combined %>%
-  mutate(max_year = sapply(strsplit(visited_year, ","), function(x) max(as.integer(trimws(x)))))
+  mutate(
+    max_year = sapply(strsplit(visited_year, ","), function(x) max(as.integer(trimws(x)))),
+    # THE FIX: Append a space so JavaScript treats these as strings, not sortable integers
+    year_group = ifelse(is.na(max_year) | max_year < 2008, "<2008 ", paste0(max_year, " "))
+  )
 
-home <- combined_factored %>% filter(place %in% c("Perth, WA", "Singapore, Singapore"))
-away <- combined_factored %>% filter(!place %in% c("Perth, WA", "Singapore, Singapore"))
+# Split data into 'home' and 'away'
+home_places <- c("Perth, WA", "Singapore, Singapore", "Atlanta, GA")
+home <- combined_factored %>% filter(place %in% home_places)
+away <- combined_factored %>% filter(!place %in% home_places)
 
-# Create color palettes for the map
-pal <- colorNumeric(
-  palette = viridis::turbo(n = max(combined_factored$max_year, na.rm = TRUE) - 2008),
-  domain = c(2008, max(combined_factored$max_year, na.rm = TRUE)),
+# --- STRICT SORTING LOGIC ---
+# Extract unique years, stripping the invisible space for numeric sorting
+numeric_years <- suppressWarnings(as.numeric(trimws(unique(away$year_group))))
+valid_years <- sort(numeric_years[!is.na(numeric_years)], decreasing = TRUE)
+
+# Construct the strictly ordered levels: newest to oldest, then <2008
+ordered_levels <- c(paste0(valid_years, " "), "<2008 ")
+ordered_levels <- ordered_levels[ordered_levels %in% unique(away$year_group)]
+
+# Apply the perfectly ordered factor
+away$year_group <- factor(away$year_group, levels = ordered_levels)
+
+# CRITICAL: Sort the actual data frame by this factor so Leaflet encounters them perfectly in order
+away <- away %>% arrange(year_group)
+
+unique_year_groups <- levels(away$year_group)
+# ----------------------------
+
+# Create a discrete color palette (REVERSED)
+pal_discrete <- colorFactor(
+  palette = rev(viridis::turbo(length(unique_year_groups))), # Reverses the turbo color order
+  domain = away$year_group,
   na.color = "dimgrey"
-)
-
-reverse_pal <- colorNumeric(
-  palette = viridis::turbo(n = max(combined_factored$max_year, na.rm = TRUE) - 2008),
-  domain = c(-2008, -max(combined_factored$max_year, na.rm = TRUE)),
-  na.color = "dimgrey",
-  reverse = TRUE
 )
 
 # Create the map
@@ -101,49 +117,105 @@ map <- combined_factored %>%
     data = away,
     lng = ~ long,
     lat = ~ lat,
+    group = ~ year_group,
     popup = ~ paste(
       "<b>", place, "</b><br>",
       "Years visited: ", visited_year,
       "<br><img src='", image_url, "' width='150' height='auto'/>",
       sep = ""
     ),
-    color = ~ pal(max_year),
-    stroke = FALSE,
-    fillOpacity = 0.75,
-    radius = 4.5
+    fillColor = ~ pal_discrete(year_group), 
+    stroke = FALSE,                         # Removes the border
+    fillOpacity = 0.85,
+    radius = 5.5
   ) %>%
   addLegend(
-    pal = reverse_pal,
-    data = away %>% filter(max_year >= 2008 | is.na(max_year)),
-    values = ~ (-max_year),
-    title = "Year",
+    pal = pal_discrete,
+    values = away$year_group,
+    title = "Year Visited",
     opacity = 1,
-    position = "bottomright",
-    na.label = "<2008",
-    labFormat = labelFormat(big.mark = "", transform = function(x) -x)
+    position = "bottomleft"                 
   ) %>%
   addLayersControl(
     baseGroups = c("CartoDB.Positron", "Esri.WorldTopoMap", "OpenStreetMap"),
-    options = layersControlOptions(collapsed = FALSE)
+    overlayGroups = unique_year_groups,
+    options = layersControlOptions(collapsed = TRUE) 
   ) %>%
   addProviderTiles("CartoDB.Positron", group = "CartoDB.Positron", options = providerTileOptions(minZoom = 1, maxZoom = 8)) %>%
   addProviderTiles("OpenStreetMap", group = "OpenStreetMap", options = providerTileOptions(minZoom = 1, maxZoom = 8)) %>%
-  addProviderTiles("Esri.WorldTopoMap", group = "Esri.WorldTopoMap", options = providerTileOptions(minZoom = 1, maxZoom=8)) %>%
-  leaflet::fitBounds(lng1=-90, lat1=-80, lng2=90, lat2=80) %>%
+  addProviderTiles("Esri.WorldTopoMap", group = "Esri.WorldTopoMap", options = providerTileOptions(minZoom = 1, maxZoom = 8)) %>%
+  leaflet::fitBounds(lng1 = -90, lat1 = -80, lng2 = 90, lat2 = 80) %>%
   leaflet.extras::addFullscreenControl() %>%
   leaflet.extras::addResetMapButton() %>%
-  leaflet::setView(lat=0, lng=0, zoom=1)
+  leaflet::setView(lat = 0, lng = 0, zoom = 1) %>%
+  # Inject proper Tableau-style (All) checkbox
+  htmlwidgets::onRender("
+    function(el, x) {
+      setTimeout(function() {
+        var layersControl = document.querySelector('.leaflet-control-layers-overlays');
+        if (!layersControl) return;
+
+        // Create the (All) label container
+        var allLabel = document.createElement('label');
+        allLabel.style.fontWeight = 'bold';
+        allLabel.style.borderBottom = '1px solid #ccc';
+        allLabel.style.paddingBottom = '5px';
+        allLabel.style.marginBottom = '5px';
+        
+        // Create the checkbox
+        var allCheckbox = document.createElement('input');
+        allCheckbox.type = 'checkbox';
+        allCheckbox.checked = true; // Map loads with all layers visible
+        allCheckbox.className = 'leaflet-control-layers-selector';
+        
+        // Create text
+        var allText = document.createElement('span');
+        allText.innerHTML = ' <span>(All)</span>';
+        
+        allLabel.appendChild(allCheckbox);
+        allLabel.appendChild(allText);
+        
+        // Insert at the top of the list
+        layersControl.insertBefore(allLabel, layersControl.firstChild);
+        
+        // Function to get the actual layer checkboxes
+        var getLayerCbs = function() {
+          var cbs = Array.from(layersControl.querySelectorAll('input[type=\"checkbox\"]'));
+          return cbs.filter(cb => cb !== allCheckbox);
+        };
+        
+        // 1. When (All) is clicked, toggle the others
+        allCheckbox.addEventListener('change', function(e) {
+          var isChecked = e.target.checked;
+          getLayerCbs().forEach(function(cb) {
+            if (cb.checked !== isChecked) {
+              cb.click(); // Fires Leaflet's native event
+            }
+          });
+        });
+        
+        // 2. When an individual layer is clicked, update (All) state
+        layersControl.addEventListener('change', function(e) {
+          if (e.target !== allCheckbox && e.target.type === 'checkbox') {
+            var layerCbs = getLayerCbs();
+            var allChecked = layerCbs.every(cb => cb.checked);
+            allCheckbox.checked = allChecked;
+          }
+        });
+      }, 100);
+    }
+  ")
 
 # Display the map
 map
 
-# Save/write map as widget (uncomment to use)
-map %>% saveWidget('places.html') # save as widget
+# Save/write map as widget
+map %>% saveWidget('places.html') 
 
 # Git commands
 system("git config --global user.email 'liam.k@columbia.edu'")
 system("git pull") # Pull first
-commit_message <- "update places.html map"
+commit_message <- "Fixed Leaflet JS integer sorting bug with trailing space"
 system("git add combined.csv")
 system("git add places.html")
 system("git add places.R")
