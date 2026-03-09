@@ -149,7 +149,7 @@ Jerusalem,Palestine,Middle East & North Africa,31.79592425,35.21198076,https://i
 "Acre, Israel",Israel,Middle East & North Africa,32.9281731,35.0756378,https://i.imgur.com/VqbHkN1.jpg,2022
 "Greenwood Lake, NY",United States,North & Central America,41.2225932,-74.2943178,https://i.imgur.com/9grq7AK.jpg,2022
 "Beacon, NY",United States,North & Central America,41.504879,-73.9696822,https://i.imgur.com/qAj3ISc.jpg,2022
-"New Orleans, LA",United States,North & Central America,29.9759983,-90.0782127,https://i.imgur.com/4mugHGH.jpg,"2022, 2024"
+"New Orleans, LA",United States,North & Central America,29.9759983,-90.0782127,https://i.imgur.com/4mugHGH.jpg,"2022, 2024, 2026"
 "Las Vegas, NV",United States,North & Central America,36.1672559,-115.148516,https://i.imgur.com/XvG8vyJ.jpg,2022
 "San Francisco, CA",United States,North & Central America,37.7790262,-122.419906,https://i.imgur.com/yEGVV5C.jpg,2022
 "Page, AZ",United States,North & Central America,36.9148305,-111.457294,https://i.imgur.com/chCk1Xx.jpg,2022
@@ -232,7 +232,7 @@ Vatican City,Vatican City,Europe,41.903411,12.4528527,https://i.imgur.com/w8ehk8
 "Tulum, QR",Mexico,North & Central America,20.2152358,-87.42953531,https://i.imgur.com/rMCunrq.jpg,"2020, 2023"
 "Playa Del Carmen, QR",Mexico,North & Central America,20.6308643,-87.0779503,https://i.imgur.com/yDNc6B1.jpg,"2020, 2023"
 Washington DC,United States,North & Central America,38.8950368,-77.0365427,https://i.imgur.com/QqT9wHb.jpg,"2021, 2022, 2023, 2024"
-"New York City, NY",United States,North & Central America,40.7127281,-74.0060152,https://i.imgur.com/C4IpcHZ.jpg,"2021, 2022, 2023, 2024, 2025"
+"New York City, NY",United States,North & Central America,40.7127281,-74.0060152,https://i.imgur.com/C4IpcHZ.jpg,"2021, 2022, 2023, 2024, 2025, 2026"
 "Philadelphia, PA",United States,North & Central America,39.9527237,-75.1635262,https://i.imgur.com/jDk011P.jpg,"2022, 2023"
 "Houston, TX",United States,North & Central America,29.7589382,-95.3676974,https://i.imgur.com/7xrNcJU.jpg,"2023, 2024"
 "Perth, WA",Australia,Oceania,-31.9558964,115.8605801,https://i.imgur.com/6AMSo5l.jpg,NA
@@ -302,42 +302,50 @@ Washington DC,United States,North & Central America,38.8950368,-77.0365427,https
 "Agra, Uttar Pradesh",India,South & Southeast Asia,27.1752554,78.0098161,https://i.imgur.com/omOURKT.jpeg,2025
 "Jaipur, Rajasthan",India,South & Southeast Asia,26.9154576,75.8189817,https://i.imgur.com/L6QnBa9.jpeg,2025
 "Fatehpur Sikri, Uttar Pradesh",India,South & Southeast Asia,27.0911655,77.6623984,https://i.imgur.com/ziVic6p.jpeg,2025
-New Delhi,India,South & Southeast Asia,28.64308585,77.21926706,NA,2025
+New Delhi,India,South & Southeast Asia,28.64308585,77.21926706,https://i.imgur.com/uaPsgoB.jpeg,2025
 "Surajkund, Haryana",India,South & Southeast Asia,28.48366995,77.28300604,https://i.imgur.com/IsFTtV0.jpg,2023
 "Santa Fe, NM",United States,North & Central America,35.6876096,-105.938456,https://i.imgur.com/KIA1hZn.jpeg,2025
 "Albuquerque, NM",United States,North & Central America,35.0841034,-106.650985,https://i.imgur.com/rRylnjg.jpeg,2025
 "Los Alamos, NM",United States,North & Central America,35.88137,-106.298959,https://i.imgur.com/cYVvypP.jpeg,2025
 "Kasha-Katuwe Tent Rocks, NM",United States,North & Central America,35.6578159,-106.4193173,https://i.imgur.com/mjIdldE.jpeg,2025
 "Wenatchee, WA",United States,North & Central America,47.4234599,-120.310349,https://i.imgur.com/LBR3GAA.jpeg,2025
-"Milwaukee, WI",United States,North & Central America,43.0386475,-87.9090751,NA,2025
-"Madison, WI",United States,North & Central America,43.074761,-89.3837613,NA,2025
-"Phoenix, AZ",United States,North & Central America,33.4484367,-112.074141,NA,2025
-"Scottsdale, AZ",United States,North & Central America,33.4942189,-111.926018,NA,2025
-"Medford, OR",United States,North & Central America,42.3264181,-122.8718605,NA,2025
-"Los Angeles, CA",United States,North & Central America,34.0536909,-118.242766,NA,2025
-"Eugene, OR",United States,North & Central America,44.0505054,-123.0950506,NA,2025
-"Roseburg, OR",United States,North & Central America,43.216505,-123.3417381,NA,2025
-"Grants Pass, OR",United States,North & Central America,42.4393707,-123.3272489,NA,2025
-"Crater Lake National Park, OR",United States,North & Central America,42.931692,-122.1278905,NA,2025
-"Klamath Falls, OR",United States,North & Central America,42.224867,-121.78167,NA,2025
-"Lava Beds National Monument, CA",United States,North & Central America,41.7699242,-121.5264796,NA,2025
-"Salem, OR",United States,North & Central America,44.9391565,-123.033121,NA,2025
-"Silver Falls State Park, OR",United States,North & Central America,44.8660937,-122.6235992,NA,2025
-"McMinnville, OR",United States,North & Central America,45.2100367,-123.194463,NA,2025
-"Mount Rainier, WA",United States,North & Central America,46.8522029,-121.7575158,NA,2025
-"Bellingham, WA",United States,North & Central America,48.7544012,-122.478836,NA,2025
-"Mt. Vernon, WA",United States,North & Central America,48.4200462,-122.32642,NA,2025
-"Friday Harbor, WA",United States,North & Central America,48.5342662,-123.017124,NA,2025
-"Roche Harbor, WA",United States,North & Central America,48.606785,-123.132344,NA,2025
-"Anacortes, WA",United States,North & Central America,48.516844,-122.6125717,NA,2025
-"Lynden, WA",United States,North & Central America,48.9466041,-122.4569315,NA,2025
-"Ashford, WA",United States,North & Central America,46.7544085,-122.010932,NA,2025
-"Lyon, France",France,Europe,45.7578137,4.8320114,NA,2025
-"Marseille, France",France,Europe,43.2961743,5.3699525,NA,2025
-"Chania, Crete",Greece,Europe,35.5120831,24.0191544,NA,2025
-"Heraklion, Crete",Greece,Europe,35.33908,25.1332843,NA,2025
-"St. Louis, Missouri",United States,North & Central America,38.6280278,-90.1910154,NA,2025
-Santiago de Chile,Chile,Latin America & Caribbean,-33.4489,-70.6693,NA,2025
-Valparaiso,Chile,Latin America & Caribbean,-33.0473,-71.6127,NA,2025
-"San Juan, PR",United States,North & Central America,18.465299,-66.116666,NA,2025
-"Las Tinajas Falls, PR",United States,North & Central America,18.272348,-65.728583,NA,2025
+"Milwaukee, WI",United States,North & Central America,43.0386475,-87.9090751,https://i.imgur.com/YkoITE4.jpeg,2025
+"Madison, WI",United States,North & Central America,43.074761,-89.3837613,https://i.imgur.com/EVSWOoW.jpeg,2025
+"Phoenix, AZ",United States,North & Central America,33.4484367,-112.074141,https://i.imgur.com/hdF3FOm.jpeg,2025
+"Scottsdale, AZ",United States,North & Central America,33.4942189,-111.926018,https://i.imgur.com/eXxmv0p.jpeg,2025
+"Medford, OR",United States,North & Central America,42.3264181,-122.8718605,https://i.imgur.com/hfsoYUR.jpeg,2025
+"Los Angeles, CA",United States,North & Central America,34.0536909,-118.242766,NA,"2025, 2026"
+"Eugene, OR",United States,North & Central America,44.0505054,-123.0950506,https://i.imgur.com/AgYmG7Q.jpeg,2025
+"Roseburg, OR",United States,North & Central America,43.216505,-123.3417381,https://i.imgur.com/3cQwcUa.jpeg,2025
+"Grants Pass, OR",United States,North & Central America,42.4393707,-123.3272489,https://i.imgur.com/EDDVsXf.jpeg,2025
+"Crater Lake National Park, OR",United States,North & Central America,42.931692,-122.1278905,https://i.imgur.com/uL1Gzfz.jpeg,2025
+"Klamath Falls, OR",United States,North & Central America,42.224867,-121.78167,https://i.imgur.com/wg02xpr.jpeg,2025
+"Lava Beds National Monument, CA",United States,North & Central America,41.7699242,-121.5264796,https://i.imgur.com/h2yX4cX.jpeg,2025
+"Salem, OR",United States,North & Central America,44.9391565,-123.033121,https://i.imgur.com/mmVc6et.jpeg,2025
+"Silver Falls State Park, OR",United States,North & Central America,44.8660937,-122.6235992,https://i.imgur.com/SJBdzgH.jpeg,2025
+"McMinnville, OR",United States,North & Central America,45.2100367,-123.194463,https://i.imgur.com/JSlj19K.jpeg,2025
+"Mount Rainier, WA",United States,North & Central America,46.8522029,-121.7575158,https://i.imgur.com/fPKwAh7.jpeg,2025
+"Bellingham, WA",United States,North & Central America,48.7544012,-122.478836,https://i.imgur.com/3xdqDkw.jpeg,2025
+"Mt. Vernon, WA",United States,North & Central America,48.4200462,-122.32642,https://i.imgur.com/Kvt07OD.jpeg,2025
+"Friday Harbor, WA",United States,North & Central America,48.5342662,-123.017124,https://i.imgur.com/gzPSUgm.jpeg,2025
+"Roche Harbor, WA",United States,North & Central America,48.606785,-123.132344,https://i.imgur.com/cEkqlZG.jpeg,2025
+"Anacortes, WA",United States,North & Central America,48.516844,-122.6125717,https://i.imgur.com/E1ls45l.jpeg,2025
+"Lynden, WA",United States,North & Central America,48.9466041,-122.4569315,https://i.imgur.com/S1GEhsU.jpeg,2025
+"Ashford, WA",United States,North & Central America,46.7544085,-122.010932,https://i.imgur.com/uq6Rnk8.jpeg,2025
+Lyon,France,Europe,45.7578137,4.8320114,https://i.imgur.com/WyxotoJ.jpeg,2025
+Marseille,France,Europe,43.2961743,5.3699525,https://i.imgur.com/sOs8hik.jpeg,2025
+"Chania, Crete",Greece,Europe,35.5120831,24.0191544,https://i.imgur.com/potBlrB.jpeg,2025
+"Heraklion, Crete",Greece,Europe,35.33908,25.1332843,https://i.imgur.com/nlgkZ7u.jpeg,2025
+"St. Louis, Missouri",United States,North & Central America,38.6280278,-90.1910154,https://i.imgur.com/aghbBoR.jpeg,2025
+Santiago de Chile,Chile,Latin America & Caribbean,-33.4489,-70.6693,https://i.imgur.com/FVtwJNT.jpeg,2025
+Valparaiso,Chile,Latin America & Caribbean,-33.0473,-71.6127,https://i.imgur.com/QdCnyOJ.jpeg,2025
+"San Juan, PR",United States,North & Central America,18.465299,-66.116666,https://i.imgur.com/eTvmIck.jpeg,2025
+"Las Tinajas Falls, PR",United States,North & Central America,18.272348,-65.728583,https://i.imgur.com/9u70NiN.jpeg,2025
+"Memphis, TN",United States,North & Central America,35.1460249,-90.0517638,https://i.imgur.com/T80NslH.jpeg,2026
+Buenos Aires,Argentina,Latin America & Caribbean,-34.6095579,-58.3887904,https://i.imgur.com/fYiMMBb.jpeg,2026
+Medellin,Colombia,North & Central America,6.2697325,-75.6025597,https://i.imgur.com/2hKJLzB.jpeg,2026
+Guatape,Colombia,North & Central America,6.2342179,-75.1617452,https://i.imgur.com/Cgt2W00.jpeg,2026
+"White Plains, NY",United States,North & Central America,41.0339862,-73.7629097,https://i.imgur.com/0bPxybH.jpeg,2025
+North Cascades National Park,United States,North & Central America,48.8083485,-121.406215,https://i.imgur.com/94baQXj.jpeg,2025
+Cartagena de Indias,Colombia,North & Central America,10.4265566,-75.5441671,https://i.imgur.com/JdHaNkO.jpeg,2026
+Plage de Saint-Esteve,France,Europe,43.2841607,5.3155146,https://i.imgur.com/rPDxBhp.jpeg,2025
