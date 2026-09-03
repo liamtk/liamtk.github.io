@@ -19,7 +19,7 @@ place,country,region,lat,long,image_url,visited_year
 "Suva, Fiji",Fiji,Oceania,-18.1415884,178.4421662,https://i.imgur.com/enceNb7.png,2008
 "Nadi, Fiji",Fiji,Oceania,-17.7992725,177.4178549,https://i.imgur.com/roS5MmB.png,2008
 "Darwin, NT",Australia,Oceania,-12.46044,130.8410469,https://i.imgur.com/kVGwDWj.jpg,2009
-"Paris, France",France,Europe,48.8588897,2.320041022,https://i.imgur.com/D82zSqR.jpg,"2009, 2025"
+"Paris, France",France,Europe,48.8588897,2.320041022,https://i.imgur.com/D82zSqR.jpg,"2009, 2025, 2026"
 "Bourg-Saint-Maurice, France",France,Europe,45.6185284,6.7694313,https://i.imgur.com/9OyAVNW.jpg,2009
 "Muar, Malaysia",Malaysia,South & Southeast Asia,2.05,102.5666667,https://i.imgur.com/GKDY1TA.jpg,2009
 "Malacca, Malaysia",Malaysia,South & Southeast Asia,2.3293744,102.2880962,https://i.imgur.com/ifryTy6.jpg,2009
@@ -101,11 +101,11 @@ Kuala Lumpur,Malaysia,South & Southeast Asia,3.1516964,101.6942371,https://i.img
 "Porto, Portugal",Portugal,Europe,41.1494512,-8.6107884,https://i.imgur.com/rhsdbhz.jpg,2018
 "Aarhus, Denmark",Denmark,Europe,56.1496278,10.2134046,https://i.imgur.com/Ha4PMBU.jpg,2018
 "Prague, Czechia",Czechia,Europe,50.0874654,14.4212535,https://i.imgur.com/ISxRnIq.jpg,2018
-"Vienna, Austria",Austria,Europe,48.2083537,16.3725042,https://i.imgur.com/sAdBddr.jpg,2018
+"Vienna, Austria",Austria,Europe,48.2083537,16.3725042,https://i.imgur.com/sAdBddr.jpg,"2018, 2026"
 "Salzburg, Austria",Austria,Europe,47.7981346,13.0464806,https://i.imgur.com/TROmeIq.jpg,2018
 "Melk, Austria",Austria,Europe,48.2272068,15.3369992,https://i.imgur.com/wZZschN.jpg,2018
 "Bratislava, Slovakia",Slovakia,Europe,48.1516988,17.1093063,https://i.imgur.com/XuSSPpS.jpg,2018
-"Budapest, Hungary",Hungary,Europe,47.48138955,19.14609413,https://i.imgur.com/R3SwO3N.jpg,2018
+"Budapest, Hungary",Hungary,Europe,47.48138955,19.14609413,https://i.imgur.com/R3SwO3N.jpg,"2018, 2026"
 "Hallstatt, Austria",Austria,Europe,47.5621698,13.6486697,https://i.imgur.com/ntNw6Y1.jpg,2018
 "Cesky Krumlov, Czechia",Czechia,Europe,48.80511495,14.31619779,https://i.imgur.com/8dW5Ufg.jpg,2018
 "Donostia, Basque Country",Spain,Europe,43.3224219,-1.9838889,https://i.imgur.com/rQRQKRN.jpg,2018
@@ -117,7 +117,7 @@ Kuala Lumpur,Malaysia,South & Southeast Asia,3.1516964,101.6942371,https://i.img
 "Oaxaca, OA",Mexico,North & Central America,17,-96.5,https://i.imgur.com/KPWRWMh.jpg,2020
 "Merida, YU",Mexico,North & Central America,20.9670759,-89.6237402,https://i.imgur.com/keDA0Wt.jpg,2020
 "Valladolid, YU",Mexico,North & Central America,20.6902505,-88.2016999,https://i.imgur.com/o5QVHaR.jpg,2020
-"Ciudad De Mexico, Mexico",Mexico,North & Central America,19.4326296,-99.1331785,https://i.imgur.com/7PXuDCk.jpg,2020
+"Ciudad De Mexico, Mexico",Mexico,North & Central America,19.4326296,-99.1331785,https://i.imgur.com/7PXuDCk.jpg,"2020, 2026"
 "Uxmal, Mexico",Mexico,North & Central America,20.3591787,-89.7717568,https://i.imgur.com/YQCkXo1.jpg,2020
 "Islas Ballestas, Peru",Peru,Latin America & Caribbean,-13.7359794,-76.39441336,https://i.imgur.com/9xp5B63.jpg,2020
 "Lima, Peru",Peru,Latin America & Caribbean,-12.0621065,-77.0365256,https://i.imgur.com/T5l1BGs.jpg,2020
@@ -266,7 +266,7 @@ Washington DC,United States,North & Central America,38.8950368,-77.0365427,https
 "College Station, TX",United States,North & Central America,30.6183939,-96.3455991,https://i.imgur.com/BAsrx3w.jpg,2024
 "Boulder, CO",United States,North & Central America,40.0149856,-105.270545,https://i.imgur.com/yrA3CUa.jpg,2024
 "Red Rocks Park, CO",United States,North & Central America,39.6645304,-105.2022721,https://i.imgur.com/s9Vk5CT.jpg,2024
-"Nashville, TN",United States,North & Central America,36.1622767,-86.7742984,https://i.imgur.com/9ToBtPW.jpeg,2024
+"Nashville, TN",United States,North & Central America,36.1622767,-86.7742984,https://i.imgur.com/9ToBtPW.jpeg,"2024, 2026"
 "El Palmar, Valencia, Spain",Spain,Europe,39.3115981,-0.3176809,https://i.imgur.com/ew0CJ70.jpeg,2024
 "Valencia, Spain",Spain,Europe,39.4697065,-0.3763353,https://i.imgur.com/HPlLYSx.jpeg,2024
 "Malaga, Spain",Spain,Europe,36.7213028,-4.4216366,https://i.imgur.com/eXqDEBB.jpeg,2024
@@ -295,8 +295,8 @@ Washington DC,United States,North & Central America,38.8950368,-77.0365427,https
 "Columbia, SC",United States,North & Central America,34.0003117,-81.0331309,https://i.imgur.com/kRcijGK.jpeg,2024
 "Congaree National Park, SC",United States,North & Central America,33.79415535,-80.76365207,https://i.imgur.com/uIZVQE2.jpeg,2024
 "Hilton Head Island, SC",United States,North & Central America,32.1618488,-80.7512616,https://i.imgur.com/LVHFItL.jpeg,2024
-"Seattle, WA",United States,North & Central America,47.6038321,-122.330062,https://i.imgur.com/FtjjGUX.jpg,"2024, 2025"
-"Atlanta, GA",United States,North & Central America,33.7489924,-84.3902644,https://i.imgur.com/0xpvzhJ.jpeg,"2024, 2025"
+"Seattle, WA",United States,North & Central America,47.6038321,-122.330062,https://i.imgur.com/FtjjGUX.jpg,"2024, 2025, 2026"
+"Atlanta, GA",United States,North & Central America,33.7489924,-84.3902644,https://i.imgur.com/0xpvzhJ.jpeg,"2024, 2025, 2026"
 "Charleston, SC",United States,North & Central America,32.7884363,-79.9399309,https://i.imgur.com/qZBbyA7.jpeg,2024
 "Lucknow, Uttar Pradesh",India,South & Southeast Asia,26.8381,80.9346001,https://i.imgur.com/E3sv2dZ.jpeg,2025
 "Agra, Uttar Pradesh",India,South & Southeast Asia,27.1752554,78.0098161,https://i.imgur.com/omOURKT.jpeg,2025
@@ -312,7 +312,7 @@ New Delhi,India,South & Southeast Asia,28.64308585,77.21926706,https://i.imgur.c
 "Milwaukee, WI",United States,North & Central America,43.0386475,-87.9090751,https://i.imgur.com/YkoITE4.jpeg,2025
 "Madison, WI",United States,North & Central America,43.074761,-89.3837613,https://i.imgur.com/EVSWOoW.jpeg,2025
 "Phoenix, AZ",United States,North & Central America,33.4484367,-112.074141,https://i.imgur.com/hdF3FOm.jpeg,2025
-"Scottsdale, AZ",United States,North & Central America,33.4942189,-111.926018,https://i.imgur.com/eXxmv0p.jpeg,2025
+"Scottsdale, AZ",United States,North & Central America,33.4942189,-111.926018,https://i.imgur.com/eXxmv0p.jpeg,"2025, 2026"
 "Medford, OR",United States,North & Central America,42.3264181,-122.8718605,https://i.imgur.com/hfsoYUR.jpeg,2025
 "Los Angeles, CA",United States,North & Central America,34.0536909,-118.242766,NA,"2025, 2026"
 "Eugene, OR",United States,North & Central America,44.0505054,-123.0950506,https://i.imgur.com/AgYmG7Q.jpeg,2025
@@ -349,3 +349,22 @@ Guatape,Colombia,North & Central America,6.2342179,-75.1617452,https://i.imgur.c
 North Cascades National Park,United States,North & Central America,48.8083485,-121.406215,https://i.imgur.com/94baQXj.jpeg,2025
 Cartagena de Indias,Colombia,North & Central America,10.4265566,-75.5441671,https://i.imgur.com/JdHaNkO.jpeg,2026
 Plage de Saint-Esteve,France,Europe,43.2841607,5.3155146,https://i.imgur.com/rPDxBhp.jpeg,2025
+"Minneapolis, MN",United States,North & Central America,44.9772995,-93.2654692,NA,2026
+"Bloomington, MN",United States,North & Central America,44.8322405,-93.3204872,NA,2026
+"Puebla, PU",Mexico,North & Central America,19.0437196,-98.1981486,NA,2026
+"Tucson, AZ",United States,North & Central America,32.2228765,-110.974847,NA,2026
+"Mount Lemmon, AZ",United States,North & Central America,32.44244,-110.7890261,NA,2026
+Rennes,France,Europe,48.1113387,-1.6800198,NA,2026
+Lougivy de la Mer,France,Europe,NA,NA,NA,2026
+Paimpol,France,Europe,48.7794818,-3.0484022,NA,2026
+Dinan,France,Europe,48.4539775,-2.047687,NA,2026
+Saint-Malo,France,Europe,48.649518,-2.0260409,NA,2026
+Mont-Saint-Michel,France,Europe,48.6359541,-1.51146,NA,2026
+Cancale,France,Europe,48.6771721,-1.8506953,NA,2026
+"Chattanooga, TN",United States,North & Central America,35.0457219,-85.3094883,NA,2026
+"Greenville, SC",United States,North & Central America,34.851354,-82.3984882,NA,2026
+Rothenburg,Germany,Europe,51.3333094,14.9666932,NA,2026
+Munich,Germany,Europe,48.1371079,11.5753822,NA,2026
+Wurzburg,Germany,Europe,49.7780356,9.9434769,NA,2026
+Toronto,Canada,North & Central America,43.6534817,-79.3839347,NA,2026
+Niagara Falls,Canada,North & Central America,43.084841,-79.0701786,NA,2026
