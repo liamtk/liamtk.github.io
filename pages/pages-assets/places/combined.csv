@@ -150,7 +150,7 @@ Jerusalem,Palestine,Middle East & North Africa,31.79592425,35.21198076,https://i
 "Greenwood Lake, NY",United States,North & Central America,41.2225932,-74.2943178,https://i.imgur.com/9grq7AK.jpg,2022
 "Beacon, NY",United States,North & Central America,41.504879,-73.9696822,https://i.imgur.com/qAj3ISc.jpg,2022
 "New Orleans, LA",United States,North & Central America,29.9759983,-90.0782127,https://i.imgur.com/4mugHGH.jpg,"2022, 2024, 2026"
-"Las Vegas, NV",United States,North & Central America,36.1672559,-115.148516,https://i.imgur.com/XvG8vyJ.jpg,2022
+"Las Vegas, NV",United States,North & Central America,36.1672559,-115.148516,https://i.imgur.com/XvG8vyJ.jpg,"2022, 2026"
 "San Francisco, CA",United States,North & Central America,37.7790262,-122.419906,https://i.imgur.com/yEGVV5C.jpg,2022
 "Page, AZ",United States,North & Central America,36.9148305,-111.457294,https://i.imgur.com/chCk1Xx.jpg,2022
 "Tusayan, AZ",United States,North & Central America,35.9735954,-112.126556,https://i.imgur.com/4Zcp29o.jpg,2022
@@ -200,7 +200,7 @@ Jerusalem,Palestine,Middle East & North Africa,31.79592425,35.21198076,https://i
 "Dallas, TX",United States,North & Central America,32.7762719,-96.7968559,https://i.imgur.com/MPvkgQM.jpg,"2023, 2024"
 "Fort Worth ,TX",United States,North & Central America,32.753177,-97.3327459,https://i.imgur.com/0pmkUh0.jpg,2023
 "The Woodlands, TX",United States,North & Central America,30.1734194,-95.504686,https://i.imgur.com/CNZYfsJ.jpg,"2023, 2024"
-"San Miguel de Cozumel, QR",Mexico,North & Central America,20.5014305,-86.9435851,https://i.imgur.com/NaxEy4L.jpg,2023
+"San Miguel de Cozumel, QR",Mexico,North & Central America,20.5014305,-86.9435851,https://i.imgur.com/NaxEy4L.jpg,"2023, 2026"
 "El Mirador, Cozumel, QR",Mexico,North & Central America,20.31745,-86.929348,https://i.imgur.com/pWbRXWj.jpg,2023
 "Chetumal, QR",Mexico,North & Central America,18.5081738,-88.297144,https://i.imgur.com/Yi2tRt9.jpg,2023
 "Bacalar, QR",Mexico,North & Central America,18.6782559,-88.3922556,https://i.imgur.com/YFmuI5w.jpg,2023
@@ -230,7 +230,7 @@ Vatican City,Vatican City,Europe,41.903411,12.4528527,https://i.imgur.com/w8ehk8
 "Bangkok, Thailand",Thailand,South & Southeast Asia,13.7524938,100.4935089,https://i.imgur.com/a27M4Vb.jpg,"2017, 2019"
 "Penang, Malaysia",Malaysia,South & Southeast Asia,5.4065013,100.2559077,https://i.imgur.com/myxS74j.jpg,"2019, 2020"
 "Tulum, QR",Mexico,North & Central America,20.2152358,-87.42953531,https://i.imgur.com/rMCunrq.jpg,"2020, 2023"
-"Playa Del Carmen, QR",Mexico,North & Central America,20.6308643,-87.0779503,https://i.imgur.com/yDNc6B1.jpg,"2020, 2023"
+"Playa Del Carmen, QR",Mexico,North & Central America,20.6308643,-87.0779503,https://i.imgur.com/yDNc6B1.jpg,"2020, 2023, 2026"
 Washington DC,United States,North & Central America,38.8950368,-77.0365427,https://i.imgur.com/QqT9wHb.jpg,"2021, 2022, 2023, 2024"
 "New York City, NY",United States,North & Central America,40.7127281,-74.0060152,https://i.imgur.com/C4IpcHZ.jpg,"2021, 2022, 2023, 2024, 2025, 2026"
 "Philadelphia, PA",United States,North & Central America,39.9527237,-75.1635262,https://i.imgur.com/jDk011P.jpg,"2022, 2023"
@@ -311,7 +311,7 @@ New Delhi,India,South & Southeast Asia,28.64308585,77.21926706,https://i.imgur.c
 "Wenatchee, WA",United States,North & Central America,47.4234599,-120.310349,https://i.imgur.com/LBR3GAA.jpeg,2025
 "Milwaukee, WI",United States,North & Central America,43.0386475,-87.9090751,https://i.imgur.com/YkoITE4.jpeg,2025
 "Madison, WI",United States,North & Central America,43.074761,-89.3837613,https://i.imgur.com/EVSWOoW.jpeg,2025
-"Phoenix, AZ",United States,North & Central America,33.4484367,-112.074141,https://i.imgur.com/hdF3FOm.jpeg,2025
+"Phoenix, AZ",United States,North & Central America,33.4484367,-112.074141,https://i.imgur.com/hdF3FOm.jpeg,"2025, 2026"
 "Scottsdale, AZ",United States,North & Central America,33.4942189,-111.926018,https://i.imgur.com/eXxmv0p.jpeg,"2025, 2026"
 "Medford, OR",United States,North & Central America,42.3264181,-122.8718605,https://i.imgur.com/hfsoYUR.jpeg,2025
 "Los Angeles, CA",United States,North & Central America,34.0536909,-118.242766,NA,"2025, 2026"
@@ -371,3 +371,4 @@ Loguivy de la Mer,France,Europe,48.8193208,-3.0631517,NA,2026
 "Cancun, QR",Mexico,North & Central America,21.1437621,-86.7773459,NA,2026
 Nassau,Bahamas,North & Central America,25.0782266,-77.3383438,NA,2026
 Brussels,Belgium,Europe,50.8467372,4.352493,NA,2026
+"Mesa, AZ",United States,North & Central America,33.4151005,-111.831455,NA,2026
