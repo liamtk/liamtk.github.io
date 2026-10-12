@@ -104,7 +104,7 @@ Kuala Lumpur,Malaysia,South & Southeast Asia,3.1516964,101.6942371,https://i.img
 "Vienna, Austria",Austria,Europe,48.2083537,16.3725042,https://i.imgur.com/sAdBddr.jpg,"2018, 2026"
 "Salzburg, Austria",Austria,Europe,47.7981346,13.0464806,https://i.imgur.com/TROmeIq.jpg,2018
 "Melk, Austria",Austria,Europe,48.2272068,15.3369992,https://i.imgur.com/wZZschN.jpg,2018
-"Bratislava, Slovakia",Slovakia,Europe,48.1516988,17.1093063,https://i.imgur.com/XuSSPpS.jpg,2018
+"Bratislava, Slovakia",Slovakia,Europe,48.1516988,17.1093063,https://i.imgur.com/XuSSPpS.jpg,"2018, 2026"
 "Budapest, Hungary",Hungary,Europe,47.48138955,19.14609413,https://i.imgur.com/R3SwO3N.jpg,"2018, 2026"
 "Hallstatt, Austria",Austria,Europe,47.5621698,13.6486697,https://i.imgur.com/ntNw6Y1.jpg,2018
 "Cesky Krumlov, Czechia",Czechia,Europe,48.80511495,14.31619779,https://i.imgur.com/8dW5Ufg.jpg,2018
@@ -221,11 +221,11 @@ Hong Kong SAR,Hong Kong SAR,North & East Asia,22.350627,114.1849161,https://i.im
 "Barcelona, Catalunya",Spain,Europe,41.3828939,2.1774322,https://i.imgur.com/mOD2zcz.jpg,"2015, 2018"
 "Madrid, Spain",Spain,Europe,40.4167047,-3.7035825,https://i.imgur.com/gkzyw5d.jpg,"2015, 2018"
 "Bilbao, Basque Country",Spain,Europe,43.2630018,-2.9350039,https://i.imgur.com/Hyee1jw.jpg,"2015, 2018"
-"London, UK",United Kingdom,Europe,51.5073359,-0.12765,https://i.imgur.com/nlIRIfk.jpg,"2015, 2018, 2023, 2024,2025"
+"London, UK",United Kingdom,Europe,51.5073359,-0.12765,https://i.imgur.com/nlIRIfk.jpg,"2015, 2018, 2023, 2024, 2025"
 "Rome, Italy",Italy,Europe,41.8933203,12.4829321,https://i.imgur.com/IgbjkJs.jpg,"2015, 2022"
 "Naples, Italy",Italy,Europe,40.8358846,14.2487679,https://i.imgur.com/p99T6wb.jpg,"2015, 2022"
 Vatican City,Vatican City,Europe,41.903411,12.4528527,https://i.imgur.com/w8ehk87.jpg,"2015, 2022"
-"Amsterdam, Netherlands",Netherlands,Europe,52.3730796,4.8924534,https://i.imgur.com/WqjLuHw.jpg,"2015, 2022, 2023"
+"Amsterdam, Netherlands",Netherlands,Europe,52.3730796,4.8924534,https://i.imgur.com/WqjLuHw.jpg,"2015, 2022, 2023, 2026"
 "Canberra, ACT",Australia,Oceania,-35.2975906,149.1012676,https://i.imgur.com/zICtkCe.jpg,"2016, 2017, 2019, 2020"
 "Bangkok, Thailand",Thailand,South & Southeast Asia,13.7524938,100.4935089,https://i.imgur.com/a27M4Vb.jpg,"2017, 2019"
 "Penang, Malaysia",Malaysia,South & Southeast Asia,5.4065013,100.2559077,https://i.imgur.com/myxS74j.jpg,"2019, 2020"
@@ -372,3 +372,6 @@ Loguivy de la Mer,France,Europe,48.8193208,-3.0631517,NA,2026
 Nassau,Bahamas,North & Central America,25.0782266,-77.3383438,NA,2026
 Brussels,Belgium,Europe,50.8467372,4.352493,NA,2026
 "Mesa, AZ",United States,North & Central America,33.4151005,-111.831455,NA,2026
+Esztergom,Hungary,Europe,47.7856939,18.7403377,NA,2018
+Szentendre,Hungary,Europe,47.6677606,19.0760467,NA,2018
+"Vasztely, Csabdi",Hungary,Europe,47.5537352,18.5973608,NA,2026
