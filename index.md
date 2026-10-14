@@ -1,6 +1,6 @@
 ## Hi, my name is Liam :-)
 
-I'm a Columbia [SIPA](https://www.sipa.columbia.edu/)-[QMSS](https://www.qmss.columbia.edu/) double Master's graduate and [Fulbright Scholar](https://www.fulbright.org.au/scholarships/anne-wexler-australian/) with deep interests in data science and quantitative applications to economic policy, international trade and financial markets. Aussie-Singaporean. Food, travel and nature lover. Always curious. Currently working as a senior research associate at [M Science](https://mscience.com/).
+I'm a Columbia [SIPA](https://www.sipa.columbia.edu/)-[QMSS](https://www.qmss.columbia.edu/) double Master's graduate and [Fulbright Scholar](https://www.fulbright.org.au/scholarships/anne-wexler-australian/) with deep interests in data science and quantitative applications to economic policy, international trade and financial markets. Aussie-Singaporean. Food, travel and nature lover. Always curious. Currently working as a senior data scientist at [M Science](https://mscience.com/).
 
 - **Email**: [liam.k@columbia.edu](mailto:liam.k@columbia.edu)
 - **LinkedIn**: [https://www.linkedin.com/in/liamtaykearney](https://www.linkedin.com/in/liamtaykearney)
@@ -163,22 +163,29 @@ I'm a Columbia [SIPA](https://www.sipa.columbia.edu/)-[QMSS](https://www.qmss.co
 <h2 onclick="toggleExperience()" style="cursor: pointer;">Experience ►</h2>
 <div id="experience" style="display: none;">
     <ul>
-        <li><strong>M Science</strong> - Senior Research Associate (2023-present)</li>
-        <li><strong>University of Pennsylvania</strong> - Research Data Analyst (2022-present)</li>
+        <li><strong>M Science</strong>
+            <ul>
+                <li>Senior Data Scientist (2026–present)</li>
+                <li>Senior Equity Research Associate (2024–2026)</li>
+                <li>Equity Research Associate (2023–2024)</li>
+            </ul>
+        </li>
+        <li><strong>University of Pennsylvania</strong> - Research Analyst, Geospatial Data (2022–2023)</li>
         <li><strong>Citi Global Wealth</strong> - Grad. Consultant, Investment Research (Fall 2022)</li>
-        <li><strong>Columbia SIPA</strong> - Research Assistant, Data Science & Public Policy (2021-22)</li>
-        <li><strong>Columbia SIPA</strong> - Teaching Assistant, R for Policy Research (2021-22)</li>
+        <li><strong>Columbia SIPA</strong> - Research Assistant, Data Science & Public Policy (2021–2022)</li>
+        <li><strong>Columbia SIPA</strong> - Teaching Assistant, R for Policy Research (2021–2022)</li>
         <li><strong>Australian Embassy, Beijing</strong> - Public Affairs Assistant (2018)</li>
-        <li><strong>UN Capital Development Fund</strong> - Junior Research Analyst (2017)</li>
+        <li><strong>UN Capital Development Fund</strong> - Junior Research Analyst (2017–2018)</li>
         <li><strong>Internships:</strong>
             <ul>
-                <li>Asia Society Policy Institute (Washington, 2022)</li>
+                <li>Asia Society Policy Institute (Washington, 2021)</li>
                 <li>KPMG Global China Practice (Beijing, 2018)</li>
                 <li>Westpac Institutional Bank (Sydney, 2017)</li>
             </ul>
         </li>
     </ul>
 </div>
+
 
 
 
